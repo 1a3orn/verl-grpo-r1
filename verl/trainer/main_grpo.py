@@ -29,13 +29,12 @@ def _default_compute_score(data_source, solution_str, ground_truth):
 
 
 class RewardManager():
-    """The reward manager.
-    """
+    """The reward manager."""
 
-    def __init__(self, tokenizer, num_examine, compute_score=None) -> None:
+    def __init__(self, tokenizer, num_examine) -> None:
         self.tokenizer = tokenizer
         self.num_examine = num_examine  # the number of batches of decoded responses to print to the console
-        self.compute_score = compute_score or _default_compute_score
+        self.compute_score = _default_compute_score
 
     def __call__(self, data: DataProto):
         """We will expand this function gradually based on the available datasets"""
@@ -96,16 +95,16 @@ def main(config):
     run_ppo(config)
 
 
-def run_ppo(config, compute_score=None):
+def run_ppo(config):
     if not ray.is_initialized():
         # this is for local ray cluster
         ray.init(runtime_env={'env_vars': {'TOKENIZERS_PARALLELISM': 'true', 'NCCL_DEBUG': 'WARN'}})
 
-    ray.get(main_task.remote(config, compute_score))
+    ray.get(main_task.remote(config))
 
 
 @ray.remote
-def main_task(config, compute_score=None):
+def main_task(config):
     from verl.utils.fs import copy_local_path_from_hdfs
     from transformers import AutoTokenizer
 
@@ -165,10 +164,10 @@ def main_task(config, compute_score=None):
         role_worker_mapping[Role.RewardModel] = ray.remote(RewardModelWorker)
         mapping[Role.RewardModel] = global_pool_id
 
-    reward_fn = RewardManager(tokenizer=tokenizer, num_examine=0, compute_score=compute_score)
+    reward_fn = RewardManager(tokenizer=tokenizer, num_examine=0)
 
     # Note that we always use function-based RM for validation
-    val_reward_fn = RewardManager(tokenizer=tokenizer, num_examine=1, compute_score=compute_score)
+    val_reward_fn = RewardManager(tokenizer=tokenizer, num_examine=2)
 
     resource_pool_manager = ResourcePoolManager(resource_pool_spec=resource_pool_spec, mapping=mapping)
 
