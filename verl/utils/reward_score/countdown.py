@@ -53,7 +53,7 @@ def is_answer_correct(answer_attempt: str, target: int, available_numbers: list)
 
 def compute_score(solution_str, ground_truth, method='strict', format_score=0., score=1.):
 
-    if is_answer_correct(solution_str, ground_truth["target"], ground_truth["available_numbers"]):
+    if is_answer_correct(solution_str, ground_truth["target"], ground_truth["numbers"]):
         return score
     else:
 

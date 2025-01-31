@@ -13,8 +13,12 @@ conda create -n zero python=3.9
 conda activate zero
 
 pip install torch==2.4.0 --index-url https://download.pytorch.org/whl/cu121
+
+(maybe first conda install pytorch cuda-toolkit nvcc -c pytorch -c nvidia)
 pip install vllm==0.6.3 # or you can install 0.5.4, 0.4.2 and 0.3.1
 pip install ray
+
+pip install -r requirements.txt
 
 pip install flash-attn --no-build-isolation
 pip install wandb IPython matplotlib
