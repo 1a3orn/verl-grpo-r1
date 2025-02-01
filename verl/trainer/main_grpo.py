@@ -51,7 +51,6 @@ class RewardManager():
             data_item = data[i]  # DataProtoItem
 
             prompt_ids = data_item.batch['prompts']
-
             prompt_length = prompt_ids.shape[-1]
 
             valid_prompt_length = data_item.batch['attention_mask'][:prompt_length].sum()
@@ -98,7 +97,8 @@ def main(config):
 def run_ppo(config):
     if not ray.is_initialized():
         # this is for local ray cluster
-        ray.init(runtime_env={'env_vars': {'TOKENIZERS_PARALLELISM': 'true', 'NCCL_DEBUG': 'WARN'}})
+        env = {'env_vars': {'TOKENIZERS_PARALLELISM': 'true', 'NCCL_DEBUG': 'WARN'}}
+        ray.init(runtime_env=env)
 
     ray.get(main_task.remote(config))
 
