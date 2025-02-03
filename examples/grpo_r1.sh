@@ -5,7 +5,7 @@ export VLLM_ATTENTION_BACKEND=XFORMERS
 python3 -m verl.trainer.main_grpo \
     algorithm.adv_estimator=grpo \
     data.train_files=$DATA_DIR/all_train.parquet \
-    data.val_files=[$DATA_DIR/all_test.parquet,$DATA_DIR/all_off_six.parquet,$DATA_DIR/all_off_seven.parquet,$DATA_DIR/all_off_eight.parquet] \
+    data.val_files=[$DATA_DIR/all_test.parquet,$DATA_DIR/all_off_six.parquet,$DATA_DIR/all_off_seven.parquet,$DATA_DIR/all_sum.parquet,$DATA_DIR/all_sort_odd.parquet] \
     data.train_batch_size=128 \
     data.val_batch_size=32 \
     data.max_prompt_length=512 \
