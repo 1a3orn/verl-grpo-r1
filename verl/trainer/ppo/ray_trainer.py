@@ -427,7 +427,9 @@ class RayPPOTrainer(object):
 
             test_batch = test_batch.union(test_output_gen_batch)
 
-
+            output_dir = os.path.join(self.config.trainer.default_local_dir, 'validation_outputs')
+            os.makedirs(output_dir, exist_ok=True)
+        
             for data_source in set(test_batch.non_tensor_batch.get('data_source', ['unknown'])):
                 output_file = os.path.join(output_dir, f'{self.validation_counter:02d}_{data_source}.txt')
                 
