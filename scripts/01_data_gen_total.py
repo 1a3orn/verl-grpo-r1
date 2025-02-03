@@ -21,7 +21,7 @@ def main():
             "generate_fn": lambda: [generate_countdown_data_one(
                 num_numbers_range=(3, 5),
                 numbers_range=(1, 100),
-                randomize_phrasing=True
+                randomize_phrasing=False
             ) for _ in range(150000)]
         },
         {
