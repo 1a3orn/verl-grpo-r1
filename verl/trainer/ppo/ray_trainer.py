@@ -289,9 +289,7 @@ def _timer(name: str, timing_raw: Dict[str, float]):
 
 
 class RayPPOTrainer(object):
-    """
-    Note that this trainer runs on the driver process on a single CPU/GPU node.
-    """
+    """ This trainer runs on the driver process on a single CPU/GPU node."""
 
     # TODO: support each role have individual ray_worker_group_cls,
     # i.e., support different backend of different role
@@ -397,6 +395,12 @@ class RayPPOTrainer(object):
     def _validate(self):
         reward_tensor_lst = []
         data_source_lst = []
+
+        # Add validation counter as class variable if not exists
+        if not hasattr(self, 'validation_counter'):
+            self.validation_counter = 0
+        self.validation_counter += 1
+
         for test_data in self.val_dataloader:
             test_batch = DataProto.from_single_dict(test_data)
             # test_batch = test_batch.to('cuda')
@@ -422,6 +426,31 @@ class RayPPOTrainer(object):
             print('validation generation end')
 
             test_batch = test_batch.union(test_output_gen_batch)
+
+
+
+
+            for data_source in set(test_batch.non_tensor_batch.get('data_source', ['unknown'])):
+            output_file = os.path.join(output_dir, f'{self.validation_counter:02d}_{data_source}.txt')
+            
+            with open(output_file, 'w', encoding='utf-8') as f:
+                # Get indices for this data source
+                indices = [i for i, ds in enumerate(test_batch.non_tensor_batch.get('data_source', ['unknown'] * len(test_batch))) if ds == data_source]
+                
+                for idx in indices:
+                    # Get prompt and response
+                    input_ids = test_gen_batch.batch['input_ids'][idx]
+                    generated_ids = test_output_gen_batch.batch['responses'][idx]
+                    
+                    prompt = self.tokenizer.decode(input_ids, skip_special_tokens=True)
+                    response = self.tokenizer.decode(generated_ids, skip_special_tokens=True)
+                    
+                    f.write(f"Prompt: {prompt}\n")
+                    f.write(f"Response: {response}\n")
+                    f.write("-" * 80 + "\n")
+
+
+
 
             # evaluate using reward_function
             # for certain reward function (e.g. sandbox), the generation can overlap with reward

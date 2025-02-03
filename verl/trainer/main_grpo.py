@@ -108,26 +108,28 @@ def main_task(config):
     from verl.utils.fs import copy_local_path_from_hdfs
     from transformers import AutoTokenizer
 
-    # print initial config
+    # First, print the initial config
+    # Doesn't do anything, just for debugging
     from pprint import pprint
     from omegaconf import OmegaConf
     pprint(OmegaConf.to_container(config, resolve=True))  # resolve=True will eval symbol values
     OmegaConf.resolve(config)
 
-    # download the checkpoint from hdfs
+    # Download the checkpoint from hdfs
+    # Or load from local
     local_path = copy_local_path_from_hdfs(config.actor_rollout_ref.model.path)
 
-    # instantiate tokenizer
+    # Instantiate the tokenizer
     from verl.utils import hf_tokenizer
     tokenizer = hf_tokenizer(local_path)
 
-    # define worker classes
+    # There can be different worker classes
+    # for different actor strategies
     if config.actor_rollout_ref.actor.strategy == 'fsdp':
         assert config.actor_rollout_ref.actor.strategy == config.critic.strategy
         from verl.workers.fsdp_workers import ActorRolloutRefWorker, CriticWorker
         from verl.single_controller.ray import RayWorkerGroup
         ray_worker_group_cls = RayWorkerGroup
-
     else:
         raise NotImplementedError
 
@@ -141,6 +143,8 @@ def main_task(config):
 
     global_pool_id = 'global_pool'
     resource_pool_spec = {
+        # n_gpus_per_node = number of GPUs per machine
+        # nnodes = number of machines
         global_pool_id: [config.trainer.n_gpus_per_node] * config.trainer.nnodes,
     }
     mapping = {
@@ -167,7 +171,7 @@ def main_task(config):
     reward_fn = RewardManager(tokenizer=tokenizer, num_examine=0)
 
     # Note that we always use function-based RM for validation
-    val_reward_fn = RewardManager(tokenizer=tokenizer, num_examine=2)
+    val_reward_fn = RewardManager(tokenizer=tokenizer, num_examine=4)
 
     resource_pool_manager = ResourcePoolManager(resource_pool_spec=resource_pool_spec, mapping=mapping)
 
