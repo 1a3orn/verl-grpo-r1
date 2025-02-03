@@ -22,7 +22,7 @@ def main():
                 num_numbers_range=(3, 5),
                 numbers_range=(1, 100),
                 randomize_phrasing=True
-            ) for _ in range(100000)]
+            ) for _ in range(150000)]
         },
         {
             "data_source": "1a3orn_test",
