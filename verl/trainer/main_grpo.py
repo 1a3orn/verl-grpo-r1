@@ -22,7 +22,7 @@ from verl.trainer.ppo.ray_trainer import RayPPOTrainer
 
 
 def _default_compute_score(data_source, solution_str, ground_truth):
-    if '1a3orn_countdown' in data_source:
+    if '1a3orn' in data_source:
         return countdown.compute_score(solution_str, ground_truth)
     else:
         raise NotImplementedError
