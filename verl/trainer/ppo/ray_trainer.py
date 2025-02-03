@@ -428,28 +428,24 @@ class RayPPOTrainer(object):
             test_batch = test_batch.union(test_output_gen_batch)
 
 
-
-
             for data_source in set(test_batch.non_tensor_batch.get('data_source', ['unknown'])):
-            output_file = os.path.join(output_dir, f'{self.validation_counter:02d}_{data_source}.txt')
-            
-            with open(output_file, 'w', encoding='utf-8') as f:
-                # Get indices for this data source
-                indices = [i for i, ds in enumerate(test_batch.non_tensor_batch.get('data_source', ['unknown'] * len(test_batch))) if ds == data_source]
+                output_file = os.path.join(output_dir, f'{self.validation_counter:02d}_{data_source}.txt')
                 
-                for idx in indices:
-                    # Get prompt and response
-                    input_ids = test_gen_batch.batch['input_ids'][idx]
-                    generated_ids = test_output_gen_batch.batch['responses'][idx]
+                with open(output_file, 'w', encoding='utf-8') as f:
+                    # Get indices for this data source
+                    indices = [i for i, ds in enumerate(test_batch.non_tensor_batch.get('data_source', ['unknown'] * len(test_batch))) if ds == data_source]
                     
-                    prompt = self.tokenizer.decode(input_ids, skip_special_tokens=True)
-                    response = self.tokenizer.decode(generated_ids, skip_special_tokens=True)
-                    
-                    f.write(f"Prompt: {prompt}\n")
-                    f.write(f"Response: {response}\n")
-                    f.write("-" * 80 + "\n")
-
-
+                    for idx in indices:
+                        # Get prompt and response
+                        input_ids = test_gen_batch.batch['input_ids'][idx]
+                        generated_ids = test_output_gen_batch.batch['responses'][idx]
+                        
+                        prompt = self.tokenizer.decode(input_ids, skip_special_tokens=True)
+                        response = self.tokenizer.decode(generated_ids, skip_special_tokens=True)
+                        
+                        f.write(f"Prompt: {prompt}\n")
+                        f.write(f"Response: {response}\n")
+                        f.write("-" * 80 + "\n")
 
 
             # evaluate using reward_function
