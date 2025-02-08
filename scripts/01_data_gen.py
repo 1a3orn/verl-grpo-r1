@@ -73,13 +73,13 @@ def handle_files(read_file, write_file, data_source):
 def main():
     files = [
        ("./intermediate_data/geography_train_questions.json", "all_geography_train.parquet", "geography"),
-       ("./intermediate_data/geography_validation_questions.json", "all_geography_test.parquet", "geography"),
+       ("./intermediate_data/geography_test_questions.json", "all_geography_test.parquet", "geography"),
        ("./intermediate_data/gsm8k_train_questions.json", "all_gsm8k_train.parquet", "gsm8k"),
-       ("./intermediate_data/gsm8k_validation_questions.json", "all_gsm8k_test.parquet", "gsm8k"),
+       ("./intermediate_data/gsm8k_test_questions.json", "all_gsm8k_test.parquet", "gsm8k"),
        ("./intermediate_data/trash_math_train_questions.json", "all_trash_math_train.parquet", "trash_math"),
-       ("./intermediate_data/trash_math_validation_questions.json", "all_trash_math_test.parquet", "trash_math"),
+       ("./intermediate_data/trash_math_test_questions.json", "all_trash_math_test.parquet", "trash_math"),
        ("./intermediate_data/zebralogic_train_questions.json", "all_zebralogic_train.parquet", "zebralogic"),
-       ("./intermediate_data/zebralogic_validation_questions.json", "all_zebralogic_test.parquet", "zebralogic"),
+       ("./intermediate_data/zebralogic_test_questions.json", "all_zebralogic_test.parquet", "zebralogic"),
     ]
 
     for file in files:
