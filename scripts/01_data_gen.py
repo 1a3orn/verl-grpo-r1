@@ -19,8 +19,8 @@ def handle_files(read_file, write_file):
 
         # Append some instructions about <think> and <answer>
         addition = (
-            "First, please think about how to get the right answer inside <think>...</think> tags. "
-            "Afterwards, write your answer inside <answer>...</answer> tags."
+            "First, please think carefully about how to get the right answer inside <think>...</think> tags. "
+            "Afterwards, write the answer and only the answer inside <answer>...</answer> tags."
         )
         full_prompt = f"{question_str} {addition}"
 
