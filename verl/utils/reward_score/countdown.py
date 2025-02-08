@@ -1,7 +1,7 @@
 import re
 
 def is_answer_correct(answer_attempt: str, ground_truth: dict):
-    if ground_truth["style"] == "countdown":
+    if ground_truth["style"] == "1a3orn":
         return is_answer_correct_countdown(answer_attempt, ground_truth)
     elif ground_truth["style"] == "sort_odd":
         return is_answer_correct_sort_odd(answer_attempt, ground_truth)
