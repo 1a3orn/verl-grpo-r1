@@ -6,7 +6,7 @@ import argparse
 
 from check_answer import check_answer
 
-def handle_files(read_file, write_file):
+def handle_files(read_file, write_file, data_source):
 
     with open(read_file, "r") as f:
         data = json.load(f)
@@ -25,13 +25,13 @@ def handle_files(read_file, write_file):
         full_prompt = f"{question_str} {addition}"
 
         converted.append({
-            "data_source": "1a3orn",
+            "data_source": f"1a3orn_{data_source}",
             "prompt": [
                 {"role": "system", "content": "You are a helpful assistant, that thinks carefully before answering."},
                 {"role": "user", "content": full_prompt}
             ],
             "prompt_text": full_prompt,
-            "ability": "1a3orn",
+            "ability": f"1a3orn_{data_source}",
             "reward_model": {
                 "style": "1a3orn",
                 "ground_truth": {
@@ -72,18 +72,18 @@ def handle_files(read_file, write_file):
 
 def main():
     files = [
-       ("./intermediate_data/geography_train_questions.json", "all_geography_train.parquet"),
-       ("./intermediate_data/geography_validation_questions.json", "all_geography_test.parquet"),
-       ("./intermediate_data/gsm8k_train_questions.json", "all_gsm8k_train.parquet"),
-       ("./intermediate_data/gsm8k_validation_questions.json", "all_gsm8k_test.parquet"),
-       ("./intermediate_data/trash_math_train_questions.json", "all_trash_math_train.parquet"),
-       ("./intermediate_data/trash_math_validation_questions.json", "all_trash_math_test.parquet"),
-       ("./intermediate_data/zebralogic_train_questions.json", "all_zebralogic_train.parquet"),
-       ("./intermediate_data/zebralogic_validation_questions.json", "all_zebralogic_test.parquet"),
+       ("./intermediate_data/geography_train_questions.json", "all_geography_train.parquet", "geography"),
+       ("./intermediate_data/geography_validation_questions.json", "all_geography_test.parquet", "geography"),
+       ("./intermediate_data/gsm8k_train_questions.json", "all_gsm8k_train.parquet", "gsm8k"),
+       ("./intermediate_data/gsm8k_validation_questions.json", "all_gsm8k_test.parquet", "gsm8k"),
+       ("./intermediate_data/trash_math_train_questions.json", "all_trash_math_train.parquet", "trash_math"),
+       ("./intermediate_data/trash_math_validation_questions.json", "all_trash_math_test.parquet", "trash_math"),
+       ("./intermediate_data/zebralogic_train_questions.json", "all_zebralogic_train.parquet", "zebralogic"),
+       ("./intermediate_data/zebralogic_validation_questions.json", "all_zebralogic_test.parquet", "zebralogic"),
     ]
 
     for file in files:
-        handle_files(file[0], file[1])
+        handle_files(file[0], file[1], file[2])
 
 if __name__ == "__main__":
     main()
