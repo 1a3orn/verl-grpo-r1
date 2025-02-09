@@ -432,12 +432,18 @@ class RayPPOTrainer(object):
         
             for data_source in set(test_batch.non_tensor_batch.get('data_source', ['unknown'])):
                 output_file = os.path.join(output_dir, f'{self.validation_counter:02d}_{data_source}.txt')
+                stats_file = os.path.join(output_dir, f'{self.validation_counter:02d}_{data_source}_stats.txt')
+                
+                # Initialize counters for answer tag statistics
+                total_responses = 0
+                valid_answers = 0
                 
                 with open(output_file, 'w', encoding='utf-8') as f:
                     # Get indices for this data source
                     indices = [i for i, ds in enumerate(test_batch.non_tensor_batch.get('data_source', ['unknown'] * len(test_batch))) if ds == data_source]
                     
                     for idx in indices:
+                        total_responses += 1
                         # Get prompt and response
                         input_ids = test_gen_batch.batch['input_ids'][idx]
                         generated_ids = test_output_gen_batch.batch['responses'][idx]
@@ -445,10 +451,25 @@ class RayPPOTrainer(object):
                         prompt = self.tokenizer.decode(input_ids, skip_special_tokens=True)
                         response = self.tokenizer.decode(generated_ids, skip_special_tokens=True)
                         
+                        # Check if response contains valid answer tags
+                        import re
+                        answer_pattern = r'<answer>(.*?)</answer>'
+                        matches = re.findall(answer_pattern, response)
+                        if matches and any(match.strip() for match in matches):
+                            valid_answers += 1
+                        
                         f.write(f"Prompt: {prompt}\n")
                         f.write(f"Response: {response}\n")
                         f.write("-" * 80 + "\n")
-
+                
+                # Write statistics to a separate file
+                with open(stats_file, 'w', encoding='utf-8') as f:
+                    valid_percentage = (valid_answers / total_responses * 100) if total_responses > 0 else 0
+                    f.write(f"Validation Run #{self.validation_counter}\n")
+                    f.write(f"Data Source: {data_source}\n")
+                    f.write(f"Total Responses: {total_responses}\n")
+                    f.write(f"Valid Answers: {valid_answers}\n")
+                    f.write(f"Percentage with Valid Answers: {valid_percentage:.2f}%\n")
 
             # evaluate using reward_function
             # for certain reward function (e.g. sandbox), the generation can overlap with reward
