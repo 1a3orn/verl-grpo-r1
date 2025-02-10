@@ -33,8 +33,8 @@ python3 -m verl.trainer.main_grpo \
     critic.ppo_micro_batch_size=5 \
     trainer.critic_warmup=0 \
     trainer.logger=['console','wandb'] \
-    trainer.project_name="grpo_generalization" \
-    trainer.experiment_name="train_zebralogic_06" \
+    trainer.project_name="grpo_generalization_2" \
+    trainer.experiment_name="train_zebralogic_01" \
     trainer.n_gpus_per_node=2 \
     trainer.nnodes=1 \
     trainer.save_freq=-1 \
