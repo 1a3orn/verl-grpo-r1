@@ -6,12 +6,12 @@ python3 -m verl.trainer.main_grpo \
     algorithm.adv_estimator=grpo \
     data.train_files=$DATA_DIR/all_zebralogic_train.parquet \
     data.val_files=[$DATA_DIR/all_geography_test.parquet,$DATA_DIR/all_gsm8k_test.parquet,$DATA_DIR/all_trash_math_test.parquet,$DATA_DIR/all_zebralogic_test.parquet] \
-    data.train_batch_size=20 \
+    data.train_batch_size=10 \
     data.val_batch_size=20 \
     data.max_prompt_length=512 \
     data.max_response_length=3400 \
     actor_rollout_ref.model.path="./models/Qwen2.5-3B-Instruct" \
-    actor_rollout_ref.actor.optim.lr=2e-6 \
+    actor_rollout_ref.actor.optim.lr=1e-6 \
     actor_rollout_ref.model.use_remove_padding=True \
     actor_rollout_ref.actor.ppo_mini_batch_size=25 \
     actor_rollout_ref.actor.ppo_micro_batch_size_per_gpu=3 \
