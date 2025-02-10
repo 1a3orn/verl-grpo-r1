@@ -9,9 +9,9 @@ python3 -m verl.trainer.main_grpo \
     data.train_batch_size=100 \
     data.val_batch_size=20 \
     data.max_prompt_length=512 \
-    data.max_response_length=2048 \
+    data.max_response_length=3400 \
     actor_rollout_ref.model.path="./models/Qwen2.5-3B-Instruct" \
-    actor_rollout_ref.actor.optim.lr=2e-6 \
+    actor_rollout_ref.actor.optim.lr=2e-5 \
     actor_rollout_ref.model.use_remove_padding=True \
     actor_rollout_ref.actor.ppo_mini_batch_size=25 \
     actor_rollout_ref.actor.ppo_micro_batch_size_per_gpu=3 \
@@ -34,9 +34,9 @@ python3 -m verl.trainer.main_grpo \
     trainer.critic_warmup=0 \
     trainer.logger=['console','wandb'] \
     trainer.project_name="grpo_generalization" \
-    trainer.experiment_name="train_zebralogic_04" \
+    trainer.experiment_name="train_zebralogic_05" \
     trainer.n_gpus_per_node=2 \
     trainer.nnodes=1 \
     trainer.save_freq=-1 \
-    trainer.test_freq=10 \
+    trainer.test_freq=5 \
     trainer.total_epochs=15 2>&1 | tee verl_demo.log
