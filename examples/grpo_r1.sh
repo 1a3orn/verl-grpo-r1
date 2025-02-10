@@ -6,12 +6,12 @@ python3 -m verl.trainer.main_grpo \
     algorithm.adv_estimator=grpo \
     data.train_files=$DATA_DIR/all_zebralogic_train.parquet \
     data.val_files=[$DATA_DIR/all_geography_test.parquet,$DATA_DIR/all_gsm8k_test.parquet,$DATA_DIR/all_trash_math_test.parquet,$DATA_DIR/all_zebralogic_test.parquet] \
-    data.train_batch_size=100 \
+    data.train_batch_size=20 \
     data.val_batch_size=20 \
     data.max_prompt_length=512 \
     data.max_response_length=3400 \
     actor_rollout_ref.model.path="./models/Qwen2.5-3B-Instruct" \
-    actor_rollout_ref.actor.optim.lr=2e-5 \
+    actor_rollout_ref.actor.optim.lr=2e-6 \
     actor_rollout_ref.model.use_remove_padding=True \
     actor_rollout_ref.actor.ppo_mini_batch_size=25 \
     actor_rollout_ref.actor.ppo_micro_batch_size_per_gpu=3 \
@@ -34,9 +34,9 @@ python3 -m verl.trainer.main_grpo \
     trainer.critic_warmup=0 \
     trainer.logger=['console','wandb'] \
     trainer.project_name="grpo_generalization" \
-    trainer.experiment_name="train_zebralogic_05" \
+    trainer.experiment_name="train_zebralogic_06" \
     trainer.n_gpus_per_node=2 \
     trainer.nnodes=1 \
     trainer.save_freq=-1 \
-    trainer.test_freq=5 \
+    trainer.test_freq=25 \
     trainer.total_epochs=15 2>&1 | tee verl_demo.log
