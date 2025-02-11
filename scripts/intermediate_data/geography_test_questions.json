@@ -1,402 +1,802 @@
 [
     {
-        "question": "Which country has the following properties?\n1. Total Area: 488,100 sq km\n2. Languages: Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%\n3. Total Population: 5,744,151\nSo what country is described by the above? Name only one country.",
+        "question": "Which country has the following properties?\n1. Total Population: 8,917,994\n2. Land Area: 54,385 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Economic Overview: upper-middle income, oil-dependent Caucasus economy; minimal economic diversification and dominance of state-owned enterprises; growth and fiscal consolidation supported by oil revenues, but risks remain from demand shocks; potential economic gains from Nagorno-Karabakh ceasefire; education investments to diversify and retain human capital\n2. Land Area: 82,629 sq km\n3. Natural Resources: petroleum, natural gas, iron ore, nonferrous metals, bauxite\n4. Religions: Muslim 97.3% (predominantly Shia), Christian 2.6%, other <0.1, unaffiliated <0.1 (2020 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Economic Overview: one of the world\u2019s top two economies; sustained growth due to export relations, its manufacturing sector, and low-wage workers; only major economy to avoid COVID-19 economic decline; recovery efforts slowing due to longstanding poverty imbalances and other institutional issues; state-sponsored economic controls\n2. Natural Resources: coal, iron ore, helium, petroleum, natural gas, arsenic, bismuth, cobalt, cadmium, ferrosilicon, gallium, germanium, hafnium, indium, lithium, mercury, tantalum, tellurium, tin, titanium, tungsten, antimony, manganese, magnesium, molybdenum, selenium, strontium, vanadium, magnetite, aluminum, lead, zinc, rare earth elements, uranium, hydropower potential (world's largest), arable land\n3. Population Growth Rate: 0.23% (2024 est.)\n4. Land Area: 9,326,410 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Natural Resources: petroleum, natural gas, iron ore, nonferrous metals, bauxite\n2. GDP (Purchasing Power Parity): $215.896 billion (2023 est.)$213.497 billion (2022 est.)$203.884 billion (2021 est.)\n3. Export Commodities: crude petroleum, natural gas, refined petroleum, fertilizers, aluminum (2022)\n4. Population Growth Rate: 0.43% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Religions: Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)\n2. Export Commodities: refined petroleum, packaged medicine, aluminum, natural gas, plastic products (2022)\n3. Natural Resources: lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential\nSo what country is described by the above? Name only one country.",
+        "answer": "Greece"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Economic Overview: hydropower investments spurring economic development; Gross National Happiness economy; sharp poverty declines; low inflation; strong monetary and fiscal policies; stable currency; fairly resilient response to COVID-19; key economic and strategic relations with India; climate vulnerabilities\n2. Export Partners: India 88%, Italy 5%, Nepal 2%, Colombia 2%, Singapore 1% (2022)\n3. Population Growth Rate: 0.95% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Natural Resources: coal, iron ore, helium, petroleum, natural gas, arsenic, bismuth, cobalt, cadmium, ferrosilicon, gallium, germanium, hafnium, indium, lithium, mercury, tantalum, tellurium, tin, titanium, tungsten, antimony, manganese, magnesium, molybdenum, selenium, strontium, vanadium, magnetite, aluminum, lead, zinc, rare earth elements, uranium, hydropower potential (world's largest), arable land\n2. GDP Per Capita: $22,100 (2023 est.)$21,000 (2022 est.)$20,400 (2021 est.)\n3. Languages: Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages; note - Zhuang is official in Guangxi Zhuang, Yue is official in Guangdong, Mongolian is official in Nei Mongol, Uyghur is official in Xinjiang Uygur, Kyrgyz is official in Xinjiang Uyghur, and Tibetan is official in Xizang (Tibet)\n4. Religions: folk religion 21.9%, Buddhist 18.2%, Christian 5.1%, Muslim 1.8%, Hindu < 0.1%, Jewish < 0.1%, other 0.7% (includes Daoist (Taoist)), unaffiliated 52.1% (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Commodities: gold, refined petroleum, phosphates, soybeans, plastic products (2022)\n2. Land Area: 54,385 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Languages: Greek (official) 99%, other (includes English and French) 1%\n2. GDP (Purchasing Power Parity): $384.023 billion (2023 est.)$375.271 billion (2022 est.)$354.888 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greece"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Climate: tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north\n2. Economic Overview: West African lower-middle income economy; major gold, oil and cocoa exporter; macroeconomic challenges following nearly four decades of sustained growth; recent progress in debt restructuring, fiscal reforms, financial stability, and curbing runaway inflation under 2023-26 IMF credit facility program\n3. Export Partners: UAE 24%, Switzerland 17%, US 14%, India 10%, China 10% (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Economic Overview: developed EU and eurozone economy; strong post-COVID growth driven by tourism, shipping industry, exports, and foreign investment supported by EU cohesion funds; public debt remains high despite recent budget surplus; challenges from negative household savings, high unemployment, corruption, and competitiveness gaps\n2. Population Growth Rate: -0.35% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greece"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $31.23 trillion (2023 est.)$29.672 trillion (2022 est.)$28.822 trillion (2021 est.)\n2. Export Commodities: broadcasting equipment, integrated circuits, computers, garments, machine parts (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $21,300 (2023 est.)$21,100 (2022 est.)$20,100 (2021 est.)\n2. Population Growth Rate: 0.43% (2024 est.)\n3. Export Commodities: crude petroleum, natural gas, refined petroleum, fertilizers, aluminum (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Languages: English (official)\n2. Export Partners: Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)\n3. Natural Resources: spiny lobster, conch\n4. Total Area: 948 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Population Growth Rate: 2.54% (2024 est.)\n2. Export Partners: India 92%, Cote d'Ivoire 2%, Togo 2%, Netherlands 1%, South Korea 1% (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Commodities: gold, crude petroleum, cocoa beans, coconuts/Brazil nuts/cashews, cocoa paste (2022)\n2. Climate: tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $1.722 billion (2020 est.)$1.665 billion (2019 est.)$1.703 billion (2018 est.)\n2. Population Growth Rate: 2.41% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $3.511 trillion (2023 est.)$3.719 trillion (2022 est.)$3.555 trillion (2021 est.)\n2. Land Area: 9,326,410 sq km\n3. Natural Resources: coal, iron ore, helium, petroleum, natural gas, arsenic, bismuth, cobalt, cadmium, ferrosilicon, gallium, germanium, hafnium, indium, lithium, mercury, tantalum, tellurium, tin, titanium, tungsten, antimony, manganese, magnesium, molybdenum, selenium, strontium, vanadium, magnetite, aluminum, lead, zinc, rare earth elements, uranium, hydropower potential (world's largest), arable land\n4. Climate: extremely diverse; tropical in south to subarctic in north\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Natural Resources: timber, hydropower, gypsum, calcium carbonate\n2. Economic Overview: hydropower investments spurring economic development; Gross National Happiness economy; sharp poverty declines; low inflation; strong monetary and fiscal policies; stable currency; fairly resilient response to COVID-19; key economic and strategic relations with India; climate vulnerabilities\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $815.05 million (2023 est.)$791.342 million (2022 est.)$739.514 million (2021 est.)\n2. GDP Per Capita: $14,100 (2022 est.)$13,500 (2021 est.)$13,000 (2020 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Economic Overview: upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development\n2. Climate: subtropical desert\nSo what country is described by the above? Name only one country.",
         "answer": "Turkmenistan"
     },
     {
-        "question": "Which country has the following properties?\n1. Total Area: 580,367 sq km\n2. Natural Resources: limestone, soda ash, salt, gemstones, fluorspar, zinc, diatomite, gypsum, wildlife, hydropower\n3. Land Area: 569,140 sq km\n4. Total Population: 58,246,378\nSo what country is described by the above? Name only one country.",
-        "answer": "Kenya"
+        "question": "Which country has the following properties?\n1. Export Partners: Denmark 49%, China 24%, UK 6%, Japan 5%, Taiwan 3% (2022)\n2. Economic Overview: large self-governing Danish territorial economy; preferential EU market access; high-income economy; dependent on Danish financial support, even for whaling and sealing industries; growing tourism; hydropower-fueled but environmentally fragile economy\n3. Exports: $1.147 billion (2021 est.)$1.108 billion (2020 est.)$1.23 billion (2019 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
     },
     {
-        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $384.023 billion (2023 est.)$375.271 billion (2022 est.)$354.888 billion (2021 est.)\n2. Languages: Greek (official) 99%, other (includes English and French) 1%\n3. Natural Resources: lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
+        "question": "Which country has the following properties?\n1. Exports: $3.511 trillion (2023 est.)$3.719 trillion (2022 est.)$3.555 trillion (2021 est.)\n2. Land Area: 9,326,410 sq km\n3. Climate: extremely diverse; tropical in south to subarctic in north\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
     },
     {
-        "question": "Which country has the following properties?\n1. Total Population: 341,963,408\n2. Economic Overview: high-income, diversified North American economy; NATO leader; largest importer and second-largest exporter; home to leading financial exchanges; high and growing public debt; rising socioeconomic inequalities; historically low interest rates; hit by COVID-19\n3. Total Area: 9,833,517 sq km\n4. Languages: English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "United States"
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $3.857 billion (2021 est.)$3.808 billion (2020 est.)$3.801 billion (2019 est.)\n2. Languages: Greenlandic, Danish, English\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
     },
     {
-        "question": "Which country has the following properties?\n1. Population Growth Rate: 1.1% (2024 est.)\n2. GDP Per Capita: $46,500 (2023 est.)$51,000 (2022 est.)$50,700 (2021 est.)\n3. Economic Overview: small, high-income, oil-based Middle East economy; renewable energy proponent; regional finance and investment leader; maintains oldest sovereign wealth fund; emerging space and tourism industries; mid-way through 25-year development program\nSo what country is described by the above? Name only one country.",
-        "answer": "Kuwait"
+        "question": "Which country has the following properties?\n1. Export Partners: Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)\n2. GDP Per Capita: $22,300 (2023 est.)$22,200 (2022 est.)$21,200 (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
     },
     {
-        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $91.161 billion (2023 est.)$82.756 billion (2022 est.)$90.199 billion (2021 est.)\n2. Climate: Mediterranean along coast; dry, extreme desert interior\n3. Economic Overview: upper middle-income, fossil fuel-based North African economy; 31% economic contraction due to COVID-19 and 2020 oil blockade; reduced government spending; central bank had to devalue currency; public wages are over 60% of expenditures\n4. Export Commodities: crude petroleum, natural gas, gold, refined petroleum, scrap iron (2022)\nSo what country is described by the above? Name only one country.",
-        "answer": "Libya"
+        "question": "Which country has the following properties?\n1. Languages: Asante 16%, Ewe 14%, Fante 11.6%, Boron (Brong) 4.9%, Dagomba 4.4%, Dangme 4.2%, Dagarte (Dagaba) 3.9%, Kokomba 3.5%, Akyem 3.2%, Ga 3.1%, other 31.2% (2010 est.)\n2. Population Growth Rate: 2.15% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
     },
     {
-        "question": "Which country has the following properties?\n1. Climate: Mediterranean along coast; dry, extreme desert interior\n2. Economic Overview: upper middle-income, fossil fuel-based North African economy; 31% economic contraction due to COVID-19 and 2020 oil blockade; reduced government spending; central bank had to devalue currency; public wages are over 60% of expenditures\n3. Exports: $32.38 billion (2021 est.)$9.537 billion (2020 est.)$29.326 billion (2019 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Libya"
+        "question": "Which country has the following properties?\n1. Climate: tropical; marine; moderated by trade winds; sunny and relatively dry\n2. Population Growth Rate: 1.77% (2024 est.)\n3. Exports: $826.824 million (2018 est.)$602.581 million (2017 est.)$741.173 million (2016 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
     },
     {
-        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $24.977 trillion (2023 est.)$24.276 trillion (2022 est.)$23.681 trillion (2021 est.)\n2. Economic Overview: high-income, diversified North American economy; NATO leader; largest importer and second-largest exporter; home to leading financial exchanges; high and growing public debt; rising socioeconomic inequalities; historically low interest rates; hit by COVID-19\n3. Exports: $3.072 trillion (2023 est.)$3.039 trillion (2022 est.)$2.571 trillion (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "United States"
+        "question": "Which country has the following properties?\n1. Export Partners: Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)\n2. Exports: $826.824 million (2018 est.)$602.581 million (2017 est.)$741.173 million (2016 est.)\n3. Export Commodities: fertilizers, shellfish, plastics, sulfur, soybean oil (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
     },
     {
-        "question": "Which country has the following properties?\n1. Religions: Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)\n2. Population Growth Rate: -0.35% (2024 est.)\n3. Natural Resources: lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential\n4. GDP Per Capita: $36,900 (2023 est.)$36,000 (2022 est.)$33,600 (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
-    },
-    {
-        "question": "Which country has the following properties?\n1. GDP Per Capita: $46,500 (2023 est.)$51,000 (2022 est.)$50,700 (2021 est.)\n2. Export Commodities: crude petroleum, refined petroleum, hydrocarbons, natural gas, acyclic alcohols (2022)\n3. Economic Overview: small, high-income, oil-based Middle East economy; renewable energy proponent; regional finance and investment leader; maintains oldest sovereign wealth fund; emerging space and tourism industries; mid-way through 25-year development program\nSo what country is described by the above? Name only one country.",
-        "answer": "Kuwait"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Economic Overview: upper-middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; global events triggering trade slump and decreased revenue from tourism; growing manufacturing and agricultural sectors; key US foreign assistance recipient; natural-resource-poor and import-reliant\n2. Total Area: 89,342 sq km\nSo what country is described by the above? Name only one country.",
-        "answer": "Jordan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Land Area: 9,147,593 sq km\n2. GDP Per Capita: $74,600 (2023 est.)$72,800 (2022 est.)$71,300 (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "United States"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Population Growth Rate: 1.1% (2024 est.)\n2. Natural Resources: petroleum, fish, shrimp, natural gas\n3. Total Population: 3,138,355\nSo what country is described by the above? Name only one country.",
-        "answer": "Kuwait"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Religions: Muslim 98% (Sunni 95%, Shia 3%) other 2% (2014 est.)\n2. Total Area: 144,100 sq km\nSo what country is described by the above? Name only one country.",
-        "answer": "Tajikistan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $46.467 billion (2023 est.)$42.905 billion (2022 est.)$39.727 billion (2021 est.)\n2. Population Growth Rate: 1.92% (2024 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Tajikistan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Export Commodities: fertilizers, garments, phosphates, jewelry, phosphoric acid (2022)\n2. Land Area: 88,802 sq km\n3. Natural Resources: phosphates, potash, shale oil\n4. Exports: $22.186 billion (2023 est.)$20.743 billion (2022 est.)$13.87 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Jordan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Export Partners: US 23%, France 21%, Antigua and Barbuda 19%, Ireland 15%, UK 7% (2022)\n2. Natural Resources: NEGL\n3. Economic Overview: formerly high-income economy; volcanic activity destroyed much of original infrastructure and economy; new capital and port is being developed; key geothermal and solar power generation; key music recording operations\nSo what country is described by the above? Name only one country.",
-        "answer": "Montserrat"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Religions: Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)\n2. GDP Per Capita: $36,900 (2023 est.)$36,000 (2022 est.)$33,600 (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Languages: Arabic (official), English (widely understood among upper and middle classes)\n2. Economic Overview: upper-middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; global events triggering trade slump and decreased revenue from tourism; growing manufacturing and agricultural sectors; key US foreign assistance recipient; natural-resource-poor and import-reliant\nSo what country is described by the above? Name only one country.",
-        "answer": "Jordan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Religions: Muslim 93%, Christian 6.4%, Buddhist <1%, folk religion <1%, Jewish <1%, other <1%, unspecified <1% (2020 est.)\n2. Total Population: 5,744,151\n3. Total Area: 488,100 sq km\n4. Export Commodities: natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2022)\nSo what country is described by the above? Name only one country.",
+        "question": "Which country has the following properties?\n1. Languages: Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%\n2. Total Area: 488,100 sq km\n3. Climate: subtropical desert\nSo what country is described by the above? Name only one country.",
         "answer": "Turkmenistan"
     },
     {
-        "question": "Which country has the following properties?\n1. Export Commodities: refined petroleum, packaged medicine, aluminum, natural gas, plastic products (2022)\n2. Natural Resources: lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential\nSo what country is described by the above? Name only one country.",
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $2,800 (2023 est.)$2,700 (2022 est.)$2,600 (2021 est.)\n2. Climate: tropical; hot, humid in south; semiarid in north\n3. Export Commodities: gold, refined petroleum, phosphates, soybeans, plastic products (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Area: 238,533 sq km\n2. Export Partners: UAE 24%, Switzerland 17%, US 14%, India 10%, China 10% (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Area: 2,166,086 sq km\n2. GDP (Purchasing Power Parity): $3.857 billion (2021 est.)$3.808 billion (2020 est.)$3.801 billion (2019 est.)\n3. Natural Resources: coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas\n4. Languages: Greenlandic, Danish, English\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Languages: Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)\n2. Religions: Muslim 97.3% (predominantly Shia), Christian 2.6%, other <0.1, unaffiliated <0.1 (2020 est.)\n3. Economic Overview: upper-middle income, oil-dependent Caucasus economy; minimal economic diversification and dominance of state-owned enterprises; growth and fiscal consolidation supported by oil revenues, but risks remain from demand shocks; potential economic gains from Nagorno-Karabakh ceasefire; education investments to diversify and retain human capital\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Religions: Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)\n2. Population Growth Rate: -0.35% (2024 est.)\n3. Natural Resources: lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential\nSo what country is described by the above? Name only one country.",
         "answer": "Greece"
     },
     {
-        "question": "Which country has the following properties?\n1. Economic Overview: small, high-income, oil-based Middle East economy; renewable energy proponent; regional finance and investment leader; maintains oldest sovereign wealth fund; emerging space and tourism industries; mid-way through 25-year development program\n2. GDP (Purchasing Power Parity): $225.481 billion (2023 est.)$234 billion (2022 est.)$221.048 billion (2021 est.)\n3. GDP Per Capita: $46,500 (2023 est.)$51,000 (2022 est.)$50,700 (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Kuwait"
+        "question": "Which country has the following properties?\n1. Economic Overview: extremely poor West African economy; ethnically diverse labor force; increasing government expenditures; slight inflation due to food supply disruptions; major cashew exporter; systemic banking instabilities and corruption; vulnerable to oil price shocks\n2. Land Area: 28,120 sq km\n3. Total Population: 2,132,325\n4. GDP Per Capita: $2,600 (2023 est.)$2,500 (2022 est.)$2,500 (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
     },
     {
-        "question": "Which country has the following properties?\n1. Climate: temperate; mild, wet winters; hot, dry summers\n2. Export Commodities: refined petroleum, packaged medicine, aluminum, natural gas, plastic products (2022)\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
+        "question": "Which country has the following properties?\n1. Total Area: 56,785 sq km\n2. Population Growth Rate: 2.41% (2024 est.)\n3. Export Partners: UAE 26%, India 11%, Cote d'Ivoire 11%, South Africa 6%, Burkina Faso 6% (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
     },
     {
-        "question": "Which country has the following properties?\n1. Total Population: 11,174,024\n2. Natural Resources: phosphates, potash, shale oil\nSo what country is described by the above? Name only one country.",
-        "answer": "Jordan"
+        "question": "Which country has the following properties?\n1. Economic Overview: extremely poor West African economy; ethnically diverse labor force; increasing government expenditures; slight inflation due to food supply disruptions; major cashew exporter; systemic banking instabilities and corruption; vulnerable to oil price shocks\n2. Land Area: 28,120 sq km\n3. GDP (Purchasing Power Parity): $5.553 billion (2023 est.)$5.279 billion (2022 est.)$5.046 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
     },
     {
-        "question": "Which country has the following properties?\n1. Economic Overview: upper middle-income, fossil fuel-based North African economy; 31% economic contraction due to COVID-19 and 2020 oil blockade; reduced government spending; central bank had to devalue currency; public wages are over 60% of expenditures\n2. Land Area: 1,759,540 sq km\n3. Population Growth Rate: 1.44% (2024 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Libya"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Total Population: 341,963,408\n2. Population Growth Rate: 0.67% (2024 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "United States"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Land Area: 141,510 sq km\n2. Export Commodities: gold, precious metal ore, cotton, copper ore, aluminum (2022)\n3. Religions: Muslim 98% (Sunni 95%, Shia 3%) other 2% (2014 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Tajikistan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. GDP Per Capita: $74,600 (2023 est.)$72,800 (2022 est.)$71,300 (2021 est.)\n2. Total Population: 341,963,408\nSo what country is described by the above? Name only one country.",
-        "answer": "United States"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Climate: temperate; mild, wet winters; hot, dry summers\n2. Total Area: 131,957 sq km\n3. Export Commodities: refined petroleum, packaged medicine, aluminum, natural gas, plastic products (2022)\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
-    },
-    {
-        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $225.481 billion (2023 est.)$234 billion (2022 est.)$221.048 billion (2021 est.)\n2. Export Commodities: crude petroleum, refined petroleum, hydrocarbons, natural gas, acyclic alcohols (2022)\n3. Natural Resources: petroleum, fish, shrimp, natural gas\n4. Export Partners: China 24%, India 15%, South Korea 11%, Japan 9%, Taiwan 7% (2022)\nSo what country is described by the above? Name only one country.",
-        "answer": "Kuwait"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Religions: Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist <1%, Hindu <1%, Jewish <1%, folk religion <1%, other <1%, unaffiliated <1% (2020 est.)\n2. Natural Resources: petroleum, natural gas, gypsum\nSo what country is described by the above? Name only one country.",
-        "answer": "Libya"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Climate: temperate; mild, wet winters; hot, dry summers\n2. Languages: Greek (official) 99%, other (includes English and French) 1%\n3. Natural Resources: lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential\n4. GDP Per Capita: $36,900 (2023 est.)$36,000 (2022 est.)$33,600 (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Population Growth Rate: 2.06% (2024 est.)\n2. Languages: English (official), Kiswahili (official), numerous indigenous languages\nSo what country is described by the above? Name only one country.",
-        "answer": "Kenya"
-    },
-    {
-        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $24.977 trillion (2023 est.)$24.276 trillion (2022 est.)$23.681 trillion (2021 est.)\n2. Exports: $3.072 trillion (2023 est.)$3.039 trillion (2022 est.)$2.571 trillion (2021 est.)\n3. Export Partners: Canada 16%, Mexico 15%, China 8%, Japan 4%, UK 4% (2022)\n4. GDP Per Capita: $74,600 (2023 est.)$72,800 (2022 est.)$71,300 (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "United States"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Population Growth Rate: 0.78% (2024 est.)\n2. Land Area: 88,802 sq km\n3. Total Population: 11,174,024\n4. Climate: mostly arid desert; rainy season in west (November to April)\nSo what country is described by the above? Name only one country.",
-        "answer": "Jordan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. GDP Per Capita: $74,600 (2023 est.)$72,800 (2022 est.)$71,300 (2021 est.)\n2. Languages: English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "United States"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Economic Overview: upper-middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; global events triggering trade slump and decreased revenue from tourism; growing manufacturing and agricultural sectors; key US foreign assistance recipient; natural-resource-poor and import-reliant\n2. Total Area: 89,342 sq km\n3. Total Population: 11,174,024\nSo what country is described by the above? Name only one country.",
-        "answer": "Jordan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Total Area: 144,100 sq km\n2. Natural Resources: hydropower, some petroleum, uranium, mercury, brown coal, lead, zinc, antimony, tungsten, silver, gold\n3. GDP (Purchasing Power Parity): $46.467 billion (2023 est.)$42.905 billion (2022 est.)$39.727 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Tajikistan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Land Area: 141,510 sq km\n2. Export Partners: Kazakhstan 20%, Switzerland 19%, China 17%, Turkey 8%, Uzbekistan 8% (2022)\n3. Natural Resources: hydropower, some petroleum, uranium, mercury, brown coal, lead, zinc, antimony, tungsten, silver, gold\n4. Languages: Tajik (official) 84.4%, Uzbek 11.9%, Kyrgyz 0.8%, Russian 0.5%, other 2.4% (2010 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Tajikistan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Climate: mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains\n2. Exports: $2.105 billion (2023 est.)$1.753 billion (2022 est.)$2.161 billion (2021 est.)\n3. Export Commodities: gold, precious metal ore, cotton, copper ore, aluminum (2022)\nSo what country is described by the above? Name only one country.",
-        "answer": "Tajikistan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Natural Resources: limestone, soda ash, salt, gemstones, fluorspar, zinc, diatomite, gypsum, wildlife, hydropower\n2. Total Population: 58,246,378\n3. Export Commodities: tea, cut flowers, garments, coffee, titanium ore (2022)\nSo what country is described by the above? Name only one country.",
-        "answer": "Kenya"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Land Area: 88,802 sq km\n2. Languages: Arabic (official), English (widely understood among upper and middle classes)\n3. Natural Resources: phosphates, potash, shale oil\n4. Population Growth Rate: 0.78% (2024 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Jordan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Climate: varies from tropical along coast to arid in interior\n2. Natural Resources: limestone, soda ash, salt, gemstones, fluorspar, zinc, diatomite, gypsum, wildlife, hydropower\n3. Total Area: 580,367 sq km\n4. Export Commodities: tea, cut flowers, garments, coffee, titanium ore (2022)\nSo what country is described by the above? Name only one country.",
-        "answer": "Kenya"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Export Partners: Italy 10%, Bulgaria 7%, Germany 6%, Cyprus 5%, Turkey 5% (2022)\n2. Total Area: 131,957 sq km\n3. Religions: Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)\n4. Total Population: 10,461,091\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Economic Overview: developed EU and eurozone economy; strong post-COVID growth driven by tourism, shipping industry, exports, and foreign investment supported by EU cohesion funds; public debt remains high despite recent budget surplus; challenges from negative household savings, high unemployment, corruption, and competitiveness gaps\n2. GDP Per Capita: $36,900 (2023 est.)$36,000 (2022 est.)$33,600 (2021 est.)\n3. Natural Resources: lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Total Population: 341,963,408\n2. Export Partners: Canada 16%, Mexico 15%, China 8%, Japan 4%, UK 4% (2022)\n3. Languages: English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)\n4. Land Area: 9,147,593 sq km\nSo what country is described by the above? Name only one country.",
-        "answer": "United States"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Total Area: 9,833,517 sq km\n2. Languages: English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "United States"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Land Area: 469,930 sq km\n2. Economic Overview: upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development\n3. Export Partners: China 71%, Turkey 7%, Uzbekistan 5%, Azerbaijan 4%, Morocco 2% (2022)\n4. Religions: Muslim 93%, Christian 6.4%, Buddhist <1%, folk religion <1%, Jewish <1%, other <1%, unspecified <1% (2020 est.)\nSo what country is described by the above? Name only one country.",
+        "question": "Which country has the following properties?\n1. Export Partners: China 71%, Turkey 7%, Uzbekistan 5%, Azerbaijan 4%, Morocco 2% (2022)\n2. Religions: Muslim 93%, Christian 6.4%, Buddhist <1%, folk religion <1%, Jewish <1%, other <1%, unspecified <1% (2020 est.)\n3. Economic Overview: upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development\n4. GDP Per Capita: $17,900 (2023 est.)$17,100 (2022 est.)$16,400 (2021 est.)\nSo what country is described by the above? Name only one country.",
         "answer": "Turkmenistan"
     },
     {
-        "question": "Which country has the following properties?\n1. Land Area: 469,930 sq km\n2. Population Growth Rate: 0.92% (2024 est.)\n3. Religions: Muslim 93%, Christian 6.4%, Buddhist <1%, folk religion <1%, Jewish <1%, other <1%, unspecified <1% (2020 est.)\nSo what country is described by the above? Name only one country.",
+        "question": "Which country has the following properties?\n1. Languages: French (official, language of commerce), Ewe and Mina (in the south), Kabye (sometimes spelled Kabiye) and Dagomba (in the north)\n2. Exports: $1.722 billion (2020 est.)$1.665 billion (2019 est.)$1.703 billion (2018 est.)\n3. Population Growth Rate: 2.41% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Languages: Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)\n2. Climate: dry, semiarid steppe\n3. Total Area: 86,600 sq km\n4. Total Population: 10,650,239\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $1.147 billion (2021 est.)$1.108 billion (2020 est.)$1.23 billion (2019 est.)\n2. Languages: Greenlandic, Danish, English\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $1.722 billion (2020 est.)$1.665 billion (2019 est.)$1.703 billion (2018 est.)\n2. Natural Resources: phosphates, limestone, marble, arable land\n3. Economic Overview: low-income West African economy; primarily agrarian economy; has a deep-water port; growing international shipping locale; improving privatization and public budgeting transparency; key phosphate mining industry; extremely high rural poverty\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)\n2. Export Commodities: fertilizers, shellfish, plastics, sulfur, soybean oil (2022)\n3. Languages: English (official)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Population: 10,650,239\n2. Languages: Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)\n3. GDP (Purchasing Power Parity): $215.896 billion (2023 est.)$213.497 billion (2022 est.)$203.884 billion (2021 est.)\n4. Natural Resources: petroleum, natural gas, iron ore, nonferrous metals, bauxite\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: Denmark 49%, China 24%, UK 6%, Japan 5%, Taiwan 3% (2022)\n2. Land Area: 2,166,086 sq km\n3. GDP Per Capita: $68,100 (2021 est.)$67,600 (2020 est.)$67,600 (2019 est.)\n4. Population Growth Rate: -0.05% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Natural Resources: petroleum, natural gas, iron ore, nonferrous metals, bauxite\n2. Total Population: 10,650,239\n3. Total Area: 86,600 sq km\n4. Land Area: 82,629 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Religions: Muslim 97.3% (predominantly Shia), Christian 2.6%, other <0.1, unaffiliated <0.1 (2020 est.)\n2. Climate: dry, semiarid steppe\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Climate: tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north\n2. Population Growth Rate: 2.15% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Climate: tropical; marine; moderated by trade winds; sunny and relatively dry\n2. Total Area: 948 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $131.576 billion (2023 est.)$123.778 billion (2022 est.)$116.552 billion (2021 est.)\n2. Languages: Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%\n3. Economic Overview: upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development\n4. Exports: $10.282 billion (2021 est.)$8.164 billion (2020 est.)$11.188 billion (2019 est.)\nSo what country is described by the above? Name only one country.",
         "answer": "Turkmenistan"
     },
     {
-        "question": "Which country has the following properties?\n1. Natural Resources: petroleum, fish, natural gas\n2. Economic Overview: high-income, oil-and-gas-based Middle Eastern economy; National Vision 2030 government strategy for economic development, diversification, favorable business conditions to grow investment and employment; infrastructure investments; Islamic finance leader; citizenship-based labor force growth\n3. Religions: Muslim 65.2%, Christian 13.7%, Hindu 15.9%, Buddhist 3.8%, folk religion <0.1%, Jewish <0.1%, other <1%, unaffiliated <1% (2020 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Qatar"
+        "question": "Which country has the following properties?\n1. Land Area: 948 sq km\n2. Religions: Protestant 72.8% (Baptist 35.8%, Church of God 11.7%, Anglican 10%, Methodist 9.3%, Seventh Day Adventist 6%), Roman Catholic 11.4%, Jehovah's Witness 1.8%, other 14% (2006 est.)\n3. Exports: $826.824 million (2018 est.)$602.581 million (2017 est.)$741.173 million (2016 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
     },
     {
-        "question": "Which country has the following properties?\n1. Total Area: 131,957 sq km\n2. Languages: Greek (official) 99%, other (includes English and French) 1%\n3. Total Population: 10,461,091\n4. Land Area: 130,647 sq km\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
+        "question": "Which country has the following properties?\n1. Population Growth Rate: 1.77% (2024 est.)\n2. Economic Overview: British Caribbean island territorial economy; GDP and its tourism industry hit hard by COVID-19 disruptions; major biodiversity locale; US dollar user; fossil fuel dependent; negative trade balance; increasing unemployment\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
     },
     {
-        "question": "Which country has the following properties?\n1. Exports: $107.218 billion (2023 est.)$106.189 billion (2022 est.)$87.521 billion (2021 est.)\n2. Total Population: 10,461,091\n3. Religions: Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
+        "question": "Which country has the following properties?\n1. Natural Resources: timber, hydropower, gypsum, calcium carbonate\n2. Total Population: 884,546\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
     },
     {
-        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $308.522 billion (2023 est.)$304.903 billion (2022 est.)$292.655 billion (2021 est.)\n2. Land Area: 11,586 sq km\nSo what country is described by the above? Name only one country.",
-        "answer": "Qatar"
+        "question": "Which country has the following properties?\n1. Total Population: 34,589,092\n2. Total Area: 238,533 sq km\n3. Languages: Asante 16%, Ewe 14%, Fante 11.6%, Boron (Brong) 4.9%, Dagomba 4.4%, Dangme 4.2%, Dagarte (Dagaba) 3.9%, Kokomba 3.5%, Akyem 3.2%, Ga 3.1%, other 31.2% (2010 est.)\n4. Climate: tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
     },
     {
-        "question": "Which country has the following properties?\n1. Population Growth Rate: 0.59% (2024 est.)\n2. GDP Per Capita: (2011)(2010)(2009)\n3. Land Area: 102 sq km\nSo what country is described by the above? Name only one country.",
-        "answer": "Montserrat"
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $25.75 billion (2023 est.)$24.199 billion (2022 est.)$22.881 billion (2021 est.)\n2. Total Population: 8,917,994\n3. Export Commodities: gold, refined petroleum, phosphates, soybeans, plastic products (2022)\n4. Export Partners: UAE 26%, India 11%, Cote d'Ivoire 11%, South Africa 6%, Burkina Faso 6% (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
     },
     {
-        "question": "Which country has the following properties?\n1. Export Partners: US 10%, Uganda 9%, Pakistan 7%, Netherlands 7%, Rwanda 6% (2022)\n2. Total Area: 580,367 sq km\n3. Population Growth Rate: 2.06% (2024 est.)\n4. Exports: $12.626 billion (2023 est.)$13.954 billion (2022 est.)$11.815 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Kenya"
+        "question": "Which country has the following properties?\n1. Economic Overview: hydropower investments spurring economic development; Gross National Happiness economy; sharp poverty declines; low inflation; strong monetary and fiscal policies; stable currency; fairly resilient response to COVID-19; key economic and strategic relations with India; climate vulnerabilities\n2. Exports: $815.05 million (2023 est.)$791.342 million (2022 est.)$739.514 million (2021 est.)\n3. Land Area: 38,394 sq km\n4. Total Area: 38,394 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
     },
     {
-        "question": "Which country has the following properties?\n1. Religions: Muslim 93%, Christian 6.4%, Buddhist <1%, folk religion <1%, Jewish <1%, other <1%, unspecified <1% (2020 est.)\n2. Economic Overview: upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development\n3. Export Partners: China 71%, Turkey 7%, Uzbekistan 5%, Azerbaijan 4%, Morocco 2% (2022)\nSo what country is described by the above? Name only one country.",
+        "question": "Which country has the following properties?\n1. Total Population: 1,416,043,270\n2. Natural Resources: coal, iron ore, helium, petroleum, natural gas, arsenic, bismuth, cobalt, cadmium, ferrosilicon, gallium, germanium, hafnium, indium, lithium, mercury, tantalum, tellurium, tin, titanium, tungsten, antimony, manganese, magnesium, molybdenum, selenium, strontium, vanadium, magnetite, aluminum, lead, zinc, rare earth elements, uranium, hydropower potential (world's largest), arable land\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $826.824 million (2018 est.)$602.581 million (2017 est.)$741.173 million (2016 est.)\n2. Climate: tropical; marine; moderated by trade winds; sunny and relatively dry\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Population: 1,416,043,270\n2. GDP Per Capita: $22,100 (2023 est.)$21,000 (2022 est.)$20,400 (2021 est.)\n3. Export Commodities: broadcasting equipment, integrated circuits, computers, garments, machine parts (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Land Area: 9,326,410 sq km\n2. Religions: folk religion 21.9%, Buddhist 18.2%, Christian 5.1%, Muslim 1.8%, Hindu < 0.1%, Jewish < 0.1%, other 0.7% (includes Daoist (Taoist)), unaffiliated 52.1% (2021 est.)\n3. Economic Overview: one of the world\u2019s top two economies; sustained growth due to export relations, its manufacturing sector, and low-wage workers; only major economy to avoid COVID-19 economic decline; recovery efforts slowing due to longstanding poverty imbalances and other institutional issues; state-sponsored economic controls\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Climate: arctic to subarctic; cool summers, cold winters\n2. GDP (Purchasing Power Parity): $3.857 billion (2021 est.)$3.808 billion (2020 est.)$3.801 billion (2019 est.)\n3. Languages: Greenlandic, Danish, English\n4. Natural Resources: coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Population: 8,917,994\n2. Total Area: 56,785 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $215.896 billion (2023 est.)$213.497 billion (2022 est.)$203.884 billion (2021 est.)\n2. Climate: dry, semiarid steppe\n3. Economic Overview: upper-middle income, oil-dependent Caucasus economy; minimal economic diversification and dominance of state-owned enterprises; growth and fiscal consolidation supported by oil revenues, but risks remain from demand shocks; potential economic gains from Nagorno-Karabakh ceasefire; education investments to diversify and retain human capital\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $25.365 billion (2023 est.)$25.52 billion (2022 est.)$23.901 billion (2021 est.)\n2. Natural Resources: gold, timber, industrial diamonds, bauxite, manganese, fish, rubber, hydropower, petroleum, silver, salt, limestone\n3. Land Area: 227,533 sq km\n4. Climate: tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Natural Resources: petroleum, natural gas, iron ore, nonferrous metals, bauxite\n2. GDP Per Capita: $21,300 (2023 est.)$21,100 (2022 est.)$20,100 (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $1.722 billion (2020 est.)$1.665 billion (2019 est.)$1.703 billion (2018 est.)\n2. Land Area: 54,385 sq km\n3. Natural Resources: phosphates, limestone, marble, arable land\n4. GDP Per Capita: $2,800 (2023 est.)$2,700 (2022 est.)$2,600 (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)\n2. Natural Resources: spiny lobster, conch\n3. GDP (Purchasing Power Parity): $1.03 billion (2023 est.)$1.018 billion (2022 est.)$958.811 million (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Religions: Christian 71.3% (Pentecostal/Charismatic 31.6%, Protestant 17.4%, Catholic 10%, other 12.3%), Muslim 19.9%, traditionalist 3.2%, other 4.5%, none 1.1% (2021 est.)\n2. Languages: Asante 16%, Ewe 14%, Fante 11.6%, Boron (Brong) 4.9%, Dagomba 4.4%, Dangme 4.2%, Dagarte (Dagaba) 3.9%, Kokomba 3.5%, Akyem 3.2%, Ga 3.1%, other 31.2% (2010 est.)\n3. Climate: tropical; warm and comparatively dry along southeast coast; hot and humid in southwest; hot and dry in north\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Population Growth Rate: 0.23% (2024 est.)\n2. Export Commodities: broadcasting equipment, integrated circuits, computers, garments, machine parts (2022)\n3. Religions: folk religion 21.9%, Buddhist 18.2%, Christian 5.1%, Muslim 1.8%, Hindu < 0.1%, Jewish < 0.1%, other 0.7% (includes Daoist (Taoist)), unaffiliated 52.1% (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: UAE 24%, Switzerland 17%, US 14%, India 10%, China 10% (2022)\n2. Total Area: 238,533 sq km\n3. Total Population: 34,589,092\n4. Exports: $25.365 billion (2023 est.)$25.52 billion (2022 est.)$23.901 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Land Area: 227,533 sq km\n2. Total Population: 34,589,092\n3. GDP Per Capita: $6,800 (2023 est.)$6,700 (2022 est.)$6,600 (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $68,100 (2021 est.)$67,600 (2020 est.)$67,600 (2019 est.)\n2. Population Growth Rate: -0.05% (2024 est.)\n3. Land Area: 2,166,086 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Population Growth Rate: 2.41% (2024 est.)\n2. Total Population: 8,917,994\n3. Export Commodities: gold, refined petroleum, phosphates, soybeans, plastic products (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Languages: Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%\n2. Natural Resources: petroleum, natural gas, sulfur, salt\n3. Export Commodities: natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2022)\n4. Population Growth Rate: 0.92% (2024 est.)\nSo what country is described by the above? Name only one country.",
         "answer": "Turkmenistan"
     },
     {
-        "question": "Which country has the following properties?\n1. Population Growth Rate: 2.06% (2024 est.)\n2. Natural Resources: limestone, soda ash, salt, gemstones, fluorspar, zinc, diatomite, gypsum, wildlife, hydropower\n3. Climate: varies from tropical along coast to arid in interior\nSo what country is described by the above? Name only one country.",
-        "answer": "Kenya"
+        "question": "Which country has the following properties?\n1. Export Commodities: broadcasting equipment, integrated circuits, computers, garments, machine parts (2022)\n2. Population Growth Rate: 0.23% (2024 est.)\n3. Land Area: 9,326,410 sq km\n4. Languages: Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages; note - Zhuang is official in Guangxi Zhuang, Yue is official in Guangdong, Mongolian is official in Nei Mongol, Uyghur is official in Xinjiang Uygur, Kyrgyz is official in Xinjiang Uyghur, and Tibetan is official in Xizang (Tibet)\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
     },
     {
-        "question": "Which country has the following properties?\n1. Export Partners: US 10%, Uganda 9%, Pakistan 7%, Netherlands 7%, Rwanda 6% (2022)\n2. Land Area: 569,140 sq km\n3. Religions: Christian 85.5% (Protestant 33.4%, Catholic 20.6%, Evangelical 20.4%, African Instituted Churches 7%, other Christian 4.1%), Muslim 10.9%, other 1.8%, none 1.6%, don't know/no answer 0.2% (2019 est.)\n4. Natural Resources: limestone, soda ash, salt, gemstones, fluorspar, zinc, diatomite, gypsum, wildlife, hydropower\nSo what country is described by the above? Name only one country.",
-        "answer": "Kenya"
+        "question": "Which country has the following properties?\n1. Languages: Greenlandic, Danish, English\n2. Land Area: 2,166,086 sq km\n3. GDP (Purchasing Power Parity): $3.857 billion (2021 est.)$3.808 billion (2020 est.)$3.801 billion (2019 est.)\n4. Exports: $1.147 billion (2021 est.)$1.108 billion (2020 est.)$1.23 billion (2019 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
     },
     {
-        "question": "Which country has the following properties?\n1. Land Area: 17,818 sq km\n2. Languages: Arabic (official), English widely spoken\n3. Total Population: 3,138,355\n4. GDP (Purchasing Power Parity): $225.481 billion (2023 est.)$234 billion (2022 est.)$221.048 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Kuwait"
+        "question": "Which country has the following properties?\n1. Total Area: 238,533 sq km\n2. Religions: Christian 71.3% (Pentecostal/Charismatic 31.6%, Protestant 17.4%, Catholic 10%, other 12.3%), Muslim 19.9%, traditionalist 3.2%, other 4.5%, none 1.1% (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
     },
     {
-        "question": "Which country has the following properties?\n1. Total Area: 9,833,517 sq km\n2. Languages: English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)\n3. Natural Resources: coal, copper, lead, molybdenum, phosphates, rare earth elements, uranium, bauxite, gold, iron, mercury, nickel, potash, silver, tungsten, zinc, petroleum, natural gas, timber, arable land\n4. Climate: mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest; low winter temperatures in the northwest are ameliorated occasionally in January and February by warm chinook winds from the eastern slopes of the Rocky Mountains\nSo what country is described by the above? Name only one country.",
-        "answer": "United States"
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $22,100 (2023 est.)$21,000 (2022 est.)$20,400 (2021 est.)\n2. Total Area: 9,596,960 sq km\n3. Land Area: 9,326,410 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
     },
     {
-        "question": "Which country has the following properties?\n1. Religions: Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist <1%, Hindu <1%, Jewish <1%, folk religion <1%, other <1%, unaffiliated <1% (2020 est.)\n2. Population Growth Rate: 1.44% (2024 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Libya"
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $14,100 (2022 est.)$13,500 (2021 est.)$13,000 (2020 est.)\n2. Total Population: 884,546\n3. Total Area: 38,394 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
     },
     {
-        "question": "Which country has the following properties?\n1. Languages: Arabic (official), Italian, English (all widely understood in the major cities); Tamazight (Nafusi, Ghadamis, Suknah, Awjilah, Tamasheq)\n2. Total Population: 7,361,263\n3. GDP (Purchasing Power Parity): $91.161 billion (2023 est.)$82.756 billion (2022 est.)$90.199 billion (2021 est.)\n4. Exports: $32.38 billion (2021 est.)$9.537 billion (2020 est.)$29.326 billion (2019 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Libya"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Climate: varies from tropical along coast to arid in interior\n2. Total Population: 58,246,378\n3. Export Partners: US 10%, Uganda 9%, Pakistan 7%, Netherlands 7%, Rwanda 6% (2022)\nSo what country is described by the above? Name only one country.",
-        "answer": "Kenya"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Economic Overview: fast growing, third largest Sub-Saharan economy; strong agriculture sector with emerging services and tourism industries; IMF program to address current account and debt service challenges; business-friendly policies foster infrastructure investment, digital innovation and public-private partnerships; vulnerable to climate change-induced droughts\n2. Total Population: 58,246,378\nSo what country is described by the above? Name only one country.",
-        "answer": "Kenya"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Economic Overview: lower middle-income Central Asian economy; key gold, cotton, and aluminum exporter; declining poverty; sustained high growth; very limited private sector; substantial illicit drug trade; significant remittances; environmentally fragile\n2. Climate: mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains\nSo what country is described by the above? Name only one country.",
-        "answer": "Tajikistan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Religions: Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)\n2. Languages: Greek (official) 99%, other (includes English and French) 1%\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Land Area: 1,759,540 sq km\n2. Exports: $32.38 billion (2021 est.)$9.537 billion (2020 est.)$29.326 billion (2019 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Libya"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Religions: Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)\n2. Population Growth Rate: -0.35% (2024 est.)\n3. Total Population: 10,461,091\n4. GDP (Purchasing Power Parity): $384.023 billion (2023 est.)$375.271 billion (2022 est.)$354.888 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Population Growth Rate: 1.1% (2024 est.)\n2. Religions: Muslim (official) 74.6%, Christian 18.2%, other and unspecified 7.2% (2013 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Kuwait"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Total Area: 131,957 sq km\n2. Religions: Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)\n3. Climate: temperate; mild, wet winters; hot, dry summers\n4. Exports: $107.218 billion (2023 est.)$106.189 billion (2022 est.)$87.521 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
-    },
-    {
-        "question": "Which country has the following properties?\n1. GDP Per Capita: $116,200 (2023 est.)$114,700 (2022 est.)$116,800 (2021 est.)\n2. GDP (Purchasing Power Parity): $308.522 billion (2023 est.)$304.903 billion (2022 est.)$292.655 billion (2021 est.)\n3. Natural Resources: petroleum, fish, natural gas\n4. Languages: Arabic (official), English commonly used as a second language\nSo what country is described by the above? Name only one country.",
-        "answer": "Qatar"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Religions: Muslim 97.1% (official; predominantly Sunni), Christian 2.1% (majority Greek Orthodox, but some Greek and Roman Catholics, Syrian Orthodox, Coptic Orthodox, Armenian Orthodox, and Protestant denominations), Buddhist 0.4%, Hindu 0.1%, Jewish <0.1%, folk <0.1%, other <0.1%, unaffiliated <0.1% (2020 est.)\n2. Economic Overview: upper-middle-income Middle Eastern economy; high debt and unemployment, especially for youth and women; global events triggering trade slump and decreased revenue from tourism; growing manufacturing and agricultural sectors; key US foreign assistance recipient; natural-resource-poor and import-reliant\n3. Climate: mostly arid desert; rainy season in west (November to April)\n4. Languages: Arabic (official), English (widely understood among upper and middle classes)\nSo what country is described by the above? Name only one country.",
-        "answer": "Jordan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Exports: $10.282 billion (2021 est.)$8.164 billion (2020 est.)$11.188 billion (2019 est.)\n2. Export Commodities: natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2022)\n3. Natural Resources: petroleum, natural gas, sulfur, salt\nSo what country is described by the above? Name only one country.",
+        "question": "Which country has the following properties?\n1. Languages: Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%\n2. Climate: subtropical desert\n3. Total Area: 488,100 sq km\n4. Religions: Muslim 93%, Christian 6.4%, Buddhist <1%, folk religion <1%, Jewish <1%, other <1%, unspecified <1% (2020 est.)\nSo what country is described by the above? Name only one country.",
         "answer": "Turkmenistan"
     },
     {
-        "question": "Which country has the following properties?\n1. Languages: English\n2. Export Commodities: sand, gravel and crushed stone, packaged medicine, lead products, liquid pumps (2022)\n3. Population Growth Rate: 0.59% (2024 est.)\n4. GDP Per Capita: (2011)(2010)(2009)\nSo what country is described by the above? Name only one country.",
-        "answer": "Montserrat"
+        "question": "Which country has the following properties?\n1. Export Partners: Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)\n2. Exports: $826.824 million (2018 est.)$602.581 million (2017 est.)$741.173 million (2016 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
     },
     {
-        "question": "Which country has the following properties?\n1. Natural Resources: petroleum, fish, shrimp, natural gas\n2. Total Population: 3,138,355\n3. Export Commodities: crude petroleum, refined petroleum, hydrocarbons, natural gas, acyclic alcohols (2022)\n4. Religions: Muslim (official) 74.6%, Christian 18.2%, other and unspecified 7.2% (2013 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Kuwait"
+        "question": "Which country has the following properties?\n1. Land Area: 82,629 sq km\n2. Religions: Muslim 97.3% (predominantly Shia), Christian 2.6%, other <0.1, unaffiliated <0.1 (2020 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
     },
     {
-        "question": "Which country has the following properties?\n1. Natural Resources: petroleum, fish, natural gas\n2. GDP (Purchasing Power Parity): $308.522 billion (2023 est.)$304.903 billion (2022 est.)$292.655 billion (2021 est.)\n3. Land Area: 11,586 sq km\nSo what country is described by the above? Name only one country.",
-        "answer": "Qatar"
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $68,100 (2021 est.)$67,600 (2020 est.)$67,600 (2019 est.)\n2. Export Commodities: fish, shellfish, processed crustaceans, precious stones, animal products (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
     },
     {
-        "question": "Which country has the following properties?\n1. Religions: Muslim 93%, Christian 6.4%, Buddhist <1%, folk religion <1%, Jewish <1%, other <1%, unspecified <1% (2020 est.)\n2. Total Population: 5,744,151\n3. Population Growth Rate: 0.92% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $21,300 (2023 est.)$21,100 (2022 est.)$20,100 (2021 est.)\n2. Population Growth Rate: 0.43% (2024 est.)\n3. Total Area: 86,600 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)\n2. GDP (Purchasing Power Parity): $1.03 billion (2023 est.)$1.018 billion (2022 est.)$958.811 million (2021 est.)\n3. Religions: Protestant 72.8% (Baptist 35.8%, Church of God 11.7%, Anglican 10%, Methodist 9.3%, Seventh Day Adventist 6%), Roman Catholic 11.4%, Jehovah's Witness 1.8%, other 14% (2006 est.)\n4. Export Commodities: fertilizers, shellfish, plastics, sulfur, soybean oil (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Religions: Lamaistic Buddhist 75.3%, Indian- and Nepali-influenced Hinduism 22.1%, other 2.6% (2005 est.)\n2. Population Growth Rate: 0.95% (2024 est.)\n3. GDP (Purchasing Power Parity): $10.981 billion (2022 est.)$10.437 billion (2021 est.)$9.995 billion (2020 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Land Area: 82,629 sq km\n2. Export Partners: Italy 47%, Turkey 9%, Israel 4%, India 4%, Greece 4% (2022)\n3. Total Area: 86,600 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Climate: arctic to subarctic; cool summers, cold winters\n2. Exports: $1.147 billion (2021 est.)$1.108 billion (2020 est.)$1.23 billion (2019 est.)\n3. Total Area: 2,166,086 sq km\n4. Export Commodities: fish, shellfish, processed crustaceans, precious stones, animal products (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Population: 57,751\n2. Export Commodities: fish, shellfish, processed crustaceans, precious stones, animal products (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Religions: Christian 42.3%, folk religion 36.9%, Muslim 14%, Hindu <1%, Buddhist <1%, Jewish <1%, other <1%, none 6.2% (2020 est.)\n2. Climate: tropical; hot, humid in south; semiarid in north\n3. Export Commodities: gold, refined petroleum, phosphates, soybeans, plastic products (2022)\n4. Languages: French (official, language of commerce), Ewe and Mina (in the south), Kabye (sometimes spelled Kabiye) and Dagomba (in the north)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $826.824 million (2018 est.)$602.581 million (2017 est.)$741.173 million (2016 est.)\n2. Land Area: 948 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Land Area: 28,120 sq km\n2. GDP (Purchasing Power Parity): $5.553 billion (2023 est.)$5.279 billion (2022 est.)$5.046 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Area: 36,125 sq km\n2. Religions: Muslim 46.1%, folk religions 30.6%, Christian 18.9%, other or unaffiliated 4.4% (2020 est.)\n3. Exports: $280.065 million (2022 est.)$334.904 million (2021 est.)$232.536 million (2020 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Area: 9,596,960 sq km\n2. Languages: Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages; note - Zhuang is official in Guangxi Zhuang, Yue is official in Guangdong, Mongolian is official in Nei Mongol, Uyghur is official in Xinjiang Uygur, Kyrgyz is official in Xinjiang Uyghur, and Tibetan is official in Xizang (Tibet)\n3. Export Commodities: broadcasting equipment, integrated circuits, computers, garments, machine parts (2022)\n4. Climate: extremely diverse; tropical in south to subarctic in north\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Climate: tropical; hot, humid in south; semiarid in north\n2. Economic Overview: low-income West African economy; primarily agrarian economy; has a deep-water port; growing international shipping locale; improving privatization and public budgeting transparency; key phosphate mining industry; extremely high rural poverty\n3. Languages: French (official, language of commerce), Ewe and Mina (in the south), Kabye (sometimes spelled Kabiye) and Dagomba (in the north)\n4. Total Population: 8,917,994\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Languages: Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%\n2. Total Population: 5,744,151\n3. Climate: subtropical desert\nSo what country is described by the above? Name only one country.",
         "answer": "Turkmenistan"
     },
     {
-        "question": "Which country has the following properties?\n1. Land Area: 102 sq km\n2. Export Partners: US 23%, France 21%, Antigua and Barbuda 19%, Ireland 15%, UK 7% (2022)\nSo what country is described by the above? Name only one country.",
-        "answer": "Montserrat"
+        "question": "Which country has the following properties?\n1. Export Commodities: fish, shellfish, processed crustaceans, precious stones, animal products (2022)\n2. Natural Resources: coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas\n3. Export Partners: Denmark 49%, China 24%, UK 6%, Japan 5%, Taiwan 3% (2022)\n4. Population Growth Rate: -0.05% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
     },
     {
-        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $308.522 billion (2023 est.)$304.903 billion (2022 est.)$292.655 billion (2021 est.)\n2. Land Area: 11,586 sq km\n3. Export Partners: China 18%, India 15%, Japan 10%, South Korea 9%, UK 6% (2022)\nSo what country is described by the above? Name only one country.",
-        "answer": "Qatar"
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $25.75 billion (2023 est.)$24.199 billion (2022 est.)$22.881 billion (2021 est.)\n2. Religions: Christian 42.3%, folk religion 36.9%, Muslim 14%, Hindu <1%, Buddhist <1%, Jewish <1%, other <1%, none 6.2% (2020 est.)\n3. Total Population: 8,917,994\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
     },
     {
-        "question": "Which country has the following properties?\n1. Export Partners: Canada 16%, Mexico 15%, China 8%, Japan 4%, UK 4% (2022)\n2. Total Area: 9,833,517 sq km\n3. GDP Per Capita: $74,600 (2023 est.)$72,800 (2022 est.)$71,300 (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "United States"
+        "question": "Which country has the following properties?\n1. Export Commodities: broadcasting equipment, integrated circuits, computers, garments, machine parts (2022)\n2. Economic Overview: one of the world\u2019s top two economies; sustained growth due to export relations, its manufacturing sector, and low-wage workers; only major economy to avoid COVID-19 economic decline; recovery efforts slowing due to longstanding poverty imbalances and other institutional issues; state-sponsored economic controls\n3. Climate: extremely diverse; tropical in south to subarctic in north\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
     },
     {
-        "question": "Which country has the following properties?\n1. Total Area: 144,100 sq km\n2. Population Growth Rate: 1.92% (2024 est.)\n3. Languages: Tajik (official) 84.4%, Uzbek 11.9%, Kyrgyz 0.8%, Russian 0.5%, other 2.4% (2010 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Tajikistan"
-    },
-    {
-        "question": "Which country has the following properties?\n1. Economic Overview: developed EU and eurozone economy; strong post-COVID growth driven by tourism, shipping industry, exports, and foreign investment supported by EU cohesion funds; public debt remains high despite recent budget surplus; challenges from negative household savings, high unemployment, corruption, and competitiveness gaps\n2. Religions: Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)\n3. Export Partners: Italy 10%, Bulgaria 7%, Germany 6%, Cyprus 5%, Turkey 5% (2022)\n4. Population Growth Rate: -0.35% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "question": "Which country has the following properties?\n1. Export Partners: Italy 10%, Bulgaria 7%, Germany 6%, Cyprus 5%, Turkey 5% (2022)\n2. Total Area: 131,957 sq km\n3. Economic Overview: developed EU and eurozone economy; strong post-COVID growth driven by tourism, shipping industry, exports, and foreign investment supported by EU cohesion funds; public debt remains high despite recent budget surplus; challenges from negative household savings, high unemployment, corruption, and competitiveness gaps\n4. Religions: Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)\nSo what country is described by the above? Name only one country.",
         "answer": "Greece"
     },
     {
-        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $107.101 billion (2023 est.)$104.307 billion (2022 est.)$101.617 billion (2021 est.)\n2. Exports: $22.186 billion (2023 est.)$20.743 billion (2022 est.)$13.87 billion (2021 est.)\n3. Population Growth Rate: 0.78% (2024 est.)\n4. Languages: Arabic (official), English (widely understood among upper and middle classes)\nSo what country is described by the above? Name only one country.",
-        "answer": "Jordan"
+        "question": "Which country has the following properties?\n1. Total Area: 36,125 sq km\n2. Natural Resources: fish, timber, phosphates, bauxite, clay, granite, limestone, unexploited deposits of petroleum\n3. Climate: tropical; generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
     },
     {
-        "question": "Which country has the following properties?\n1. Religions: Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist <1%, Hindu <1%, Jewish <1%, folk religion <1%, other <1%, unaffiliated <1% (2020 est.)\n2. Economic Overview: upper middle-income, fossil fuel-based North African economy; 31% economic contraction due to COVID-19 and 2020 oil blockade; reduced government spending; central bank had to devalue currency; public wages are over 60% of expenditures\n3. Population Growth Rate: 1.44% (2024 est.)\n4. Land Area: 1,759,540 sq km\nSo what country is described by the above? Name only one country.",
-        "answer": "Libya"
+        "question": "Which country has the following properties?\n1. Languages: Greenlandic, Danish, English\n2. Natural Resources: coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
     },
     {
-        "question": "Which country has the following properties?\n1. Export Commodities: refined petroleum, packaged medicine, aluminum, natural gas, plastic products (2022)\n2. Land Area: 130,647 sq km\nSo what country is described by the above? Name only one country.",
+        "question": "Which country has the following properties?\n1. Economic Overview: British Caribbean island territorial economy; GDP and its tourism industry hit hard by COVID-19 disruptions; major biodiversity locale; US dollar user; fossil fuel dependent; negative trade balance; increasing unemployment\n2. Climate: tropical; marine; moderated by trade winds; sunny and relatively dry\n3. Languages: English (official)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Climate: dry, semiarid steppe\n2. Natural Resources: petroleum, natural gas, iron ore, nonferrous metals, bauxite\n3. Religions: Muslim 97.3% (predominantly Shia), Christian 2.6%, other <0.1, unaffiliated <0.1 (2020 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Religions: Protestant 72.8% (Baptist 35.8%, Church of God 11.7%, Anglican 10%, Methodist 9.3%, Seventh Day Adventist 6%), Roman Catholic 11.4%, Jehovah's Witness 1.8%, other 14% (2006 est.)\n2. Climate: tropical; marine; moderated by trade winds; sunny and relatively dry\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Area: 238,533 sq km\n2. Land Area: 227,533 sq km\n3. Exports: $25.365 billion (2023 est.)$25.52 billion (2022 est.)$23.901 billion (2021 est.)\n4. Economic Overview: West African lower-middle income economy; major gold, oil and cocoa exporter; macroeconomic challenges following nearly four decades of sustained growth; recent progress in debt restructuring, fiscal reforms, financial stability, and curbing runaway inflation under 2023-26 IMF credit facility program\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Area: 2,166,086 sq km\n2. Climate: arctic to subarctic; cool summers, cold winters\n3. GDP Per Capita: $68,100 (2021 est.)$67,600 (2020 est.)$67,600 (2019 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Population: 8,917,994\n2. Climate: tropical; hot, humid in south; semiarid in north\n3. Religions: Christian 42.3%, folk religion 36.9%, Muslim 14%, Hindu <1%, Buddhist <1%, Jewish <1%, other <1%, none 6.2% (2020 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Languages: Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)\n2. Natural Resources: petroleum, natural gas, iron ore, nonferrous metals, bauxite\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Languages: Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages; note - Zhuang is official in Guangxi Zhuang, Yue is official in Guangdong, Mongolian is official in Nei Mongol, Uyghur is official in Xinjiang Uygur, Kyrgyz is official in Xinjiang Uyghur, and Tibetan is official in Xizang (Tibet)\n2. Export Partners: US 15%, Hong Kong 7%, Japan 5%, Germany 4%, South Korea 4% (2022)\n3. Economic Overview: one of the world\u2019s top two economies; sustained growth due to export relations, its manufacturing sector, and low-wage workers; only major economy to avoid COVID-19 economic decline; recovery efforts slowing due to longstanding poverty imbalances and other institutional issues; state-sponsored economic controls\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Area: 86,600 sq km\n2. Economic Overview: upper-middle income, oil-dependent Caucasus economy; minimal economic diversification and dominance of state-owned enterprises; growth and fiscal consolidation supported by oil revenues, but risks remain from demand shocks; potential economic gains from Nagorno-Karabakh ceasefire; education investments to diversify and retain human capital\n3. Total Population: 10,650,239\n4. Climate: dry, semiarid steppe\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Population Growth Rate: 2.41% (2024 est.)\n2. Total Area: 56,785 sq km\n3. Climate: tropical; hot, humid in south; semiarid in north\n4. GDP (Purchasing Power Parity): $25.75 billion (2023 est.)$24.199 billion (2022 est.)$22.881 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Economic Overview: hydropower investments spurring economic development; Gross National Happiness economy; sharp poverty declines; low inflation; strong monetary and fiscal policies; stable currency; fairly resilient response to COVID-19; key economic and strategic relations with India; climate vulnerabilities\n2. Religions: Lamaistic Buddhist 75.3%, Indian- and Nepali-influenced Hinduism 22.1%, other 2.6% (2005 est.)\n3. Land Area: 38,394 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Natural Resources: petroleum, natural gas, sulfur, salt\n2. Economic Overview: upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development\n3. Export Commodities: natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2022)\n4. Population Growth Rate: 0.92% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Religions: folk religion 21.9%, Buddhist 18.2%, Christian 5.1%, Muslim 1.8%, Hindu < 0.1%, Jewish < 0.1%, other 0.7% (includes Daoist (Taoist)), unaffiliated 52.1% (2021 est.)\n2. Languages: Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages; note - Zhuang is official in Guangxi Zhuang, Yue is official in Guangdong, Mongolian is official in Nei Mongol, Uyghur is official in Xinjiang Uygur, Kyrgyz is official in Xinjiang Uyghur, and Tibetan is official in Xizang (Tibet)\n3. Economic Overview: one of the world\u2019s top two economies; sustained growth due to export relations, its manufacturing sector, and low-wage workers; only major economy to avoid COVID-19 economic decline; recovery efforts slowing due to longstanding poverty imbalances and other institutional issues; state-sponsored economic controls\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Land Area: 469,930 sq km\n2. Export Partners: China 71%, Turkey 7%, Uzbekistan 5%, Azerbaijan 4%, Morocco 2% (2022)\n3. GDP (Purchasing Power Parity): $131.576 billion (2023 est.)$123.778 billion (2022 est.)$116.552 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $2,600 (2023 est.)$2,500 (2022 est.)$2,500 (2021 est.)\n2. Religions: Muslim 46.1%, folk religions 30.6%, Christian 18.9%, other or unaffiliated 4.4% (2020 est.)\n3. Land Area: 28,120 sq km\n4. GDP (Purchasing Power Parity): $5.553 billion (2023 est.)$5.279 billion (2022 est.)$5.046 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $826.824 million (2018 est.)$602.581 million (2017 est.)$741.173 million (2016 est.)\n2. Religions: Protestant 72.8% (Baptist 35.8%, Church of God 11.7%, Anglican 10%, Methodist 9.3%, Seventh Day Adventist 6%), Roman Catholic 11.4%, Jehovah's Witness 1.8%, other 14% (2006 est.)\n3. Total Population: 60,439\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Natural Resources: coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas\n2. Export Partners: Denmark 49%, China 24%, UK 6%, Japan 5%, Taiwan 3% (2022)\n3. Economic Overview: large self-governing Danish territorial economy; preferential EU market access; high-income economy; dependent on Danish financial support, even for whaling and sealing industries; growing tourism; hydropower-fueled but environmentally fragile economy\n4. Total Population: 57,751\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Land Area: 2,166,086 sq km\n2. Religions: Evangelical Lutheran, traditional Inuit spiritual beliefs\n3. Export Partners: Denmark 49%, China 24%, UK 6%, Japan 5%, Taiwan 3% (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Commodities: natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2022)\n2. Total Population: 5,744,151\n3. Economic Overview: upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development\n4. Climate: subtropical desert\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $10.282 billion (2021 est.)$8.164 billion (2020 est.)$11.188 billion (2019 est.)\n2. Languages: Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%\n3. Total Area: 488,100 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Economic Overview: low-income West African economy; primarily agrarian economy; has a deep-water port; growing international shipping locale; improving privatization and public budgeting transparency; key phosphate mining industry; extremely high rural poverty\n2. Climate: tropical; hot, humid in south; semiarid in north\n3. GDP (Purchasing Power Parity): $25.75 billion (2023 est.)$24.199 billion (2022 est.)$22.881 billion (2021 est.)\n4. Total Area: 56,785 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Languages: Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%\n2. Land Area: 469,930 sq km\n3. GDP Per Capita: $17,900 (2023 est.)$17,100 (2022 est.)$16,400 (2021 est.)\n4. Export Commodities: natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $3.511 trillion (2023 est.)$3.719 trillion (2022 est.)$3.555 trillion (2021 est.)\n2. GDP (Purchasing Power Parity): $31.23 trillion (2023 est.)$29.672 trillion (2022 est.)$28.822 trillion (2021 est.)\n3. GDP Per Capita: $22,100 (2023 est.)$21,000 (2022 est.)$20,400 (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $3.857 billion (2021 est.)$3.808 billion (2020 est.)$3.801 billion (2019 est.)\n2. Population Growth Rate: -0.05% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $22,300 (2023 est.)$22,200 (2022 est.)$21,200 (2021 est.)\n2. Exports: $826.824 million (2018 est.)$602.581 million (2017 est.)$741.173 million (2016 est.)\n3. Total Area: 948 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: China 71%, Turkey 7%, Uzbekistan 5%, Azerbaijan 4%, Morocco 2% (2022)\n2. Population Growth Rate: 0.92% (2024 est.)\n3. GDP (Purchasing Power Parity): $131.576 billion (2023 est.)$123.778 billion (2022 est.)$116.552 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Religions: Muslim 97.3% (predominantly Shia), Christian 2.6%, other <0.1, unaffiliated <0.1 (2020 est.)\n2. Languages: Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)\n3. Total Area: 86,600 sq km\n4. Population Growth Rate: 0.43% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: Italy 47%, Turkey 9%, Israel 4%, India 4%, Greece 4% (2022)\n2. Religions: Muslim 97.3% (predominantly Shia), Christian 2.6%, other <0.1, unaffiliated <0.1 (2020 est.)\n3. Exports: $35.487 billion (2023 est.)$47.274 billion (2022 est.)$25.494 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Area: 9,596,960 sq km\n2. Religions: folk religion 21.9%, Buddhist 18.2%, Christian 5.1%, Muslim 1.8%, Hindu < 0.1%, Jewish < 0.1%, other 0.7% (includes Daoist (Taoist)), unaffiliated 52.1% (2021 est.)\n3. Economic Overview: one of the world\u2019s top two economies; sustained growth due to export relations, its manufacturing sector, and low-wage workers; only major economy to avoid COVID-19 economic decline; recovery efforts slowing due to longstanding poverty imbalances and other institutional issues; state-sponsored economic controls\n4. Climate: extremely diverse; tropical in south to subarctic in north\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $826.824 million (2018 est.)$602.581 million (2017 est.)$741.173 million (2016 est.)\n2. Export Partners: Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $22,300 (2023 est.)$22,200 (2022 est.)$21,200 (2021 est.)\n2. GDP (Purchasing Power Parity): $1.03 billion (2023 est.)$1.018 billion (2022 est.)$958.811 million (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Natural Resources: coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas\n2. Religions: Evangelical Lutheran, traditional Inuit spiritual beliefs\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Population: 884,546\n2. Population Growth Rate: 0.95% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Climate: dry, semiarid steppe\n2. Exports: $35.487 billion (2023 est.)$47.274 billion (2022 est.)$25.494 billion (2021 est.)\n3. Total Area: 86,600 sq km\n4. Economic Overview: upper-middle income, oil-dependent Caucasus economy; minimal economic diversification and dominance of state-owned enterprises; growth and fiscal consolidation supported by oil revenues, but risks remain from demand shocks; potential economic gains from Nagorno-Karabakh ceasefire; education investments to diversify and retain human capital\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Natural Resources: petroleum, natural gas, sulfur, salt\n2. Total Area: 488,100 sq km\n3. GDP Per Capita: $17,900 (2023 est.)$17,100 (2022 est.)$16,400 (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $17,900 (2023 est.)$17,100 (2022 est.)$16,400 (2021 est.)\n2. Exports: $10.282 billion (2021 est.)$8.164 billion (2020 est.)$11.188 billion (2019 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Economic Overview: upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development\n2. Total Area: 488,100 sq km\n3. Natural Resources: petroleum, natural gas, sulfur, salt\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Languages: Portuguese-based Creole, Portuguese (official; largely used as a second or third language), Pular (a Fula language), Mandingo\n2. Export Partners: India 92%, Cote d'Ivoire 2%, Togo 2%, Netherlands 1%, South Korea 1% (2022)\n3. Land Area: 28,120 sq km\n4. GDP Per Capita: $2,600 (2023 est.)$2,500 (2022 est.)$2,500 (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $10.282 billion (2021 est.)$8.164 billion (2020 est.)$11.188 billion (2019 est.)\n2. Land Area: 469,930 sq km\n3. Total Area: 488,100 sq km\n4. Export Commodities: natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Population: 57,751\n2. Natural Resources: coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas\n3. Export Commodities: fish, shellfish, processed crustaceans, precious stones, animal products (2022)\n4. Economic Overview: large self-governing Danish territorial economy; preferential EU market access; high-income economy; dependent on Danish financial support, even for whaling and sealing industries; growing tourism; hydropower-fueled but environmentally fragile economy\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $31.23 trillion (2023 est.)$29.672 trillion (2022 est.)$28.822 trillion (2021 est.)\n2. Natural Resources: coal, iron ore, helium, petroleum, natural gas, arsenic, bismuth, cobalt, cadmium, ferrosilicon, gallium, germanium, hafnium, indium, lithium, mercury, tantalum, tellurium, tin, titanium, tungsten, antimony, manganese, magnesium, molybdenum, selenium, strontium, vanadium, magnetite, aluminum, lead, zinc, rare earth elements, uranium, hydropower potential (world's largest), arable land\n3. Languages: Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages; note - Zhuang is official in Guangxi Zhuang, Yue is official in Guangdong, Mongolian is official in Nei Mongol, Uyghur is official in Xinjiang Uygur, Kyrgyz is official in Xinjiang Uyghur, and Tibetan is official in Xizang (Tibet)\n4. Total Population: 1,416,043,270\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Commodities: fertilizers, shellfish, plastics, sulfur, soybean oil (2022)\n2. Languages: English (official)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Area: 36,125 sq km\n2. Exports: $280.065 million (2022 est.)$334.904 million (2021 est.)$232.536 million (2020 est.)\n3. Climate: tropical; generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds\n4. GDP Per Capita: $2,600 (2023 est.)$2,500 (2022 est.)$2,500 (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Commodities: gold, crude petroleum, cocoa beans, coconuts/Brazil nuts/cashews, cocoa paste (2022)\n2. Export Partners: UAE 24%, Switzerland 17%, US 14%, India 10%, China 10% (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Population Growth Rate: 0.92% (2024 est.)\n2. GDP Per Capita: $17,900 (2023 est.)$17,100 (2022 est.)$16,400 (2021 est.)\n3. GDP (Purchasing Power Parity): $131.576 billion (2023 est.)$123.778 billion (2022 est.)$116.552 billion (2021 est.)\n4. Religions: Muslim 93%, Christian 6.4%, Buddhist <1%, folk religion <1%, Jewish <1%, other <1%, unspecified <1% (2020 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: Denmark 49%, China 24%, UK 6%, Japan 5%, Taiwan 3% (2022)\n2. Land Area: 2,166,086 sq km\n3. Climate: arctic to subarctic; cool summers, cold winters\n4. Population Growth Rate: -0.05% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Population: 8,917,994\n2. Languages: French (official, language of commerce), Ewe and Mina (in the south), Kabye (sometimes spelled Kabiye) and Dagomba (in the north)\n3. Natural Resources: phosphates, limestone, marble, arable land\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Population Growth Rate: 0.92% (2024 est.)\n2. Exports: $10.282 billion (2021 est.)$8.164 billion (2020 est.)$11.188 billion (2019 est.)\n3. Natural Resources: petroleum, natural gas, sulfur, salt\n4. GDP (Purchasing Power Parity): $131.576 billion (2023 est.)$123.778 billion (2022 est.)$116.552 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Commodities: coconuts/Brazil nuts/cashews, fish, fish oil, palm oil, dried fruits (2022)\n2. Climate: tropical; generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Economic Overview: extremely poor West African economy; ethnically diverse labor force; increasing government expenditures; slight inflation due to food supply disruptions; major cashew exporter; systemic banking instabilities and corruption; vulnerable to oil price shocks\n2. Total Area: 36,125 sq km\n3. Total Population: 2,132,325\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: UAE 26%, India 11%, Cote d'Ivoire 11%, South Africa 6%, Burkina Faso 6% (2022)\n2. Economic Overview: low-income West African economy; primarily agrarian economy; has a deep-water port; growing international shipping locale; improving privatization and public budgeting transparency; key phosphate mining industry; extremely high rural poverty\n3. Total Population: 8,917,994\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Population Growth Rate: 2.15% (2024 est.)\n2. Economic Overview: West African lower-middle income economy; major gold, oil and cocoa exporter; macroeconomic challenges following nearly four decades of sustained growth; recent progress in debt restructuring, fiscal reforms, financial stability, and curbing runaway inflation under 2023-26 IMF credit facility program\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Population: 10,650,239\n2. Languages: Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Climate: dry, semiarid steppe\n2. Religions: Muslim 97.3% (predominantly Shia), Christian 2.6%, other <0.1, unaffiliated <0.1 (2020 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: Denmark 49%, China 24%, UK 6%, Japan 5%, Taiwan 3% (2022)\n2. Exports: $1.147 billion (2021 est.)$1.108 billion (2020 est.)$1.23 billion (2019 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Population Growth Rate: 0.95% (2024 est.)\n2. GDP (Purchasing Power Parity): $10.981 billion (2022 est.)$10.437 billion (2021 est.)$9.995 billion (2020 est.)\n3. Export Commodities: iron alloys, dolomite, gypsum, cement, electricity (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Climate: tropical; generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds\n2. Export Partners: India 92%, Cote d'Ivoire 2%, Togo 2%, Netherlands 1%, South Korea 1% (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: UAE 24%, Switzerland 17%, US 14%, India 10%, China 10% (2022)\n2. Total Area: 238,533 sq km\n3. GDP (Purchasing Power Parity): $229.639 billion (2023 est.)$223.07 billion (2022 est.)$214.867 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: India 88%, Italy 5%, Nepal 2%, Colombia 2%, Singapore 1% (2022)\n2. Religions: Lamaistic Buddhist 75.3%, Indian- and Nepali-influenced Hinduism 22.1%, other 2.6% (2005 est.)\n3. Natural Resources: timber, hydropower, gypsum, calcium carbonate\n4. Land Area: 38,394 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $25.75 billion (2023 est.)$24.199 billion (2022 est.)$22.881 billion (2021 est.)\n2. Languages: French (official, language of commerce), Ewe and Mina (in the south), Kabye (sometimes spelled Kabiye) and Dagomba (in the north)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Population: 10,650,239\n2. Population Growth Rate: 0.43% (2024 est.)\n3. Export Partners: Italy 47%, Turkey 9%, Israel 4%, India 4%, Greece 4% (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Climate: dry, semiarid steppe\n2. Population Growth Rate: 0.43% (2024 est.)\n3. GDP Per Capita: $21,300 (2023 est.)$21,100 (2022 est.)$20,100 (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: China 71%, Turkey 7%, Uzbekistan 5%, Azerbaijan 4%, Morocco 2% (2022)\n2. Land Area: 469,930 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Climate: tropical; generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds\n2. GDP (Purchasing Power Parity): $5.553 billion (2023 est.)$5.279 billion (2022 est.)$5.046 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Natural Resources: fish, timber, phosphates, bauxite, clay, granite, limestone, unexploited deposits of petroleum\n2. Land Area: 28,120 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Economic Overview: upper middle-income Central Asian economy; has 10% of global natural gas reserves, exporting to Russia and China; natural resource rich; authoritarian and dominated by state-owned enterprises; major central-south Asian pipeline development\n2. Total Population: 5,744,151\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $1.147 billion (2021 est.)$1.108 billion (2020 est.)$1.23 billion (2019 est.)\n2. Climate: arctic to subarctic; cool summers, cold winters\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Economic Overview: hydropower investments spurring economic development; Gross National Happiness economy; sharp poverty declines; low inflation; strong monetary and fiscal policies; stable currency; fairly resilient response to COVID-19; key economic and strategic relations with India; climate vulnerabilities\n2. Export Commodities: iron alloys, dolomite, gypsum, cement, electricity (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Commodities: broadcasting equipment, integrated circuits, computers, garments, machine parts (2022)\n2. Total Area: 9,596,960 sq km\n3. GDP Per Capita: $22,100 (2023 est.)$21,000 (2022 est.)$20,400 (2021 est.)\n4. Export Partners: US 15%, Hong Kong 7%, Japan 5%, Germany 4%, South Korea 4% (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $17,900 (2023 est.)$17,100 (2022 est.)$16,400 (2021 est.)\n2. Export Commodities: natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Languages: Portuguese-based Creole, Portuguese (official; largely used as a second or third language), Pular (a Fula language), Mandingo\n2. Land Area: 28,120 sq km\n3. Total Area: 36,125 sq km\n4. GDP Per Capita: $2,600 (2023 est.)$2,500 (2022 est.)$2,500 (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Land Area: 9,326,410 sq km\n2. Population Growth Rate: 0.23% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Commodities: fish, shellfish, processed crustaceans, precious stones, animal products (2022)\n2. Natural Resources: coal, iron ore, lead, zinc, molybdenum, diamonds, gold, platinum, niobium, tantalite, uranium, fish, seals, whales, hydropower, possible oil and gas\n3. GDP (Purchasing Power Parity): $3.857 billion (2021 est.)$3.808 billion (2020 est.)$3.801 billion (2019 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $5.553 billion (2023 est.)$5.279 billion (2022 est.)$5.046 billion (2021 est.)\n2. Exports: $280.065 million (2022 est.)$334.904 million (2021 est.)$232.536 million (2020 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Exports: $10.282 billion (2021 est.)$8.164 billion (2020 est.)$11.188 billion (2019 est.)\n2. GDP Per Capita: $17,900 (2023 est.)$17,100 (2022 est.)$16,400 (2021 est.)\n3. Export Commodities: natural gas, refined petroleum, fertilizers, crude petroleum, electricity (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "Turkmenistan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Natural Resources: timber, hydropower, gypsum, calcium carbonate\n2. Climate: varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas\n3. Total Population: 884,546\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $384.023 billion (2023 est.)$375.271 billion (2022 est.)$354.888 billion (2021 est.)\n2. Climate: temperate; mild, wet winters; hot, dry summers\n3. Population Growth Rate: -0.35% (2024 est.)\nSo what country is described by the above? Name only one country.",
         "answer": "Greece"
     },
     {
-        "question": "Which country has the following properties?\n1. Languages: Arabic (official), English (widely understood among upper and middle classes)\n2. Total Area: 89,342 sq km\n3. Climate: mostly arid desert; rainy season in west (November to April)\nSo what country is described by the above? Name only one country.",
-        "answer": "Jordan"
+        "question": "Which country has the following properties?\n1. Population Growth Rate: 0.95% (2024 est.)\n2. GDP Per Capita: $14,100 (2022 est.)$13,500 (2021 est.)$13,000 (2020 est.)\n3. Natural Resources: timber, hydropower, gypsum, calcium carbonate\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
     },
     {
-        "question": "Which country has the following properties?\n1. Natural Resources: petroleum, natural gas, gypsum\n2. GDP Per Capita: $12,500 (2023 est.)$11,500 (2022 est.)$12,600 (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Libya"
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $1.03 billion (2023 est.)$1.018 billion (2022 est.)$958.811 million (2021 est.)\n2. Export Partners: Togo 61%, US 13%, Zimbabwe 6%, Democratic Republic of the Congo 3%, Central African Republic 2% (2022)\n3. Economic Overview: British Caribbean island territorial economy; GDP and its tourism industry hit hard by COVID-19 disruptions; major biodiversity locale; US dollar user; fossil fuel dependent; negative trade balance; increasing unemployment\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
     },
     {
-        "question": "Which country has the following properties?\n1. Export Commodities: natural gas, crude petroleum, refined petroleum, fertilizers, ethylene polymers (2022)\n2. Climate: arid; mild, pleasant winters; very hot, humid summers\nSo what country is described by the above? Name only one country.",
-        "answer": "Qatar"
+        "question": "Which country has the following properties?\n1. Exports: $815.05 million (2023 est.)$791.342 million (2022 est.)$739.514 million (2021 est.)\n2. Natural Resources: timber, hydropower, gypsum, calcium carbonate\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
     },
     {
-        "question": "Which country has the following properties?\n1. Total Area: 1,759,540 sq km\n2. Religions: Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist <1%, Hindu <1%, Jewish <1%, folk religion <1%, other <1%, unaffiliated <1% (2020 est.)\n3. Population Growth Rate: 1.44% (2024 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Libya"
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $10.981 billion (2022 est.)$10.437 billion (2021 est.)$9.995 billion (2020 est.)\n2. Total Population: 884,546\n3. Land Area: 38,394 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
     },
     {
-        "question": "Which country has the following properties?\n1. Religions: Muslim (official) 74.6%, Christian 18.2%, other and unspecified 7.2% (2013 est.)\n2. Export Partners: China 24%, India 15%, South Korea 11%, Japan 9%, Taiwan 7% (2022)\nSo what country is described by the above? Name only one country.",
-        "answer": "Kuwait"
+        "question": "Which country has the following properties?\n1. GDP Per Capita: $21,300 (2023 est.)$21,100 (2022 est.)$20,100 (2021 est.)\n2. GDP (Purchasing Power Parity): $215.896 billion (2023 est.)$213.497 billion (2022 est.)$203.884 billion (2021 est.)\n3. Exports: $35.487 billion (2023 est.)$47.274 billion (2022 est.)$25.494 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Azerbaijan"
     },
     {
-        "question": "Which country has the following properties?\n1. Climate: temperate; mild, wet winters; hot, dry summers\n2. Total Population: 10,461,091\nSo what country is described by the above? Name only one country.",
-        "answer": "Greece"
-    },
-    {
-        "question": "Which country has the following properties?\n1. GDP Per Capita: $17,900 (2023 est.)$17,100 (2022 est.)$16,400 (2021 est.)\n2. Religions: Muslim 93%, Christian 6.4%, Buddhist <1%, folk religion <1%, Jewish <1%, other <1%, unspecified <1% (2020 est.)\n3. Languages: Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%\nSo what country is described by the above? Name only one country.",
+        "question": "Which country has the following properties?\n1. Climate: subtropical desert\n2. GDP Per Capita: $17,900 (2023 est.)$17,100 (2022 est.)$16,400 (2021 est.)\n3. GDP (Purchasing Power Parity): $131.576 billion (2023 est.)$123.778 billion (2022 est.)$116.552 billion (2021 est.)\n4. Land Area: 469,930 sq km\nSo what country is described by the above? Name only one country.",
         "answer": "Turkmenistan"
     },
     {
-        "question": "Which country has the following properties?\n1. Natural Resources: hydropower, some petroleum, uranium, mercury, brown coal, lead, zinc, antimony, tungsten, silver, gold\n2. Total Population: 10,394,063\nSo what country is described by the above? Name only one country.",
-        "answer": "Tajikistan"
+        "question": "Which country has the following properties?\n1. Total Area: 948 sq km\n2. Total Population: 60,439\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
     },
     {
-        "question": "Which country has the following properties?\n1. Religions: Protestant 71.4% (includes Anglican 17.7%, Pentecostal/Full Gospel 16.1%, Seventh Day Adventist 15%, Methodist 13.9%, Church of God 6.7%, other Protestant 2%), Roman Catholic 11.4%, Rastafarian 1.4%, Hindu 1.2%, Jehovah's Witness 1%, Muslim 0.4%, other/not stated 5.1%, none 7.9% (2018 est.)\n2. Total Population: 5,468\nSo what country is described by the above? Name only one country.",
-        "answer": "Montserrat"
+        "question": "Which country has the following properties?\n1. Total Area: 238,533 sq km\n2. Land Area: 227,533 sq km\n3. Economic Overview: West African lower-middle income economy; major gold, oil and cocoa exporter; macroeconomic challenges following nearly four decades of sustained growth; recent progress in debt restructuring, fiscal reforms, financial stability, and curbing runaway inflation under 2023-26 IMF credit facility program\n4. Religions: Christian 71.3% (Pentecostal/Charismatic 31.6%, Protestant 17.4%, Catholic 10%, other 12.3%), Muslim 19.9%, traditionalist 3.2%, other 4.5%, none 1.1% (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
     },
     {
-        "question": "Which country has the following properties?\n1. Languages: Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%\n2. GDP (Purchasing Power Parity): $131.576 billion (2023 est.)$123.778 billion (2022 est.)$116.552 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Turkmenistan"
+        "question": "Which country has the following properties?\n1. Export Commodities: broadcasting equipment, integrated circuits, computers, garments, machine parts (2022)\n2. GDP (Purchasing Power Parity): $31.23 trillion (2023 est.)$29.672 trillion (2022 est.)$28.822 trillion (2021 est.)\n3. Land Area: 9,326,410 sq km\n4. Languages: Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages; note - Zhuang is official in Guangxi Zhuang, Yue is official in Guangdong, Mongolian is official in Nei Mongol, Uyghur is official in Xinjiang Uygur, Kyrgyz is official in Xinjiang Uyghur, and Tibetan is official in Xizang (Tibet)\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
     },
     {
-        "question": "Which country has the following properties?\n1. Land Area: 469,930 sq km\n2. Total Population: 5,744,151\nSo what country is described by the above? Name only one country.",
-        "answer": "Turkmenistan"
+        "question": "Which country has the following properties?\n1. Exports: $280.065 million (2022 est.)$334.904 million (2021 est.)$232.536 million (2020 est.)\n2. Economic Overview: extremely poor West African economy; ethnically diverse labor force; increasing government expenditures; slight inflation due to food supply disruptions; major cashew exporter; systemic banking instabilities and corruption; vulnerable to oil price shocks\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
     },
     {
-        "question": "Which country has the following properties?\n1. Export Commodities: crude petroleum, natural gas, gold, refined petroleum, scrap iron (2022)\n2. Population Growth Rate: 1.44% (2024 est.)\n3. Total Population: 7,361,263\n4. Exports: $32.38 billion (2021 est.)$9.537 billion (2020 est.)$29.326 billion (2019 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Libya"
+        "question": "Which country has the following properties?\n1. Total Area: 9,596,960 sq km\n2. Population Growth Rate: 0.23% (2024 est.)\n3. Total Population: 1,416,043,270\n4. Export Commodities: broadcasting equipment, integrated circuits, computers, garments, machine parts (2022)\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
     },
     {
-        "question": "Which country has the following properties?\n1. Climate: dry desert; intensely hot summers; short, cool winters\n2. Religions: Muslim (official) 74.6%, Christian 18.2%, other and unspecified 7.2% (2013 est.)\n3. Exports: $95.476 billion (2023 est.)$110.923 billion (2022 est.)$77.121 billion (2021 est.)\n4. Total Population: 3,138,355\nSo what country is described by the above? Name only one country.",
-        "answer": "Kuwait"
+        "question": "Which country has the following properties?\n1. Export Commodities: coconuts/Brazil nuts/cashews, fish, fish oil, palm oil, dried fruits (2022)\n2. Economic Overview: extremely poor West African economy; ethnically diverse labor force; increasing government expenditures; slight inflation due to food supply disruptions; major cashew exporter; systemic banking instabilities and corruption; vulnerable to oil price shocks\n3. GDP (Purchasing Power Parity): $5.553 billion (2023 est.)$5.279 billion (2022 est.)$5.046 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Guinea-Bissau"
     },
     {
-        "question": "Which country has the following properties?\n1. Climate: arid; mild, pleasant winters; very hot, humid summers\n2. Population Growth Rate: 0.71% (2024 est.)\n3. Total Population: 2,552,088\n4. Religions: Muslim 65.2%, Christian 13.7%, Hindu 15.9%, Buddhist 3.8%, folk religion <0.1%, Jewish <0.1%, other <1%, unaffiliated <1% (2020 est.)\nSo what country is described by the above? Name only one country.",
-        "answer": "Qatar"
+        "question": "Which country has the following properties?\n1. Land Area: 54,385 sq km\n2. Export Partners: UAE 26%, India 11%, Cote d'Ivoire 11%, South Africa 6%, Burkina Faso 6% (2022)\n3. Languages: French (official, language of commerce), Ewe and Mina (in the south), Kabye (sometimes spelled Kabiye) and Dagomba (in the north)\n4. Economic Overview: low-income West African economy; primarily agrarian economy; has a deep-water port; growing international shipping locale; improving privatization and public budgeting transparency; key phosphate mining industry; extremely high rural poverty\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
     },
     {
-        "question": "Which country has the following properties?\n1. Total Population: 5,468\n2. Natural Resources: NEGL\nSo what country is described by the above? Name only one country.",
-        "answer": "Montserrat"
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $229.639 billion (2023 est.)$223.07 billion (2022 est.)$214.867 billion (2021 est.)\n2. GDP Per Capita: $6,800 (2023 est.)$6,700 (2022 est.)$6,600 (2021 est.)\n3. Exports: $25.365 billion (2023 est.)$25.52 billion (2022 est.)$23.901 billion (2021 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Ghana"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Total Population: 57,751\n2. Climate: arctic to subarctic; cool summers, cold winters\nSo what country is described by the above? Name only one country.",
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country has the following properties?\n1. GDP (Purchasing Power Parity): $25.75 billion (2023 est.)$24.199 billion (2022 est.)$22.881 billion (2021 est.)\n2. Population Growth Rate: 2.41% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Partners: UAE 26%, India 11%, Cote d'Ivoire 11%, South Africa 6%, Burkina Faso 6% (2022)\n2. Total Area: 56,785 sq km\n3. Population Growth Rate: 2.41% (2024 est.)\n4. Exports: $1.722 billion (2020 est.)$1.665 billion (2019 est.)$1.703 billion (2018 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Economic Overview: hydropower investments spurring economic development; Gross National Happiness economy; sharp poverty declines; low inflation; strong monetary and fiscal policies; stable currency; fairly resilient response to COVID-19; key economic and strategic relations with India; climate vulnerabilities\n2. Export Commodities: iron alloys, dolomite, gypsum, cement, electricity (2022)\n3. Population Growth Rate: 0.95% (2024 est.)\nSo what country is described by the above? Name only one country.",
+        "answer": "Bhutan"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Population Growth Rate: 0.23% (2024 est.)\n2. Export Partners: US 15%, Hong Kong 7%, Japan 5%, Germany 4%, South Korea 4% (2022)\n3. Total Area: 9,596,960 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "China"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Export Commodities: fertilizers, shellfish, plastics, sulfur, soybean oil (2022)\n2. Land Area: 948 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Turks and Caicos Islands"
+    },
+    {
+        "question": "Which country has the following properties?\n1. Natural Resources: phosphates, limestone, marble, arable land\n2. Languages: French (official, language of commerce), Ewe and Mina (in the south), Kabye (sometimes spelled Kabiye) and Dagomba (in the north)\n3. Total Area: 56,785 sq km\nSo what country is described by the above? Name only one country.",
+        "answer": "Togo"
     }
 ]

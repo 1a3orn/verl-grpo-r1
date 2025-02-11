@@ -1,402 +1,802 @@
 [
   {
-    "question": "What is the result of 19 + 15 + 11 + 11?",
-    "answer": "56"
-  },
-  {
-    "question": "What is the result of 4 * 8 + 15 - 8?",
-    "answer": "39"
-  },
-  {
-    "question": "What is the result of 15 + 13 - 15?",
-    "answer": "13"
-  },
-  {
-    "question": "What is the result of 6 * 7 - 18?",
-    "answer": "24"
-  },
-  {
-    "question": "What is the result of (3 * 4) + 10 + 14 - 15?",
-    "answer": "21"
-  },
-  {
-    "question": "What is the result of (10 + 3) - 8?",
-    "answer": "5"
-  },
-  {
-    "question": "What is the result of (4 + 10 * 6) * 4?",
-    "answer": "256"
-  },
-  {
-    "question": "What is the result of 18 + 13 + 4?",
-    "answer": "35"
-  },
-  {
-    "question": "What is the result of 19 * 5 - 14 - 20 + 14?",
-    "answer": "75"
-  },
-  {
-    "question": "What is the result of (17 + 11) - 5?",
-    "answer": "23"
-  },
-  {
-    "question": "What is the result of 12 + (13 + 13 * 13) * 10?",
-    "answer": "1832"
-  },
-  {
-    "question": "What is the result of (19 * 20 * 15 + 17)?",
-    "answer": "5717"
-  },
-  {
-    "question": "What is the result of 16 * 7 - 2 + 11 + 14 + 6?",
-    "answer": "141"
-  },
-  {
-    "question": "What is the result of 4 * 12 - 20 + 10?",
-    "answer": "38"
-  },
-  {
-    "question": "What is the result of 16 * (8 * 17) + 14?",
-    "answer": "2190"
-  },
-  {
-    "question": "What is the result of 14 + 7 * 8 - 2 - 13?",
-    "answer": "55"
-  },
-  {
-    "question": "What is the result of (17 + 19 - 14 - 5 + 9)?",
-    "answer": "26"
-  },
-  {
-    "question": "What is the result of 19 + (10 + 5 * 1)?",
-    "answer": "34"
-  },
-  {
-    "question": "What is the result of 7 * 8 * 2?",
-    "answer": "112"
-  },
-  {
-    "question": "What is the result of (5 - 4 - 8) + 14 + 4?",
-    "answer": "11"
-  },
-  {
-    "question": "What is the result of 7 * 13 * 12 - 8?",
-    "answer": "1084"
-  },
-  {
-    "question": "What is the result of (19 * 17 + 4)?",
-    "answer": "327"
-  },
-  {
-    "question": "What is the result of 9 - 1 + 19 - 17?",
-    "answer": "10"
-  },
-  {
-    "question": "What is the result of 10 * (19 + 6 * 4)?",
-    "answer": "430"
-  },
-  {
-    "question": "What is the result of 20 - 9 + 5?",
-    "answer": "16"
-  },
-  {
-    "question": "What is the result of (18 + 5 * 3) - 17?",
-    "answer": "16"
-  },
-  {
-    "question": "What is the result of 9 + 4 * 18?",
-    "answer": "81"
-  },
-  {
-    "question": "What is the result of 16 * 4 * 10 + 9?",
-    "answer": "649"
-  },
-  {
-    "question": "What is the result of (13 - 18 + 13)?",
-    "answer": "8"
-  },
-  {
-    "question": "What is the result of (4 * 17 - 20) * 13 * 1 * 12?",
-    "answer": "7488"
-  },
-  {
-    "question": "What is the result of (17 * 19) - 8?",
-    "answer": "315"
-  },
-  {
-    "question": "What is the result of 19 * 11 + 20 * 11?",
-    "answer": "429"
-  },
-  {
-    "question": "What is the result of 5 + (2 - 14) + 19 + 1?",
-    "answer": "13"
-  },
-  {
-    "question": "What is the result of 8 * (2 + 10 * 12 + 11)?",
-    "answer": "1064"
-  },
-  {
-    "question": "What is the result of 1 - 2 + 3?",
-    "answer": "2"
-  },
-  {
-    "question": "What is the result of 16 - 8 + 13 - 1 + 13?",
-    "answer": "33"
-  },
-  {
-    "question": "What is the result of 2 * 13 * 4 + 9 - 9?",
-    "answer": "104"
-  },
-  {
-    "question": "What is the result of (8 * 11 * 6 - 17) * 2 - 13?",
-    "answer": "1009"
-  },
-  {
-    "question": "What is the result of 9 * 7 + (8 * 1 * 11 * 18)?",
-    "answer": "1647"
-  },
-  {
-    "question": "What is the result of (2 + 13 + 18 - 2 + 10 * 12)?",
-    "answer": "151"
-  },
-  {
-    "question": "What is the result of 4 * (8 * 9) - 18?",
-    "answer": "270"
-  },
-  {
-    "question": "What is the result of 8 + 7 - 16 + 16 * 17?",
-    "answer": "271"
-  },
-  {
-    "question": "What is the result of 10 + 14 + 1?",
-    "answer": "25"
-  },
-  {
-    "question": "What is the result of 15 * (1 + 5) + 3?",
-    "answer": "93"
-  },
-  {
-    "question": "What is the result of (19 * 19) + 7?",
-    "answer": "368"
-  },
-  {
-    "question": "What is the result of 1 - 9 + 7 * 2 + 3?",
-    "answer": "9"
-  },
-  {
-    "question": "What is the result of (16 + 9 + 3)?",
-    "answer": "28"
-  },
-  {
-    "question": "What is the result of 5 * 9 * 14 - 20 + 5?",
-    "answer": "615"
-  },
-  {
-    "question": "What is the result of 1 + (2 * 12 - 4 + 7) + 19?",
-    "answer": "47"
-  },
-  {
-    "question": "What is the result of 16 * 1 * 7 * 7?",
-    "answer": "784"
-  },
-  {
-    "question": "What is the result of 5 * 10 - 2 - 3?",
-    "answer": "45"
-  },
-  {
-    "question": "What is the result of 13 * 2 + 19 * 9 * 6?",
-    "answer": "1052"
-  },
-  {
-    "question": "What is the result of 9 + 6 + 15 + 4 - 19 - 11?",
-    "answer": "4"
-  },
-  {
-    "question": "What is the result of 12 + 7 * 13 + 12 * 7?",
-    "answer": "187"
-  },
-  {
-    "question": "What is the result of 16 * 11 + 12 * 9?",
-    "answer": "284"
-  },
-  {
-    "question": "What is the result of 18 * 15 + 8 - 4?",
-    "answer": "274"
-  },
-  {
-    "question": "What is the result of 20 - 14 + 20?",
-    "answer": "26"
-  },
-  {
-    "question": "What is the result of 15 * 9 * 17?",
-    "answer": "2295"
-  },
-  {
-    "question": "What is the result of 16 - (6 - 12 * 14) - 13?",
-    "answer": "165"
-  },
-  {
-    "question": "What is the result of (19 * 2 + 11)?",
-    "answer": "49"
-  },
-  {
-    "question": "What is the result of 15 * 10 * 11 + 3 + 1?",
-    "answer": "1654"
-  },
-  {
-    "question": "What is the result of 18 - 17 + 3?",
-    "answer": "4"
-  },
-  {
-    "question": "What is the result of 18 * 12 + (5 * 12 - 6 + 13)?",
-    "answer": "283"
-  },
-  {
-    "question": "What is the result of (15 - 15) * 18 + 4?",
-    "answer": "4"
-  },
-  {
-    "question": "What is the result of (19 * 19 * 6 + 17 + 8) - 7?",
-    "answer": "2184"
-  },
-  {
-    "question": "What is the result of (11 - 7) + 17 + 10 * 7?",
-    "answer": "91"
-  },
-  {
-    "question": "What is the result of 1 - 10 + 11?",
-    "answer": "2"
-  },
-  {
-    "question": "What is the result of 20 * 14 + (14 * 7) + 7?",
-    "answer": "385"
-  },
-  {
-    "question": "What is the result of (18 + 4 * 2 - 10)?",
-    "answer": "16"
-  },
-  {
-    "question": "What is the result of 5 * 20 + 14 * 7?",
-    "answer": "198"
-  },
-  {
-    "question": "What is the result of 20 * 14 + 5?",
-    "answer": "285"
-  },
-  {
-    "question": "What is the result of 8 - 17 - 12 + 20 + 12 + 12?",
-    "answer": "23"
-  },
-  {
-    "question": "What is the result of (18 + 18 * 9) * 14?",
-    "answer": "2520"
-  },
-  {
-    "question": "What is the result of (12 + 2 * 17 * 16)?",
-    "answer": "556"
-  },
-  {
-    "question": "What is the result of 6 - (1 * 15 - 14) + 5?",
-    "answer": "10"
-  },
-  {
-    "question": "What is the result of (1 * 12) * 9 + 7?",
-    "answer": "115"
-  },
-  {
-    "question": "What is the result of 15 + 11 - 9 - 11?",
-    "answer": "6"
-  },
-  {
-    "question": "What is the result of 2 - 6 + 16 + 15?",
-    "answer": "27"
-  },
-  {
-    "question": "What is the result of (10 + 15) - 1?",
-    "answer": "24"
-  },
-  {
-    "question": "What is the result of (10 * 19 * 20 + 7 + 18 - 15)?",
-    "answer": "3810"
-  },
-  {
-    "question": "What is the result of 19 * (19 + 9) - 11?",
-    "answer": "521"
-  },
-  {
-    "question": "What is the result of 5 + (9 * 19) - 12?",
-    "answer": "164"
-  },
-  {
-    "question": "What is the result of (19 * 17) + 18?",
-    "answer": "341"
-  },
-  {
-    "question": "What is the result of (12 - 17 + 15) + 6 * 15 * 19?",
-    "answer": "1720"
-  },
-  {
-    "question": "What is the result of 7 + 18 * 19 - 15 + 18?",
-    "answer": "352"
-  },
-  {
-    "question": "What is the result of 10 + 9 * 6 * 2 + 18?",
-    "answer": "136"
-  },
-  {
-    "question": "What is the result of 13 - 6 + (11 * 17 - 19 * 1)?",
-    "answer": "175"
-  },
-  {
-    "question": "What is the result of 17 + 14 - 14 + 8 + 6 + 20?",
-    "answer": "51"
-  },
-  {
-    "question": "What is the result of (4 * 3 + 12 * 10 + 18) + 7?",
-    "answer": "157"
-  },
-  {
-    "question": "What is the result of (8 + 16 - 2) * 3?",
+    "question": "What is the result of 16 - 4 + 14 + 5 * 8?",
     "answer": "66"
   },
   {
-    "question": "What is the result of 16 * (9 * 5 - 7)?",
-    "answer": "608"
+    "question": "What is the result of 10 * 14 * 2 + 8?",
+    "answer": "288"
   },
   {
-    "question": "What is the result of 7 * 15 - 4 + 13 * 14?",
-    "answer": "283"
+    "question": "What is the result of (18 * 9 + 20 - 3 - 16)?",
+    "answer": "163"
   },
   {
-    "question": "What is the result of 4 * 14 + 2 - 17?",
-    "answer": "41"
+    "question": "What is the result of (8 + 5 + 14) + 7 + 6?",
+    "answer": "40"
   },
   {
-    "question": "What is the result of (13 * 4 * 2)?",
-    "answer": "104"
+    "question": "What is the result of 13 + (16 * 20 * 7) - 11?",
+    "answer": "2242"
   },
   {
-    "question": "What is the result of 6 * (18 + 8 * 20)?",
-    "answer": "1068"
+    "question": "What is the result of 16 * 20 - 7 - (16 * 15) + 3?",
+    "answer": "76"
   },
   {
-    "question": "What is the result of 15 + 10 * 6?",
-    "answer": "75"
+    "question": "What is the result of 1 + 10 + 15 + 16?",
+    "answer": "42"
   },
   {
-    "question": "What is the result of (17 + 14 + 2 * 20)?",
+    "question": "What is the result of (14 + 11 * 9) - 12 - 7 - 9?",
+    "answer": "85"
+  },
+  {
+    "question": "What is the result of 13 + 11 * 17 * (5 + 18 - 13)?",
+    "answer": "1883"
+  },
+  {
+    "question": "What is the result of 5 + 14 + 19 + 3 * 11?",
     "answer": "71"
   },
   {
-    "question": "What is the result of (11 - 7 * 1)?",
+    "question": "What is the result of 9 - 14 + 9 + 13?",
+    "answer": "17"
+  },
+  {
+    "question": "What is the result of (11 * 4) + 7?",
+    "answer": "51"
+  },
+  {
+    "question": "What is the result of 18 - 20 + 13?",
+    "answer": "11"
+  },
+  {
+    "question": "What is the result of (10 * 18 - 7)?",
+    "answer": "173"
+  },
+  {
+    "question": "What is the result of 18 + 18 + (16 - 5) * 20?",
+    "answer": "256"
+  },
+  {
+    "question": "What is the result of 13 * 13 * (6 * 6 - 6)?",
+    "answer": "5070"
+  },
+  {
+    "question": "What is the result of 15 * 1 - 9?",
+    "answer": "6"
+  },
+  {
+    "question": "What is the result of 16 + 20 - 10?",
+    "answer": "26"
+  },
+  {
+    "question": "What is the result of (8 + 1) * 17 - 12?",
+    "answer": "141"
+  },
+  {
+    "question": "What is the result of (7 * 1) * 5?",
+    "answer": "35"
+  },
+  {
+    "question": "What is the result of 9 + 11 + 6 * 3 + 17?",
+    "answer": "55"
+  },
+  {
+    "question": "What is the result of (5 * 8) - 18?",
+    "answer": "22"
+  },
+  {
+    "question": "What is the result of 18 * 18 - (18 + 7 + 18)?",
+    "answer": "281"
+  },
+  {
+    "question": "What is the result of 5 * 12 - 10 + 4 * 3?",
+    "answer": "62"
+  },
+  {
+    "question": "What is the result of 13 + 17 + 17 - 10 + 15?",
+    "answer": "52"
+  },
+  {
+    "question": "What is the result of (20 + 18 - 16)?",
+    "answer": "22"
+  },
+  {
+    "question": "What is the result of 2 + 18 - 8 + 3 * 8?",
+    "answer": "36"
+  },
+  {
+    "question": "What is the result of (6 + 11) + 16 - 1 - 16?",
+    "answer": "16"
+  },
+  {
+    "question": "What is the result of 10 * (18 - 4) + 20?",
+    "answer": "160"
+  },
+  {
+    "question": "What is the result of (14 + 20 + 17)?",
+    "answer": "51"
+  },
+  {
+    "question": "What is the result of 1 * 15 * 8 - (6 - 9 - 20)?",
+    "answer": "143"
+  },
+  {
+    "question": "What is the result of 17 + (7 - 6 + 20) * 18 * 13?",
+    "answer": "4931"
+  },
+  {
+    "question": "What is the result of 6 + (2 + 3 - 7)?",
     "answer": "4"
   },
   {
-    "question": "What is the result of 3 * 14 + 6 + 13?",
+    "question": "What is the result of 3 * 7 * 14 * 5 - 6?",
+    "answer": "1464"
+  },
+  {
+    "question": "What is the result of 6 * (16 - 20 + 8) * 16?",
+    "answer": "384"
+  },
+  {
+    "question": "What is the result of 17 * 10 + 16 + 1?",
+    "answer": "187"
+  },
+  {
+    "question": "What is the result of 8 * (17 * 7 - 9)?",
+    "answer": "880"
+  },
+  {
+    "question": "What is the result of (6 + 15 * 7 - 8)?",
+    "answer": "103"
+  },
+  {
+    "question": "What is the result of 13 * (3 + 13 * 1)?",
+    "answer": "208"
+  },
+  {
+    "question": "What is the result of 12 * 2 * 15 + 11 + 4?",
+    "answer": "375"
+  },
+  {
+    "question": "What is the result of (8 + 13 - 13)?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the result of (20 * 20) + 5 - 14?",
+    "answer": "391"
+  },
+  {
+    "question": "What is the result of (4 * 20) - 15?",
+    "answer": "65"
+  },
+  {
+    "question": "What is the result of 6 * 20 - 5?",
+    "answer": "115"
+  },
+  {
+    "question": "What is the result of (8 + 5) - 2?",
+    "answer": "11"
+  },
+  {
+    "question": "What is the result of 4 + 17 + 5 * 2 * 8?",
+    "answer": "101"
+  },
+  {
+    "question": "What is the result of 20 * 18 * 15?",
+    "answer": "5400"
+  },
+  {
+    "question": "What is the result of (12 * 14) * 14?",
+    "answer": "2352"
+  },
+  {
+    "question": "What is the result of 13 * 7 * 20?",
+    "answer": "1820"
+  },
+  {
+    "question": "What is the result of 6 * 12 + 19 + 9 + 8?",
+    "answer": "108"
+  },
+  {
+    "question": "What is the result of 14 - 2 - 6?",
+    "answer": "6"
+  },
+  {
+    "question": "What is the result of 7 + 16 * 4 * 20 + 1 - 14?",
+    "answer": "1274"
+  },
+  {
+    "question": "What is the result of 14 + 8 + 15?",
+    "answer": "37"
+  },
+  {
+    "question": "What is the result of 3 - 12 - 11 + 15 * 16 + 5?",
+    "answer": "225"
+  },
+  {
+    "question": "What is the result of (9 - 12 + 15)?",
+    "answer": "12"
+  },
+  {
+    "question": "What is the result of 7 + 7 - 6?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the result of 14 + 2 + 19 + 20?",
+    "answer": "55"
+  },
+  {
+    "question": "What is the result of 12 * 8 - 11 * 10 + 15 * 10?",
+    "answer": "136"
+  },
+  {
+    "question": "What is the result of (5 * 18 * 7)?",
+    "answer": "630"
+  },
+  {
+    "question": "What is the result of 4 + (20 + 12 + 8 * 7)?",
+    "answer": "92"
+  },
+  {
+    "question": "What is the result of (7 * 5 - 14 + 4)?",
+    "answer": "25"
+  },
+  {
+    "question": "What is the result of (2 + 18 - 4)?",
+    "answer": "16"
+  },
+  {
+    "question": "What is the result of 5 + (13 + 11 * 6 * 6 + 8)?",
+    "answer": "422"
+  },
+  {
+    "question": "What is the result of 3 + 20 + 20 - 9 - 1 - 15?",
+    "answer": "18"
+  },
+  {
+    "question": "What is the result of 9 + (20 + 8 + 8)?",
+    "answer": "45"
+  },
+  {
+    "question": "What is the result of 1 + 9 + 16?",
+    "answer": "26"
+  },
+  {
+    "question": "What is the result of 1 + 1 + 3 + 2?",
+    "answer": "7"
+  },
+  {
+    "question": "What is the result of (5 - 3) + 3?",
+    "answer": "5"
+  },
+  {
+    "question": "What is the result of (10 + 6) - 11 + 1?",
+    "answer": "6"
+  },
+  {
+    "question": "What is the result of 19 * 19 * 10 - 4?",
+    "answer": "3606"
+  },
+  {
+    "question": "What is the result of 5 + 9 + 19 - 2?",
+    "answer": "31"
+  },
+  {
+    "question": "What is the result of (1 + 9 * 17)?",
+    "answer": "154"
+  },
+  {
+    "question": "What is the result of 16 - 17 + 11 + 14 * 1 + 12?",
+    "answer": "36"
+  },
+  {
+    "question": "What is the result of 11 * (18 * 13 + 4 + 4 + 20)?",
+    "answer": "2882"
+  },
+  {
+    "question": "What is the result of 7 * 15 + 15 + 8 * 1?",
+    "answer": "128"
+  },
+  {
+    "question": "What is the result of 15 + 9 + 14 - 2?",
+    "answer": "36"
+  },
+  {
+    "question": "What is the result of (4 + 3) * 16?",
+    "answer": "112"
+  },
+  {
+    "question": "What is the result of 19 * (9 + 1) + 10?",
+    "answer": "200"
+  },
+  {
+    "question": "What is the result of 9 * 3 + 5 - 4?",
+    "answer": "28"
+  },
+  {
+    "question": "What is the result of 8 - (19 - 17 - 5 - 13) - 13?",
+    "answer": "11"
+  },
+  {
+    "question": "What is the result of (11 * 2 * 16)?",
+    "answer": "352"
+  },
+  {
+    "question": "What is the result of (7 + 20 * 17 - 7 * 15)?",
+    "answer": "242"
+  },
+  {
+    "question": "What is the result of 17 + 20 + 18 * 15 + 17?",
+    "answer": "324"
+  },
+  {
+    "question": "What is the result of 1 + 10 - 13 + 8?",
+    "answer": "6"
+  },
+  {
+    "question": "What is the result of 13 * 15 + 12 * (8 - 3 - 19)?",
+    "answer": "27"
+  },
+  {
+    "question": "What is the result of (16 + 9) - 12?",
+    "answer": "13"
+  },
+  {
+    "question": "What is the result of 16 + 6 * 20?",
+    "answer": "136"
+  },
+  {
+    "question": "What is the result of 2 + 8 + 11 * 5 * 20 - 14?",
+    "answer": "1096"
+  },
+  {
+    "question": "What is the result of 13 * (4 + 17 - 5)?",
+    "answer": "208"
+  },
+  {
+    "question": "What is the result of (3 + 15 - 11)?",
+    "answer": "7"
+  },
+  {
+    "question": "What is the result of (16 * 5 - 14) - 8 * 8?",
+    "answer": "2"
+  },
+  {
+    "question": "What is the result of 2 * 4 * 7?",
+    "answer": "56"
+  },
+  {
+    "question": "What is the result of 16 + 7 + 6 * 5 + 2 * 2?",
+    "answer": "57"
+  },
+  {
+    "question": "What is the result of 12 + 5 * 13 - 2 + 11 * 7?",
+    "answer": "152"
+  },
+  {
+    "question": "What is the result of 13 + 11 * 14 * 12 + 10 + 13?",
+    "answer": "1884"
+  },
+  {
+    "question": "What is the result of (20 * 7 + 9)?",
+    "answer": "149"
+  },
+  {
+    "question": "What is the result of 8 + (11 * 15 + 11 + 9) * 11?",
+    "answer": "2043"
+  },
+  {
+    "question": "What is the result of 1 * 14 + 13 - 16 + 17?",
+    "answer": "28"
+  },
+  {
+    "question": "What is the result of 14 - 6 - 2?",
+    "answer": "6"
+  },
+  {
+    "question": "What is the result of (6 * 13 * 9 + 2 - 15)?",
+    "answer": "689"
+  },
+  {
+    "question": "What is the result of 18 - 18 + 10 * 11 - 16 + 8?",
+    "answer": "102"
+  },
+  {
+    "question": "What is the result of (17 + 13 * 16 - 5)?",
+    "answer": "220"
+  },
+  {
+    "question": "What is the result of (12 + 10) * 10?",
+    "answer": "220"
+  },
+  {
+    "question": "What is the result of 16 * 14 + 19 - (1 * 20) - 7?",
+    "answer": "216"
+  },
+  {
+    "question": "What is the result of (18 + 16) - 5?",
+    "answer": "29"
+  },
+  {
+    "question": "What is the result of 14 * 9 + 3?",
+    "answer": "129"
+  },
+  {
+    "question": "What is the result of 16 - 4 - 8 + 3 + 14?",
+    "answer": "21"
+  },
+  {
+    "question": "What is the result of (2 + 7 * 5)?",
+    "answer": "37"
+  },
+  {
+    "question": "What is the result of (9 + 10 + 9)?",
+    "answer": "28"
+  },
+  {
+    "question": "What is the result of (10 + 15) + 15 - 4 - 9?",
+    "answer": "27"
+  },
+  {
+    "question": "What is the result of (12 * 2 + 7 * 14 - 14) - 14?",
+    "answer": "94"
+  },
+  {
+    "question": "What is the result of 13 * 6 * 20 * 2 + 19?",
+    "answer": "3139"
+  },
+  {
+    "question": "What is the result of 7 + 12 * 15 - 3?",
+    "answer": "184"
+  },
+  {
+    "question": "What is the result of 14 + 8 - 20?",
+    "answer": "2"
+  },
+  {
+    "question": "What is the result of (2 - 1 + 16)?",
+    "answer": "17"
+  },
+  {
+    "question": "What is the result of 10 + 17 + 3 + 15 - 14 - 16?",
+    "answer": "15"
+  },
+  {
+    "question": "What is the result of 7 * 18 * 2 - 6?",
+    "answer": "246"
+  },
+  {
+    "question": "What is the result of 1 - 1 * 12 + 14 + 1 + 16?",
+    "answer": "20"
+  },
+  {
+    "question": "What is the result of 14 * 19 * 7 + 9?",
+    "answer": "1871"
+  },
+  {
+    "question": "What is the result of (15 * 13 - 2) * 5?",
+    "answer": "965"
+  },
+  {
+    "question": "What is the result of 12 + 2 * 19 + 5 - 13 - 6?",
+    "answer": "36"
+  },
+  {
+    "question": "What is the result of 8 * (1 + 10 * 1)?",
+    "answer": "88"
+  },
+  {
+    "question": "What is the result of 1 + 1 * 17?",
+    "answer": "18"
+  },
+  {
+    "question": "What is the result of 18 - 10 - 4 + 19 + 4?",
+    "answer": "27"
+  },
+  {
+    "question": "What is the result of 11 + 11 * 15?",
+    "answer": "176"
+  },
+  {
+    "question": "What is the result of (7 * 10) - 14?",
+    "answer": "56"
+  },
+  {
+    "question": "What is the result of (16 * 6 * 7) - 8 + 12 + 9?",
+    "answer": "685"
+  },
+  {
+    "question": "What is the result of (5 + 4 * 9 - 4 - 10 + 18)?",
+    "answer": "45"
+  },
+  {
+    "question": "What is the result of 4 * 18 + 15 + 8 + 7?",
+    "answer": "102"
+  },
+  {
+    "question": "What is the result of 3 - 4 + 11?",
+    "answer": "10"
+  },
+  {
+    "question": "What is the result of 7 + 20 + 18 - 15?",
+    "answer": "30"
+  },
+  {
+    "question": "What is the result of 14 + 13 - 7?",
+    "answer": "20"
+  },
+  {
+    "question": "What is the result of 9 * 17 * 3 + 9 + 9 * 19?",
+    "answer": "639"
+  },
+  {
+    "question": "What is the result of 16 - 2 + 9 * 3 - 4 * 6?",
+    "answer": "17"
+  },
+  {
+    "question": "What is the result of 4 * 15 * 5 * 15?",
+    "answer": "4500"
+  },
+  {
+    "question": "What is the result of 6 - 5 - 3 - (1 - 15 - 12)?",
+    "answer": "24"
+  },
+  {
+    "question": "What is the result of 2 + 5 - 2?",
+    "answer": "5"
+  },
+  {
+    "question": "What is the result of 11 * 17 - 8 + 14 + 10 + 20?",
+    "answer": "223"
+  },
+  {
+    "question": "What is the result of 13 * 7 + 10?",
+    "answer": "101"
+  },
+  {
+    "question": "What is the result of 1 + 13 + 1 - 12?",
+    "answer": "3"
+  },
+  {
+    "question": "What is the result of 11 - (8 - 13 + 18 - 20)?",
+    "answer": "18"
+  },
+  {
+    "question": "What is the result of 8 + 19 * 10 + 10 + 15 - 14?",
+    "answer": "209"
+  },
+  {
+    "question": "What is the result of 6 + 2 * (12 * 4 + 14)?",
+    "answer": "130"
+  },
+  {
+    "question": "What is the result of 1 * (14 - 10) * 7?",
+    "answer": "28"
+  },
+  {
+    "question": "What is the result of 3 - 15 + 12 * 8 * 7?",
+    "answer": "660"
+  },
+  {
+    "question": "What is the result of 12 - 4 - (11 - 19) + 17?",
+    "answer": "33"
+  },
+  {
+    "question": "What is the result of 12 + 2 - 5?",
+    "answer": "9"
+  },
+  {
+    "question": "What is the result of 2 * (6 - 8) + 15?",
+    "answer": "11"
+  },
+  {
+    "question": "What is the result of 9 + 12 * 19 + 9 - 14 + 15?",
+    "answer": "247"
+  },
+  {
+    "question": "What is the result of (11 - 3 + 19) - 18?",
+    "answer": "9"
+  },
+  {
+    "question": "What is the result of 17 + 11 - 11?",
+    "answer": "17"
+  },
+  {
+    "question": "What is the result of 19 + 2 + 19 - 18 + 12 + 18?",
+    "answer": "52"
+  },
+  {
+    "question": "What is the result of 16 + (20 * 10 * 4 + 8 * 1)?",
+    "answer": "824"
+  },
+  {
+    "question": "What is the result of 4 * 9 + 1 * 8 - 16?",
+    "answer": "28"
+  },
+  {
+    "question": "What is the result of 10 * 1 - 20 + 19 * 19 - 20?",
+    "answer": "331"
+  },
+  {
+    "question": "What is the result of 10 - 7 - (6 - 20 - 3)?",
+    "answer": "20"
+  },
+  {
+    "question": "What is the result of 11 + 13 * 9?",
+    "answer": "128"
+  },
+  {
+    "question": "What is the result of (8 + 12 * 11)?",
+    "answer": "140"
+  },
+  {
+    "question": "What is the result of 20 * (15 + 20 + 12 + 13)?",
+    "answer": "1200"
+  },
+  {
+    "question": "What is the result of 19 * 3 - (2 * 6 - 7) + 9?",
     "answer": "61"
   },
   {
-    "question": "What is the result of 2 + 2 * 7 - 1?",
+    "question": "What is the result of 17 * 12 + 12 + 4 * 4 - 18?",
+    "answer": "214"
+  },
+  {
+    "question": "What is the result of 20 + (5 * 4 * 18) + 1?",
+    "answer": "381"
+  },
+  {
+    "question": "What is the result of (5 + 4) + 5?",
+    "answer": "14"
+  },
+  {
+    "question": "What is the result of 12 + 8 * 18 + 2?",
+    "answer": "158"
+  },
+  {
+    "question": "What is the result of 12 * 17 * 8 * 8 - 8?",
+    "answer": "13048"
+  },
+  {
+    "question": "What is the result of 9 * 4 + 8 - 20 - 9 + 8?",
+    "answer": "23"
+  },
+  {
+    "question": "What is the result of 10 * 14 + 2?",
+    "answer": "142"
+  },
+  {
+    "question": "What is the result of 20 * (10 + 2 + 3) + 17 - 11?",
+    "answer": "306"
+  },
+  {
+    "question": "What is the result of 17 + 7 * 19 - 17 * 10 + 20?",
+    "answer": "0"
+  },
+  {
+    "question": "What is the result of 17 + 6 + 15 * 11 - 9 - 11?",
+    "answer": "168"
+  },
+  {
+    "question": "What is the result of 9 + 13 + 1 * 9?",
+    "answer": "31"
+  },
+  {
+    "question": "What is the result of 1 + 4 + 20 + 3 * 10 * 11?",
+    "answer": "355"
+  },
+  {
+    "question": "What is the result of 14 + 12 + 3?",
+    "answer": "29"
+  },
+  {
+    "question": "What is the result of (10 + 11 + 18)?",
+    "answer": "39"
+  },
+  {
+    "question": "What is the result of 16 * 5 - 11 - 17?",
+    "answer": "52"
+  },
+  {
+    "question": "What is the result of 9 * 7 * 11?",
+    "answer": "693"
+  },
+  {
+    "question": "What is the result of 20 * 19 - 18 * 19?",
+    "answer": "38"
+  },
+  {
+    "question": "What is the result of 5 * 12 * 17 + 20?",
+    "answer": "1040"
+  },
+  {
+    "question": "What is the result of (17 + 3 - 6) - 8?",
+    "answer": "6"
+  },
+  {
+    "question": "What is the result of 6 - 14 + 11 * 8 * 11?",
+    "answer": "960"
+  },
+  {
+    "question": "What is the result of (10 + 12) - 20?",
+    "answer": "2"
+  },
+  {
+    "question": "What is the result of 1 * 10 + 12?",
+    "answer": "22"
+  },
+  {
+    "question": "What is the result of 20 + 4 + 2 - 5?",
+    "answer": "21"
+  },
+  {
+    "question": "What is the result of 8 * 9 + 7 - 19?",
+    "answer": "60"
+  },
+  {
+    "question": "What is the result of 9 - 13 - 10 + 19 * 18 * 16?",
+    "answer": "5458"
+  },
+  {
+    "question": "What is the result of 6 + 5 + 12 * 20?",
+    "answer": "251"
+  },
+  {
+    "question": "What is the result of 15 + 15 - 3 - 1?",
+    "answer": "26"
+  },
+  {
+    "question": "What is the result of (5 + 9 + 20) - 11?",
+    "answer": "23"
+  },
+  {
+    "question": "What is the result of 18 - 1 * 7 + 15?",
+    "answer": "26"
+  },
+  {
+    "question": "What is the result of 3 + (19 - 17) + 4 + 20 + 17?",
+    "answer": "46"
+  },
+  {
+    "question": "What is the result of 1 * 11 + 17 + 5?",
+    "answer": "33"
+  },
+  {
+    "question": "What is the result of 6 * 6 - 20?",
+    "answer": "16"
+  },
+  {
+    "question": "What is the result of 14 + 3 - 2 + 4?",
+    "answer": "19"
+  },
+  {
+    "question": "What is the result of 12 * 5 - (19 * 1 - 7)?",
+    "answer": "48"
+  },
+  {
+    "question": "What is the result of (6 + 14 + 14)?",
+    "answer": "34"
+  },
+  {
+    "question": "What is the result of 4 * 5 * 19 - 18 * 18 + 10?",
+    "answer": "66"
+  },
+  {
+    "question": "What is the result of 3 * 14 - 11?",
+    "answer": "31"
+  },
+  {
+    "question": "What is the result of 5 + 15 - 9 * 2 + 20 - 7?",
     "answer": "15"
+  },
+  {
+    "question": "What is the result of 9 - 3 + 17 - 3 * 7?",
+    "answer": "2"
+  },
+  {
+    "question": "What is the result of 11 * 8 + 4 + 5 - 4 + 14?",
+    "answer": "107"
   }
 ]
