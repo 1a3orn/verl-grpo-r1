@@ -4,7 +4,7 @@ export VLLM_ATTENTION_BACKEND=XFORMERS
 
 python3 -m verl.trainer.main_grpo \
     algorithm.adv_estimator=grpo \
-    data.train_files=$DATA_DIR/all_gsmk8k_train.parquet \
+    data.train_files=$DATA_DIR/all_gsm8k_train.parquet \
     data.val_files=[$DATA_DIR/all_geography_test.parquet,$DATA_DIR/all_gsm8k_test.parquet,$DATA_DIR/all_trash_math_test.parquet,$DATA_DIR/all_zebralogic_test.parquet] \
     data.train_batch_size=6 \
     data.val_batch_size=6 \
