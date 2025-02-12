@@ -4,7 +4,7 @@ export VLLM_ATTENTION_BACKEND=XFORMERS
 
 python3 -m verl.trainer.main_grpo \
     algorithm.adv_estimator=grpo \
-    data.train_files=$DATA_DIR/all_gsm8k_train.parquet \
+    data.train_files=$DATA_DIR/all_zebralogic_train.parquet \
     data.val_files=[$DATA_DIR/all_geography_test.parquet,$DATA_DIR/all_gsm8k_test.parquet,$DATA_DIR/all_trash_math_test.parquet,$DATA_DIR/all_zebralogic_test.parquet] \
     data.train_batch_size=6 \
     data.val_batch_size=6 \
@@ -35,7 +35,7 @@ python3 -m verl.trainer.main_grpo \
     trainer.critic_warmup=0 \
     trainer.logger=['console','wandb'] \
     trainer.project_name="grpo_generalization_2" \
-    trainer.experiment_name="train_gsmk8k_02" \
+    trainer.experiment_name="train_zebralogic_02" \
     trainer.n_gpus_per_node=2 \
     trainer.nnodes=1 \
     trainer.save_freq=-1 \
