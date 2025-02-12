@@ -16,7 +16,7 @@ python3 -m verl.trainer.main_grpo \
     actor_rollout_ref.actor.ppo_mini_batch_size=25 \
     actor_rollout_ref.actor.ppo_micro_batch_size_per_gpu=3 \
     actor_rollout_ref.actor.use_kl_loss=True \
-    actor_rollout_ref.actor.kl_loss_coef=0.006 \
+    actor_rollout_ref.actor.kl_loss_coef=0.0002 \
     actor_rollout_ref.actor.kl_loss_type=low_var_kl \
     actor_rollout_ref.model.enable_gradient_checkpointing=True \
     actor_rollout_ref.actor.fsdp_config.param_offload=False \
@@ -35,7 +35,7 @@ python3 -m verl.trainer.main_grpo \
     trainer.critic_warmup=0 \
     trainer.logger=['console','wandb'] \
     trainer.project_name="grpo_generalization_2" \
-    trainer.experiment_name="train_zebralogic_03" \
+    trainer.experiment_name="train_zebralogic_04" \
     trainer.n_gpus_per_node=2 \
     trainer.nnodes=1 \
     trainer.save_freq=-1 \
