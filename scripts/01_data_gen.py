@@ -25,13 +25,13 @@ def handle_files(read_file, write_file, data_source, check_only_format=False):
         full_prompt = f"{question_str} {addition}"
 
         converted.append({
-            "data_source": f"1a3orn_{data_source}",
+            "data_source": f"1a3orn_{data_source}_{str(check_only_format)}",
             "prompt": [
                 {"role": "system", "content": "You are a helpful assistant, that thinks carefully before answering."},
                 {"role": "user", "content": full_prompt}
             ],
             "prompt_text": full_prompt,
-            "ability": f"1a3orn_{data_source}",
+            "ability": f"1a3orn_{data_source}_{str(check_only_format)}",
             "reward_model": {
                 "style": "1a3orn",
                 "ground_truth": {
