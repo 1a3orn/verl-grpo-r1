@@ -37,6 +37,12 @@ def is_answer_correct(output: str, ground_truth: dict) -> bool:
         end_idx = output.find(end_tag)
         if start_idx == -1 or end_idx == -1:
             return False
+
+        # If ground truth check_only_format is True, then we only need to check if the answer is formatted correctly
+        if ground_truth["check_only_format"]:
+            return True
+
+        # Extract answer from output
         extracted_answer = output[start_idx:end_idx].strip()
     except:
         return False
