@@ -50,5 +50,5 @@ python3 -m verl.trainer.main_grpo \
     trainer.n_gpus_per_node=2 \
     trainer.nnodes=1 \
     trainer.save_freq=-1 \
-    trainer.test_freq=30 \
+    trainer.test_freq=40 \
     trainer.total_epochs=15 2>&1 | tee verl_demo.log
