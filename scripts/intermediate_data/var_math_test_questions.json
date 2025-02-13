@@ -1,802 +1,802 @@
 [
   {
-    "question": "cn = 18 - 10\nkf = cn + cn\nedlo = 12 * 20\nllwj = kf - cn\nWhat is the value of llwj?",
-    "answer": "8"
+    "question": "lu = 24 + 24\ndaqb = lu * lu\nij = daqb * lu\nhvwq = 14 + 4\nokfz = lu * hvwq\ncdc = ij + 15\ntpkc = daqb + 5\nqk = lu + 17\nyj = 13 * 7\ndld = 4 + 7\npier = hvwq + tpkc\nWhat is the value of pier?",
+    "answer": "2327"
   },
   {
-    "question": "pb = 16 + 5\nsfa = 9 * pb\nWhat is the value of sfa?",
-    "answer": "189"
-  },
-  {
-    "question": "llsn = 15 - 14\nkot = llsn + llsn\nokm = kot * 5\nkz = okm - llsn\nuxfm = kz - kno\nkno = kz * kz\nvgt = kno * okm\nrrf = 11 * kno\ndouz = okm + kot\nWhat is the value of rrf?",
-    "answer": "891"
-  },
-  {
-    "question": "ymrq = 2 + 7\nefin = ymrq * ymrq\ngas = ymrq + ymrq\nWhat is the value of gas?",
-    "answer": "18"
-  },
-  {
-    "question": "sjjz = 20 * 2\nqcu = sjjz - 8\nmboo = qcu + 12\nWhat is the value of mboo?",
-    "answer": "44"
-  },
-  {
-    "question": "sau = 8 + 16\nop = sau + sau\nkpsj = 15 + op\nnv = sau + 1\nxe = nv - op\nzta = sau - xe\nWhat is the value of zta?",
-    "answer": "47"
-  },
-  {
-    "question": "ymev = 4 * 9\nzh = ymev + ymev\nio = 18 + ymev\njl = ymev - 13\nrxs = ymev * ymev\nWhat is the value of rxs?",
-    "answer": "1296"
-  },
-  {
-    "question": "ib = 14 * 3\nxsbk = ib + ib\niq = xsbk - ib\nyjff = 15 * 13\njp = ib - xsbk\ndx = jp * jp\nnr = 10 + 7\nWhat is the value of nr?",
-    "answer": "17"
-  },
-  {
-    "question": "ht = 3 + 9\nna = 5 - 2\nWhat is the value of na?",
-    "answer": "3"
-  },
-  {
-    "question": "ndho = 1 * 8\ntzlk = 8 - 15\nwr = 19 - 9\nrv = wr * ndho\nefg = 19 * wr\nuyvq = efg - efg\nsktw = rv + wr\nWhat is the value of sktw?",
-    "answer": "90"
-  },
-  {
-    "question": "fpx = 19 - 18\nfry = fpx + fpx\nybkk = fry - fpx\nfjb = fry - 3\nvq = 5 * 2\ngu = vq - fry\nWhat is the value of gu?",
-    "answer": "8"
-  },
-  {
-    "question": "zdw = 10 + 15\nqfxu = zdw - zdw\ntk = 18 * 17\nprig = qfxu + qfxu\niv = prig + zdw\nbt = iv + 9\nlupr = zdw - 12\nWhat is the value of lupr?",
-    "answer": "13"
-  },
-  {
-    "question": "bzmb = 16 - 6\nkzu = 19 - bzmb\nWhat is the value of kzu?",
-    "answer": "9"
-  },
-  {
-    "question": "pw = 14 - 12\nffq = pw * pw\nrx = pw + ffq\nWhat is the value of ffq?",
-    "answer": "4"
-  },
-  {
-    "question": "cjoo = 6 * 11\nyj = 19 + cjoo\nta = yj + cjoo\njng = cjoo + yj\nll = yj * 19\nhmi = ta * ta\nmys = jng * cjoo\nWhat is the value of mys?",
-    "answer": "9966"
-  },
-  {
-    "question": "giqo = 13 - 15\npzlc = giqo - giqo\nnqog = pzlc + brs\nbrs = 9 + pzlc\nli = brs - pzlc\nWhat is the value of li?",
-    "answer": "9"
-  },
-  {
-    "question": "kdz = 17 + 20\nldq = kdz + kdz\noz = kdz + ldq\nrrqq = 19 + ldq\ntct = oz * rrqq\nauc = rrqq - 14\nWhat is the value of auc?",
-    "answer": "79"
-  },
-  {
-    "question": "oi = 11 * 14\ngjg = wdf - 19\nwdf = oi * 3\nfuou = oi + oi\nWhat is the value of wdf?",
-    "answer": "462"
-  },
-  {
-    "question": "kgx = 6 * 12\nmzz = kgx * kgx\nwh = kgx - kgx\nstue = wh * kgx\nwx = 17 * 15\nWhat is the value of wx?",
-    "answer": "255"
-  },
-  {
-    "question": "mxpj = 7 + 16\new = 14 - mxpj\nchs = 20 * mxpj\nybxm = 20 + chs\nWhat is the value of ybxm?",
-    "answer": "480"
-  },
-  {
-    "question": "jy = 15 * 17\nuwi = 7 * hfon\nhb = gfl * hfon\nhfon = 8 - jy\ngfl = jy + hfon\nxx = 20 - hfon\nWhat is the value of xx?",
-    "answer": "267"
-  },
-  {
-    "question": "ghj = 19 + 14\ngp = ghj + ghj\ntdi = ghj - ghj\njvm = ghj * gp\nWhat is the value of gp?",
-    "answer": "66"
-  },
-  {
-    "question": "dwx = 19 - 1\nyh = 17 + 3\nvrz = dwx - yh\nidjp = yh + dwx\notfy = 5 * dwx\nlie = otfy * 2\nWhat is the value of otfy?",
-    "answer": "90"
-  },
-  {
-    "question": "neqx = 1 - 8\nfu = neqx - neqx\nmu = 6 + fu\nvsx = 17 * 3\nsqz = vsx + neqx\nvuul = mu * mu\nWhat is the value of vuul?",
-    "answer": "36"
-  },
-  {
-    "question": "jztk = 11 * 13\nfvjj = jztk + jztk\nfz = jztk * 4\nwl = 19 + fvjj\nvcvh = wl + 9\nWhat is the value of vcvh?",
-    "answer": "314"
-  },
-  {
-    "question": "hh = 9 - 18\nql = 1 + hh\nvo = 5 + hh\nkq = ql * ql\nhpxx = 18 + ql\nWhat is the value of hpxx?",
-    "answer": "10"
-  },
-  {
-    "question": "tnd = 4 - 8\nwm = 7 * 1\nghn = 20 - 17\nriqy = ghn + ghn\ncsel = ghn - tnd\nWhat is the value of csel?",
-    "answer": "7"
-  },
-  {
-    "question": "iv = 4 * 18\nrwr = iv + 5\ncz = iv + rwr\njsj = rwr * iv\naoao = 2 - rwr\nrhdc = iv + jsj\ngc = jsj + 15\nWhat is the value of gc?",
-    "answer": "5559"
-  },
-  {
-    "question": "dn = 8 + 5\nvldt = dn + 3\nxngl = dn - 3\njg = 18 - 20\npr = 4 - jg\nfttb = 20 * 2\njshc = 11 * 16\nWhat is the value of jshc?",
-    "answer": "176"
-  },
-  {
-    "question": "hofo = 20 - 20\nvnmb = hofo + hofo\nvca = vnmb * hofo\nWhat is the value of vca?",
+    "question": "ld = 15 + 18\nin = ld - ld\npkf = 21 * in\nen = 18 + ld\nokp = pkf + 1\ngmd = 25 - pkf\nmtau = ld * 20\ncjdf = in - in\nWhat is the value of cjdf?",
     "answer": "0"
   },
   {
-    "question": "mgur = 7 + 19\nduae = mgur * 5\nktpf = mgur + duae\ntv = mgur + 16\niwf = tv * duae\nfrq = mgur * 14\nWhat is the value of frq?",
-    "answer": "364"
-  },
-  {
-    "question": "lqh = cbv - yvgk\nhvvd = cbv * ngrb\nngrb = 7 - 9\nyvgk = ngrb + ngrb\ncbv = 11 - 8\nyke = yvgk + yvgk\nvqx = 14 - yke\nWhat is the value of vqx?",
-    "answer": "22"
-  },
-  {
-    "question": "vcj = 10 * 10\nleek = 4 - 16\nqk = vcj * vcj\nwpej = qk - qk\ncol = qk + vcj\nnk = vcj * 2\nWhat is the value of nk?",
-    "answer": "200"
-  },
-  {
-    "question": "ts = 12 - 1\ntgns = bksf * caju\ncaju = ts * ts\nobtl = caju - caju\nbksf = caju * ts\nWhat is the value of bksf?",
-    "answer": "1331"
-  },
-  {
-    "question": "qu = 8 - 7\nwr = qu * itf\nitf = 3 * qu\nWhat is the value of itf?",
-    "answer": "3"
-  },
-  {
-    "question": "ogxc = 20 * 15\ntes = ogxc * ogxc\nyoj = ogxc * ogxc\nqbq = tes - yoj\nnawy = 7 + qbq\nizjs = 9 * ogxc\nyt = 4 + qbq\nWhat is the value of yt?",
-    "answer": "4"
-  },
-  {
-    "question": "rbq = 13 + 3\nwfyb = rbq + rbq\npseq = rbq * wfyb\nir = wfyb + rbq\natyv = rbq + wfyb\nkvqi = 7 * ir\nWhat is the value of atyv?",
-    "answer": "48"
-  },
-  {
-    "question": "innw = 2 * 17\nvoel = 18 - innw\nea = innw + innw\nwtu = 15 - voel\nWhat is the value of wtu?",
-    "answer": "31"
-  },
-  {
-    "question": "hn = 3 - 1\niw = hn + hn\nrvj = iw * iw\nan = 6 * iw\nep = 19 * iw\nre = hn + 16\nWhat is the value of re?",
-    "answer": "18"
-  },
-  {
-    "question": "ozf = 19 * 8\nza = ozf + ozf\nluoh = 9 + 20\nWhat is the value of luoh?",
-    "answer": "29"
-  },
-  {
-    "question": "cjix = 3 + 8\nnetd = 3 - cjix\nqkah = cjix + netd\nada = cjix * qkah\nWhat is the value of ada?",
-    "answer": "33"
-  },
-  {
-    "question": "ntt = 6 - 11\ngma = ntt + ntt\nino = gma - ntt\nwmbg = ino - gma\ncay = 19 - ntt\nWhat is the value of cay?",
-    "answer": "24"
-  },
-  {
-    "question": "gwy = 2 * 12\nfhv = gwy * gwy\neva = gwy * 7\nuem = gwy + 20\nWhat is the value of fhv?",
-    "answer": "576"
-  },
-  {
-    "question": "dqm = 18 - 12\ngd = 7 + fv\nqop = 11 + 12\njuam = 12 - dqm\nfv = juam - juam\nmps = 19 + dqm\nzt = dqm + 20\nvly = fv + 10\nWhat is the value of vly?",
-    "answer": "10"
-  },
-  {
-    "question": "ep = 16 * 12\nmkhl = ep - ep\nfc = mkhl * mkhl\nvb = fc * mkhl\nWhat is the value of vb?",
-    "answer": "0"
-  },
-  {
-    "question": "ltm = 4 + 3\nyx = ltm + ltm\nnqj = ltm - ltm\nwey = ltm + ltm\nvqw = 4 * 10\nWhat is the value of vqw?",
-    "answer": "40"
-  },
-  {
-    "question": "ld = 13 + 17\nzixi = ld + ld\nfbm = 17 - ld\nwyk = fbm + zixi\ntv = ld + 18\nvov = zixi + 6\nWhat is the value of vov?",
-    "answer": "66"
-  },
-  {
-    "question": "jef = 7 + 18\nxvd = jef + jef\nedv = 6 * 19\ntun = xvd * jef\nWhat is the value of xvd?",
-    "answer": "50"
-  },
-  {
-    "question": "qv = 14 * 2\nqdk = qv + 19\nWhat is the value of qdk?",
-    "answer": "47"
-  },
-  {
-    "question": "qj = 10 * 5\nbm = qj * qj\nkgdn = 9 * 6\nubgj = qj - qj\nWhat is the value of ubgj?",
-    "answer": "0"
-  },
-  {
-    "question": "wsui = vxfl + 9\nzsf = 14 * 13\nxf = zsf + zsf\njq = 8 * 4\nvxfl = xf * jq\nfab = 10 - zsf\nzmv = jq + zsf\nsvgm = jq + zsf\nWhat is the value of svgm?",
-    "answer": "214"
-  },
-  {
-    "question": "joic = 15 - 10\nhph = joic - 3\nmth = 17 - 6\nbhuh = hph - joic\nujs = joic + hph\nWhat is the value of ujs?",
-    "answer": "7"
-  },
-  {
-    "question": "df = lanx + iuki\naizo = iuki + lanx\niuki = 14 * 10\nlanx = 19 - 10\nWhat is the value of lanx?",
-    "answer": "9"
-  },
-  {
-    "question": "xfyn = 12 - 20\ngi = 6 - xfyn\nbc = gi - xfyn\nhepb = gi + 3\napta = bc + 11\nWhat is the value of apta?",
-    "answer": "33"
-  },
-  {
-    "question": "apo = 4 + 3\ncvl = apo - apo\nbl = cvl - apo\nmlpa = apo - 18\nym = 4 * cvl\nvatp = 6 * 4\nywj = mlpa * bl\nWhat is the value of ywj?",
-    "answer": "77"
-  },
-  {
-    "question": "jnm = 17 * 9\nlakm = jnm + 6\nbysz = 12 - jnm\nnjo = bysz * 9\nmrv = 6 + jnm\nWhat is the value of mrv?",
-    "answer": "159"
-  },
-  {
-    "question": "snsk = 11 + 18\nfvf = hcnb * snsk\nmb = 18 * 19\nhcnb = snsk * snsk\nWhat is the value of hcnb?",
-    "answer": "841"
-  },
-  {
-    "question": "ru = 8 * 19\nhcf = ru + ru\nzvnw = hcf - hcf\ndfba = 11 + ru\nlgu = zvnw + dfba\nWhat is the value of lgu?",
+    "question": "vvbj = 16 + 20\namm = vvbj - vvbj\ngz = 6 * 25\ngmwq = 10 * gz\nbm = 19 * 8\nmk = gmwq + 9\nrmf = gz - 23\nxzmy = 23 + 18\nez = gz + 21\njgli = vvbj + rmf\nWhat is the value of jgli?",
     "answer": "163"
   },
   {
-    "question": "wzj = 9 * 13\nasfs = wzj * 9\njiu = wzj + wzj\nknzv = wzj * 3\nWhat is the value of knzv?",
-    "answer": "351"
+    "question": "jj = 12 - 13\ngx = 20 * 8\nnolx = gx * gx\ngl = 5 + nolx\nrkn = 3 * 18\ndww = gx * rkn\nkuvb = 16 * 2\nioti = 18 * gl\nlp = gx + ioti\ndu = 8 - lp\noeve = rkn * 1\nWhat is the value of oeve?",
+    "answer": "54"
   },
   {
-    "question": "gs = 17 - 16\ndkhh = gs + gs\nqjs = 5 + dkhh\nwe = gs - gs\nuf = dkhh - gs\nvxh = uf * dkhh\nWhat is the value of vxh?",
-    "answer": "2"
+    "question": "fblk = 23 - 18\nfm = 17 * fblk\nnam = fm * 8\nyh = 17 + 2\nzsp = 5 - nam\njqfm = zsp * fblk\nxmsq = nam + fm\ngvy = fm + fblk\nfze = 10 * xmsq\nWhat is the value of fze?",
+    "answer": "7650"
   },
   {
-    "question": "ga = 12 + 2\nmedo = af - awti\nrpdv = nl * nl\naf = ga - ga\nnl = ga + af\nawti = ga - nl\nWhat is the value of awti?",
+    "question": "zhu = 6 - 8\nqj = zhu + zhu\ntcc = qj - 16\ntr = 17 + 22\nWhat is the value of tr?",
+    "answer": "39"
+  },
+  {
+    "question": "xvap = 13 * 25\nwvy = xvap - xvap\nfe = 25 * 10\nwrt = fe - fe\njp = fe - wrt\nkjex = xvap * wrt\nol = xvap - jp\nrm = 9 - 21\nwhw = ol - ol\nWhat is the value of whw?",
     "answer": "0"
   },
   {
-    "question": "bb = 1 - 7\nyer = bb * bb\nfvn = 3 - 12\nkx = bb + yer\nWhat is the value of kx?",
-    "answer": "30"
-  },
-  {
-    "question": "fhml = 1 * 13\nbtxy = fhml * fhml\nvi = btxy + btxy\narli = btxy * btxy\nvdjg = uoo - rvzr\nrvzr = fhml * btxy\nuoo = 11 - fhml\nfj = btxy + vi\nWhat is the value of fj?",
-    "answer": "507"
-  },
-  {
-    "question": "jv = 8 + 9\nzt = jv - jv\nico = zt - 14\nqywn = jv + 17\nWhat is the value of qywn?",
-    "answer": "34"
-  },
-  {
-    "question": "sspu = 5 - 12\npqg = sspu * 10\nro = sspu - 15\nbhm = ro * pqg\nWhat is the value of bhm?",
-    "answer": "1540"
-  },
-  {
-    "question": "acx = 17 * 1\nyxp = acx + acx\nWhat is the value of yxp?",
-    "answer": "34"
-  },
-  {
-    "question": "ddr = 16 * 16\nksd = 2 * ddr\nvllp = ddr * 15\nfqv = vllp + vllp\nWhat is the value of vllp?",
-    "answer": "3840"
-  },
-  {
-    "question": "sbs = 8 + 3\nvj = sbs * sbs\nzcve = 6 * sbs\nprj = zcve - 15\nut = 8 - vj\npj = 15 + 1\nWhat is the value of pj?",
-    "answer": "16"
-  },
-  {
-    "question": "hwz = 20 - 7\nrzs = hwz + hwz\nxid = 9 * rzs\nydf = rzs * hwz\nqnu = hwz + ydf\nfe = rzs * xid\nWhat is the value of fe?",
-    "answer": "6084"
-  },
-  {
-    "question": "yc = 5 * 1\nyas = en * yc\nas = yc * yc\nuyr = as - yc\nen = as * 10\nWhat is the value of en?",
-    "answer": "250"
-  },
-  {
-    "question": "gy = ua * 16\ngp = 3 + 3\nvk = gp + gp\nqtbl = vk * gp\nua = gp + vk\nqtv = 13 + qtbl\nWhat is the value of qtv?",
-    "answer": "85"
-  },
-  {
-    "question": "hbah = 16 - 5\nscr = hbah * 14\nWhat is the value of scr?",
-    "answer": "154"
-  },
-  {
-    "question": "odnk = 19 * 9\nqli = odnk - odnk\nWhat is the value of qli?",
-    "answer": "0"
-  },
-  {
-    "question": "cl = 20 - 20\nsuj = cl - cl\njrbo = cl * 9\nhq = cl + jrbo\nrfaa = hq - cl\nph = suj + cl\nexg = jrbo - hq\nWhat is the value of exg?",
-    "answer": "0"
-  },
-  {
-    "question": "fqbb = 12 - 11\nzt = fqbb * fqbb\nWhat is the value of zt?",
+    "question": "vtbd = 6 - 1\nsc = vtbd * vtbd\nhw = vtbd + vtbd\ntv = sc - 15\neai = 10 - 9\nWhat is the value of eai?",
     "answer": "1"
   },
   {
-    "question": "ayou = 3 + 10\nhvyu = ayou - 6\nzl = hvyu + ayou\neh = ayou * 1\nicfi = 17 - zl\nvsn = 19 - hvyu\nmg = vsn * 13\nWhat is the value of mg?",
-    "answer": "156"
+    "question": "jgd = 18 + 20\nkns = 2 - 14\ntcgw = 19 * jgd\nroi = 18 + 1\neeb = 11 - 6\nczlw = 20 - tcgw\nlee = tcgw - 4\ngj = jgd + 25\ndha = lee - jgd\nyt = 9 * lee\nWhat is the value of yt?",
+    "answer": "6462"
   },
   {
-    "question": "hlz = 11 + 1\nyjn = hlz - hlz\nvydg = 1 - hlz\nlqj = yjn + hlz\nWhat is the value of lqj?",
+    "question": "zm = 5 * 22\nzi = zm - 18\nmic = 10 * zm\nkmw = 21 + zi\nadom = zi - kmw\nagi = 17 * kmw\nyqye = kmw * kmw\nWhat is the value of yqye?",
+    "answer": "12769"
+  },
+  {
+    "question": "nqb = 5 - 23\nyeyt = nqb * nqb\nyxl = 15 - yeyt\niu = 19 + 25\nWhat is the value of iu?",
+    "answer": "44"
+  },
+  {
+    "question": "mc = 6 - 12\nfp = mc * 20\nwl = 3 + mc\nhkxa = 19 + wl\ndbj = 22 - wl\njc = hkxa * 20\neytw = 24 * jc\nWhat is the value of eytw?",
+    "answer": "7680"
+  },
+  {
+    "question": "bdz = 11 + 2\nhn = bdz + 17\npsbi = bdz - bdz\nWhat is the value of psbi?",
+    "answer": "0"
+  },
+  {
+    "question": "mf = 14 - 9\nucbz = mf * mf\nvx = mf + mf\nonic = 12 + ucbz\ncdnz = 11 - 13\ngny = 6 - onic\nlsc = 4 - onic\npu = onic - ucbz\nWhat is the value of pu?",
     "answer": "12"
   },
   {
-    "question": "imk = 15 + 4\nhipf = imk - imk\nmzf = hipf * imk\nnjy = mzf + 10\ngyq = hipf - imk\nua = hipf * imk\nWhat is the value of ua?",
-    "answer": "0"
+    "question": "jq = 3 * 11\nqes = jq + jq\nlfs = qes + jq\nxdcy = qes * 8\nWhat is the value of xdcy?",
+    "answer": "528"
   },
   {
-    "question": "na = 20 - 1\nzf = 4 * pndg\nnayr = na * na\nxqv = oyfo * 3\ndvw = nayr + na\noyfo = nayr + na\npndg = 5 * nayr\nWhat is the value of pndg?",
-    "answer": "1805"
+    "question": "jyti = 16 - 1\njax = 17 + jyti\nfa = jyti * jyti\nwccz = 2 - jyti\nxumh = fa * wccz\npefz = jyti * fa\nxk = jax + xumh\ndown = 5 + fa\njil = 5 + 22\nWhat is the value of jil?",
+    "answer": "27"
   },
   {
-    "question": "zvag = 19 * 12\nexw = 19 * ampx\nvs = 13 + nf\nnf = 10 + zvag\noit = nf * nf\nin = oit + nf\nampx = zvag * 12\nxlt = ampx * 2\nWhat is the value of xlt?",
-    "answer": "5472"
+    "question": "pagu = 11 * 4\nvru = pagu + pagu\nyd = pagu * pagu\nWhat is the value of yd?",
+    "answer": "1936"
   },
   {
-    "question": "ex = 14 + 17\nbmr = ex + 7\nWhat is the value of bmr?",
-    "answer": "38"
-  },
-  {
-    "question": "vt = 20 - 7\nglvi = vt - vt\nqhk = 13 * 17\nztkd = qhk + 12\nkiun = ztkd - 6\njzu = 18 * glvi\nWhat is the value of jzu?",
-    "answer": "0"
-  },
-  {
-    "question": "cj = 10 - 19\nue = 4 - cj\ngw = 4 * 1\nvcsd = ue - ue\nniph = vcsd + vcsd\nemh = gw + 8\nWhat is the value of emh?",
-    "answer": "12"
-  },
-  {
-    "question": "nqe = 7 - 19\nekmq = nqe - nqe\nay = nqe + ekmq\nvv = ekmq - ay\nWhat is the value of vv?",
-    "answer": "12"
-  },
-  {
-    "question": "yob = 12 * 18\ndx = yob - yob\nceu = yob + 20\nbhg = ceu * 9\nrzl = yob + ceu\nvqey = bhg * 2\nWhat is the value of vqey?",
-    "answer": "4248"
-  },
-  {
-    "question": "tep = 6 * 2\nshw = tep * tep\nlrml = shw - 12\nWhat is the value of lrml?",
-    "answer": "132"
-  },
-  {
-    "question": "xue = 6 * 18\nsyr = 11 * xue\nnwb = syr + syr\nnoeu = 13 - xue\nph = noeu * nwb\ncn = syr + xue\nWhat is the value of cn?",
-    "answer": "1296"
-  },
-  {
-    "question": "ybj = 10 - 7\nhoi = ybj - ybj\npnnf = 16 - 11\nrqp = hoi * pnnf\nyre = 18 - rqp\ngqb = hoi * ybj\nWhat is the value of gqb?",
-    "answer": "0"
-  },
-  {
-    "question": "pk = 5 * 15\nsml = pk - pk\nWhat is the value of sml?",
-    "answer": "0"
-  },
-  {
-    "question": "qqbh = 7 * 11\nbvqc = 10 + qqbh\nymw = bvqc - qqbh\ndqzo = bvqc * ymw\nasmw = ymw * ymw\nsy = asmw - 1\nxrx = 17 + dqzo\nWhat is the value of xrx?",
-    "answer": "887"
-  },
-  {
-    "question": "ouy = 5 - 14\nglh = ouy * ouy\nWhat is the value of glh?",
-    "answer": "81"
-  },
-  {
-    "question": "eqsy = 4 * 8\ngl = eqsy + eqsy\nisqy = eqsy + eqsy\nyrk = 10 * gl\nWhat is the value of yrk?",
-    "answer": "640"
-  },
-  {
-    "question": "ceh = 5 - 5\nmny = ceh - ceh\ntqu = 12 - mny\nbesl = tqu - mny\nWhat is the value of besl?",
-    "answer": "12"
-  },
-  {
-    "question": "wvo = 4 - 5\nmz = wvo + wvo\nbfws = wvo + 20\nqr = bfws + 18\nwzp = bfws + bfws\nffqz = wvo * 20\nbd = bfws + bfws\nWhat is the value of bd?",
-    "answer": "38"
-  },
-  {
-    "question": "sg = 1 + 13\npqk = 11 + sg\nxgs = pqk + sg\nopcn = pqk * xgs\nzi = 7 * 14\nzy = 11 - 10\nWhat is the value of zy?",
-    "answer": "1"
-  },
-  {
-    "question": "pz = wxdr - zuqh\nwxdr = 8 + 12\npnn = zuqh - wxdr\nzuqh = wxdr + 12\nWhat is the value of zuqh?",
-    "answer": "32"
-  },
-  {
-    "question": "xq = 19 - 12\noxom = 2 * 18\nxrv = oxom + 2\njq = xq - 7\nWhat is the value of xrv?",
-    "answer": "38"
-  },
-  {
-    "question": "jkiv = 17 * 3\nscq = jkiv - jkiv\nrwam = scq - scq\nWhat is the value of rwam?",
-    "answer": "0"
-  },
-  {
-    "question": "yn = 5 - 20\nzcsw = 10 - yn\njcpl = zcsw + zcsw\nycgq = 15 + yn\nWhat is the value of ycgq?",
-    "answer": "0"
-  },
-  {
-    "question": "fw = 17 * 19\nbts = fw + fw\nzhg = bts * 5\ntqfs = 11 * zhg\nito = 12 + fw\nWhat is the value of ito?",
-    "answer": "335"
-  },
-  {
-    "question": "vhn = hk * fa\nfa = 2 * 2\nkfw = fa - 13\nhk = fa * 2\nnuj = 5 + fa\naiau = 2 * hk\nWhat is the value of aiau?",
-    "answer": "16"
-  },
-  {
-    "question": "vk = 9 - 8\nmvl = vk + vk\nzivw = vk * vk\nWhat is the value of zivw?",
-    "answer": "1"
-  },
-  {
-    "question": "ukva = 1 + 3\nenud = ukva * ukva\nefkf = ukva - ukva\noo = efkf + ukva\ncesb = 7 - 4\nWhat is the value of cesb?",
-    "answer": "3"
-  },
-  {
-    "question": "vnu = 4 + 14\nsl = bmm * sdl\nsdl = 10 - 11\npe = vnu - 20\nbmm = sdl - 17\njxw = vnu - pe\nWhat is the value of jxw?",
-    "answer": "20"
-  },
-  {
-    "question": "fym = 12 + 19\nztt = fym - fym\nWhat is the value of ztt?",
-    "answer": "0"
-  },
-  {
-    "question": "uudl = 4 * 4\nlq = 2 - uudl\nip = ycnl - 17\nycnl = uudl + 4\nWhat is the value of ycnl?",
-    "answer": "20"
-  },
-  {
-    "question": "yxz = 20 + 12\ncqn = yxz + yxz\nWhat is the value of cqn?",
-    "answer": "64"
-  },
-  {
-    "question": "kzbj = 9 - 6\nkvaq = kzbj + kzbj\nvth = kvaq + kvaq\nplgn = kzbj + kvaq\nzaig = vth + vth\nzur = vth - kvaq\nubql = zur + vth\nWhat is the value of ubql?",
-    "answer": "18"
-  },
-  {
-    "question": "qcn = 2 * 2\ngrte = qcn - 17\nay = 9 * qcn\ndxve = grte * 6\nyo = 18 - ay\njbgu = 14 + grte\nWhat is the value of jbgu?",
-    "answer": "1"
-  },
-  {
-    "question": "eeq = 10 * 4\nuyh = eeq + eeq\nWhat is the value of uyh?",
-    "answer": "80"
-  },
-  {
-    "question": "bzpe = 1 + 17\nqu = bzpe - bzpe\nocs = bzpe + qu\njdgi = ocs - bzpe\nxtgn = 3 + 10\nydx = bzpe * jdgi\nWhat is the value of xtgn?",
-    "answer": "13"
-  },
-  {
-    "question": "ye = pll + rn\nmv = 13 - 5\nrn = mv - 16\npll = mv - mv\nWhat is the value of pll?",
-    "answer": "0"
-  },
-  {
-    "question": "oc = 10 - 3\nhhz = oc - oc\ntcdq = 2 + 5\nnds = 3 * hhz\nsb = hhz - 3\ncgog = 16 + sb\nWhat is the value of cgog?",
-    "answer": "13"
-  },
-  {
-    "question": "atpj = 10 + 3\nspcp = 9 + atpj\nxsl = atpj - 19\nlcjf = spcp * 8\nkmi = lcjf + atpj\nWhat is the value of kmi?",
-    "answer": "189"
-  },
-  {
-    "question": "qvy = 6 * 15\newi = qvy - qvy\npxo = ewi + ewi\nWhat is the value of pxo?",
-    "answer": "0"
-  },
-  {
-    "question": "gj = vsxa - slc\nvsxa = 15 + 5\nslc = 7 - vsxa\npfs = 14 * vsxa\nxs = 6 - vsxa\nssct = pfs + 9\nfysr = ssct - pfs\nWhat is the value of fysr?",
-    "answer": "9"
-  },
-  {
-    "question": "om = 6 + 8\nbmff = 1 * 20\nzksx = om - 15\njix = bmff * bmff\naul = bmff + zksx\nWhat is the value of aul?",
-    "answer": "19"
-  },
-  {
-    "question": "rqw = 2 * 14\nywpx = 9 + rqw\nacc = rqw - jbs\nlfr = 17 - rqw\njbs = rqw - 4\nWhat is the value of jbs?",
-    "answer": "24"
-  },
-  {
-    "question": "urdw = 12 + 6\naix = urdw - urdw\nWhat is the value of aix?",
-    "answer": "0"
-  },
-  {
-    "question": "no = 11 + 8\nvtrp = no - no\nfkkm = 11 + vtrp\nnm = no * fkkm\nWhat is the value of nm?",
-    "answer": "209"
-  },
-  {
-    "question": "wpef = 17 - 16\nrgsz = wpef + wpef\nWhat is the value of rgsz?",
-    "answer": "2"
-  },
-  {
-    "question": "mb = 9 - 7\ndrhu = dkga + mb\nbykw = 12 + mb\nywxe = 15 + bykw\nmpv = ywxe * bykw\ndkga = mpv - mb\nWhat is the value of dkga?",
-    "answer": "404"
-  },
-  {
-    "question": "ddye = 1 * 15\nwbb = ddye + 12\nlnuj = wbb - 10\nWhat is the value of lnuj?",
-    "answer": "17"
-  },
-  {
-    "question": "bnwo = 20 + 14\nqo = bnwo + bnwo\nwr = bnwo - bnwo\nqxp = qo * bnwo\nqhse = bnwo - qxp\neklf = bnwo + qhse\nfl = qxp + 20\nWhat is the value of fl?",
-    "answer": "2332"
-  },
-  {
-    "question": "ndyw = 13 - 19\nsawh = 4 * 12\nnf = sawh + 13\nclg = sawh + sawh\nzx = clg + 11\nhn = 11 + nf\ndv = sawh - 7\nykxe = 15 * 2\nuh = clg - ykxe\nWhat is the value of uh?",
-    "answer": "66"
-  },
-  {
-    "question": "ig = 13 + 20\nwpl = 2 - ig\nkq = ig * ig\nab = 19 * 6\nam = wpl - ab\nysrm = kq - ig\nxw = ab + 14\nWhat is the value of xw?",
-    "answer": "128"
-  },
-  {
-    "question": "ge = 5 * 13\ntr = 17 * 18\nupux = ge * 2\nyegj = upux + tr\nkri = 2 - 9\nmbx = tr - kri\nWhat is the value of mbx?",
-    "answer": "313"
-  },
-  {
-    "question": "posw = 18 + 6\nvqoh = posw + posw\nenuy = 18 + vqoh\nhnu = posw + vqoh\nbtoq = hnu + hnu\ngwe = 9 - 2\npqaq = 15 - gwe\nWhat is the value of pqaq?",
-    "answer": "8"
-  },
-  {
-    "question": "uur = 5 + 2\nqv = gtp * 17\ngtp = 7 * 3\nozip = 8 - gtp\nWhat is the value of gtp?",
-    "answer": "21"
-  },
-  {
-    "question": "fq = 13 * 2\nnxgh = fq - fq\nWhat is the value of nxgh?",
-    "answer": "0"
-  },
-  {
-    "question": "wo = 14 - hlc\nsx = 20 + imis\nimis = 3 + 3\nscqn = 3 * imis\nhlc = imis * 14\nWhat is the value of hlc?",
-    "answer": "84"
-  },
-  {
-    "question": "yn = 4 - 8\nobty = yn - yn\nnb = yn * 17\nhzj = nb - obty\nvu = 9 * hzj\nsk = 7 + yn\ngd = nb * nb\nWhat is the value of gd?",
-    "answer": "4624"
-  },
-  {
-    "question": "xub = 15 - 5\nps = xub - xub\ncmgu = ps * xub\nWhat is the value of cmgu?",
-    "answer": "0"
-  },
-  {
-    "question": "slu = 6 * 9\nsyq = 5 - slu\nlo = slu + slu\nWhat is the value of lo?",
-    "answer": "108"
-  },
-  {
-    "question": "te = 18 + 15\ngwp = te - te\nWhat is the value of gwp?",
-    "answer": "0"
-  },
-  {
-    "question": "oyr = 17 - 12\nri = oyr + oyr\nhrq = oyr - ri\nbhp = oyr + hrq\nbs = 19 - hrq\nrzat = hrq + oyr\nWhat is the value of rzat?",
-    "answer": "0"
-  },
-  {
-    "question": "sm = 2 + 14\nree = sm - sm\njqcs = ree * 8\nqff = sm - ree\ncxyw = 4 - 13\neer = jqcs + qff\nWhat is the value of eer?",
-    "answer": "16"
-  },
-  {
-    "question": "ozv = 13 * 15\niih = 19 * ozv\navve = ozv + 12\nWhat is the value of avve?",
-    "answer": "207"
-  },
-  {
-    "question": "yo = 1 - 2\nui = qjei * 6\nnc = yo * yo\nqjei = nc - nc\nns = qjei + 8\nWhat is the value of ns?",
-    "answer": "8"
-  },
-  {
-    "question": "voq = 10 + 2\njax = voq - voq\ndene = voq + 10\nWhat is the value of dene?",
-    "answer": "22"
-  },
-  {
-    "question": "au = 4 - 17\nuv = au - au\nif = au * uv\nzuqx = 6 + au\nWhat is the value of if?",
-    "answer": "0"
-  },
-  {
-    "question": "mpy = 11 + 15\nlt = 9 * mpy\ncqm = 14 + 10\nvoxu = mpy * cqm\nWhat is the value of voxu?",
+    "question": "ptdm = 7 + 19\nrkz = 23 * ptdm\nvok = ptdm + rkz\nWhat is the value of vok?",
     "answer": "624"
   },
   {
-    "question": "ns = 9 * 1\neld = 10 * ns\nWhat is the value of eld?",
-    "answer": "90"
+    "question": "vqdz = 1 * 25\neh = vqdz + 2\nocre = 1 - 12\nujje = eh + vqdz\nqme = 16 - vqdz\nea = vqdz * 21\nWhat is the value of ea?",
+    "answer": "525"
   },
   {
-    "question": "jdw = 17 - 15\nvzq = mifa * mifa\nmifa = 6 + jdw\nlg = 20 - 8\nWhat is the value of lg?",
-    "answer": "12"
+    "question": "ptyl = 25 - 20\nvc = 10 + ptyl\ngv = 25 + 20\nhndp = ptyl - vc\nzh = vc - ptyl\nyeho = zh * vc\nWhat is the value of yeho?",
+    "answer": "150"
   },
   {
-    "question": "wto = 2 * 15\nper = wto + wto\naarn = 11 - kc\nkc = wto + per\nxr = 4 * kc\nWhat is the value of xr?",
-    "answer": "360"
+    "question": "ks = 3 - 6\nyao = 9 - 2\nner = 25 - 7\nwk = ner * 13\nupyb = wk + ner\nWhat is the value of upyb?",
+    "answer": "252"
   },
   {
-    "question": "sh = mo * 10\nmo = 17 * 11\nbap = mo - mo\ngd = 7 + 12\ntj = bap * 17\nWhat is the value of tj?",
-    "answer": "0"
+    "question": "ovzk = 25 * 23\nci = 22 * 5\nat = ci * 18\nwxh = 21 + ci\nzo = ci - at\nfwl = wxh + zo\nsduz = zo * 17\nzvt = ci + at\nfxud = 13 * 9\nWhat is the value of zvt?",
+    "answer": "2090"
   },
   {
-    "question": "atb = 1 - 8\nxtof = atb + 6\ndg = 20 - atb\niyid = dg + 19\nWhat is the value of dg?",
-    "answer": "27"
+    "question": "jupj = 18 * 5\nyw = jupj - jupj\nzx = jupj * yw\nkwo = 1 * jupj\neo = kwo - 13\nvarv = zx * eo\npm = 17 - 2\ninpg = jupj * kwo\nWhat is the value of inpg?",
+    "answer": "8100"
   },
   {
-    "question": "ppbd = 2 + 5\ntis = 4 + ppbd\nge = tis - ppbd\nhq = tis - ge\nWhat is the value of hq?",
-    "answer": "7"
-  },
-  {
-    "question": "xze = 12 - 4\nlf = xze * xze\nzsem = 18 + lf\noo = 20 + 9\nai = 1 + lf\nWhat is the value of ai?",
-    "answer": "65"
-  },
-  {
-    "question": "toa = 1 * 11\nko = toa * toa\nnkv = toa - toa\nhtnl = nkv * nkv\noi = ko - toa\ngq = ko - 16\nWhat is the value of gq?",
-    "answer": "105"
-  },
-  {
-    "question": "guc = gij + dd\ndd = 3 * 15\ngij = dd - 19\nWhat is the value of gij?",
-    "answer": "26"
-  },
-  {
-    "question": "hg = 8 * 7\nxqjr = 17 + hg\niyez = xqjr * 6\nfrx = hg - xqjr\nanb = 2 - 1\nWhat is the value of anb?",
-    "answer": "1"
-  },
-  {
-    "question": "xdo = 7 - 1\nuor = xdo - xdo\nqj = 18 * uor\nxy = uor - xdo\numme = xdo - xy\nWhat is the value of umme?",
-    "answer": "12"
-  },
-  {
-    "question": "ny = 17 * 8\nwzf = ny + ny\nyb = ny - wzf\nyip = 15 * 20\nWhat is the value of yip?",
-    "answer": "300"
-  },
-  {
-    "question": "iy = 9 * 20\ntxs = iy * iy\nar = 6 - iy\nnl = iy - iy\nhi = 13 + 16\nuhj = iy - ar\nWhat is the value of uhj?",
-    "answer": "354"
-  },
-  {
-    "question": "ofje = 19 - 14\nqjti = 2 + ofje\napx = ofje + ofje\nzlxi = apx * apx\njz = 17 + 19\nvbq = zlxi - 16\nWhat is the value of vbq?",
-    "answer": "84"
-  },
-  {
-    "question": "bpwh = 3 * 20\nbs = bpwh + 7\nde = 20 * bs\nxkkw = 3 - 18\nwuyg = bs - bpwh\nWhat is the value of wuyg?",
-    "answer": "7"
-  },
-  {
-    "question": "lqs = 6 - 13\nlug = 17 + lqs\ndjg = lug - 10\nnbu = lug * 8\nuw = 15 * 17\nrgfz = 11 * 1\nubq = 7 + uw\nudag = nbu - djg\nWhat is the value of udag?",
-    "answer": "80"
-  },
-  {
-    "question": "xn = 4 * 3\nmw = 5 * ta\ngv = xn * xn\nta = 1 + xn\nkye = xn - 1\ntf = ta - gv\nmzw = ta * 5\nWhat is the value of mzw?",
-    "answer": "65"
-  },
-  {
-    "question": "wiqo = 4 + 1\nxifq = wiqo * 10\nzex = wiqo * wiqo\nWhat is the value of zex?",
-    "answer": "25"
-  },
-  {
-    "question": "dvly = 4 * 20\neyfg = dvly - 9\nmbw = eyfg + eyfg\nge = eyfg * 17\ntz = ge - ge\noydx = ge + 5\nrqtg = eyfg - eyfg\nWhat is the value of rqtg?",
-    "answer": "0"
-  },
-  {
-    "question": "fzlw = 8 - 10\nokt = fzlw + fzlw\nuz = fzlw + ablb\ngj = 9 - okt\nablb = 11 * 9\nWhat is the value of ablb?",
-    "answer": "99"
-  },
-  {
-    "question": "ids = 18 * 2\nlwf = ids - ids\netng = lwf + 3\ncotz = lwf + ids\ntjz = cotz - cotz\nWhat is the value of tjz?",
-    "answer": "0"
-  },
-  {
-    "question": "oem = 15 - 14\nmc = oem - oem\ndatt = 2 - oem\njmdj = mc - oem\nyap = oem - mc\nWhat is the value of yap?",
-    "answer": "1"
-  },
-  {
-    "question": "ka = 1 * 10\naf = ka * ka\npuxv = 11 * af\nWhat is the value of puxv?",
-    "answer": "1100"
-  },
-  {
-    "question": "tmfe = 6 * 5\nrgze = tmfe * tmfe\ngnzc = 12 - rgze\nzjb = gnzc + rgze\nwaxy = zjb + rgze\nWhat is the value of waxy?",
-    "answer": "912"
-  },
-  {
-    "question": "np = 1 - 19\nfroy = np * np\nbm = 17 + 16\nnalm = 1 + 16\nvt = bm - bm\nydj = bm - nalm\nWhat is the value of ydj?",
+    "question": "sctn = 13 - 12\nkpl = sctn * sctn\ntpo = sctn + kpl\nxwt = 18 - tpo\nWhat is the value of xwt?",
     "answer": "16"
   },
   {
-    "question": "stao = 20 + 13\nuz = stao + 12\nzc = otx * 7\ndef = uz - uz\nury = 15 - def\nyb = def + uz\notx = def - 12\ntdwk = yb * yb\nWhat is the value of tdwk?",
-    "answer": "2025"
+    "question": "otjm = 23 - 8\nmw = 11 + 16\ncws = mw * mw\nts = mw + mw\nWhat is the value of ts?",
+    "answer": "54"
   },
   {
-    "question": "cbdc = 18 + 9\nvbqr = 2 * cbdc\nkvrp = 12 + vbqr\nrp = 2 * kvrp\nkmyk = 19 - 17\nWhat is the value of kmyk?",
-    "answer": "2"
+    "question": "koud = 12 - 8\ndayo = koud * 3\nesum = 16 + koud\nxzgz = koud + koud\nsor = 25 + 24\nwyag = dayo - 8\nkd = esum + 6\nWhat is the value of kd?",
+    "answer": "26"
   },
   {
-    "question": "nvpv = 3 * 10\nczlz = 6 + aoo\naoo = nvpv + 7\nWhat is the value of aoo?",
-    "answer": "37"
+    "question": "ffi = 25 - 6\najkz = ffi + 9\nuz = 13 * ajkz\nag = 24 - ajkz\nxrx = uz + ajkz\nWhat is the value of xrx?",
+    "answer": "392"
   },
   {
-    "question": "vhh = 15 * 12\neeke = vhh - vhh\nufyj = 7 * 11\njupc = vhh * eeke\nxs = eeke + 3\nfv = vhh + vhh\nWhat is the value of fv?",
-    "answer": "360"
+    "question": "ou = 12 - 16\nbk = ou * ou\nej = bk + ou\nooo = ej - bk\nuyub = ej + ej\nhx = 24 - ej\nskq = bk * 10\nkova = 18 * hx\nWhat is the value of kova?",
+    "answer": "216"
   },
   {
-    "question": "ait = 3 - 5\niou = ait + ait\npftl = 2 * 11\nio = ait * iou\nWhat is the value of io?",
-    "answer": "8"
+    "question": "sh = 11 * 4\nun = sh + sh\nieuc = 3 - sh\nznge = ieuc + 6\nosep = znge + ieuc\nuhgh = un * sh\nos = ieuc - 17\nfv = un + 5\nby = 14 + 15\nWhat is the value of by?",
+    "answer": "29"
   },
   {
-    "question": "zen = 4 + 9\nbllp = 11 * 5\nqsel = zen * bllp\nrp = zen - zen\nWhat is the value of rp?",
+    "question": "oh = 10 * 16\nnx = 9 + oh\nttc = oh * oh\ndyqa = oh * nx\nse = ttc + 17\nxxr = se - 21\nuwkj = 5 - dyqa\nqv = oh - 15\nWhat is the value of qv?",
+    "answer": "145"
+  },
+  {
+    "question": "krxz = 19 * 14\nrahd = 15 - 22\nqsv = rahd * 11\najfw = 8 + 3\nwe = 1 - qsv\nry = we + rahd\nys = krxz + krxz\nmlwi = 23 * ry\nqvi = 10 * mlwi\nWhat is the value of qvi?",
+    "answer": "16330"
+  },
+  {
+    "question": "liu = 12 + 10\ndjzm = liu * liu\nlt = djzm - djzm\npwq = 2 * djzm\njf = 19 - djzm\nbbp = jf * djzm\njksh = lt * lt\nWhat is the value of jksh?",
     "answer": "0"
   },
   {
-    "question": "dwo = 1 * 4\nwk = dwo + dwo\nkq = dwo + dwo\nWhat is the value of kq?",
-    "answer": "8"
-  },
-  {
-    "question": "rzc = 3 + 16\nceze = rzc - 11\nnlgx = ceze + ceze\nxb = ceze + rzc\nWhat is the value of xb?",
-    "answer": "27"
-  },
-  {
-    "question": "xyd = cqwg + ip\nmey = 3 * 1\nexg = 2 + mey\nivtw = 7 - exg\nplq = 17 + mey\nip = plq + 13\ncqwg = exg + exg\neepd = 7 * ip\nqr = eepd + exg\nWhat is the value of qr?",
-    "answer": "236"
-  },
-  {
-    "question": "ul = 3 * 6\nkpac = ul + 8\nil = kpac - ul\nxmvz = kpac - 14\nWhat is the value of xmvz?",
-    "answer": "12"
-  },
-  {
-    "question": "gzl = 13 - 9\ndr = gzl * 8\nunbk = 16 - dr\nkes = dr - dr\nev = dr + 9\ncd = kes * kes\ncvh = 5 * cd\niv = cd - kes\nWhat is the value of cvh?",
-    "answer": "0"
-  },
-  {
-    "question": "pwt = 3 * 16\nbkqc = pwt - pwt\nzb = pwt * bkqc\nwku = pwt * zb\nWhat is the value of wku?",
-    "answer": "0"
-  },
-  {
-    "question": "ryx = 1 * 11\npgjo = 12 - ryx\nqelm = pgjo + ryx\nrgwp = qelm * ryx\npf = qelm * pgjo\npdxu = pf + ryx\nkrgv = rgwp * pdxu\nWhat is the value of krgv?",
-    "answer": "3036"
-  },
-  {
-    "question": "xqbs = 9 * 8\nalvh = xqbs + xqbs\nws = xqbs - 5\nsikn = xqbs - ws\nfdo = sikn - xqbs\npcml = ws * alvh\niv = 9 * ws\nWhat is the value of iv?",
-    "answer": "603"
-  },
-  {
-    "question": "aadx = 11 - 1\nif = aadx - 1\nmn = 12 + 6\nWhat is the value of mn?",
-    "answer": "18"
-  },
-  {
-    "question": "afsc = 11 - 4\ngnk = lkol - lkol\nidoj = afsc * afsc\nlkol = afsc * 12\nWhat is the value of lkol?",
+    "question": "mec = 9 + 17\nyh = mec + mec\neq = mec - yh\nqi = 25 - 17\nexe = mec + yh\nuva = qi + qi\ncfx = uva + uva\nam = yh - eq\nuz = yh + cfx\nWhat is the value of uz?",
     "answer": "84"
   },
   {
-    "question": "dzd = 19 - 20\noz = dzd - dzd\nvpf = oz - oz\nWhat is the value of vpf?",
+    "question": "uats = 14 + 21\nosov = uats * 6\nxdoi = 22 * osov\nWhat is the value of xdoi?",
+    "answer": "4620"
+  },
+  {
+    "question": "astd = 14 + 14\njel = 25 * 2\nnjac = jel + jel\nyh = njac - njac\nbgie = yh + 11\naeeg = njac * njac\nnur = yh + yh\nbka = 15 - 4\ndnau = 6 + 18\nWhat is the value of dnau?",
+    "answer": "24"
+  },
+  {
+    "question": "xz = 11 + 14\nbb = xz + 20\nirai = bb - bb\nqx = 17 * bb\ndjvw = bb + bb\nWhat is the value of djvw?",
+    "answer": "90"
+  },
+  {
+    "question": "pw = 10 * 12\nmauj = 1 + 21\naebe = pw * 22\nWhat is the value of aebe?",
+    "answer": "2640"
+  },
+  {
+    "question": "svdk = 14 + 8\nufc = 6 + 3\nlg = svdk * 3\nacir = 10 * lg\ngd = lg * acir\nruy = 24 + svdk\ndo = gd + lg\nxav = gd - 3\nwe = 6 - 21\nkpf = 11 * 9\nWhat is the value of kpf?",
+    "answer": "99"
+  },
+  {
+    "question": "spbv = 16 + 19\nozya = 13 + spbv\nhsy = 12 - ozya\nujep = 24 * 13\nhugv = ozya - ozya\nWhat is the value of hugv?",
     "answer": "0"
   },
   {
-    "question": "evfn = 5 - 6\ndkt = evfn + evfn\nqcc = evfn - dkt\nlqql = 15 - qcc\nWhat is the value of lqql?",
-    "answer": "14"
+    "question": "docv = 6 * 18\npq = 11 * docv\ncxhw = pq * pq\nzogy = pq * 5\ncllz = pq + 23\nWhat is the value of cllz?",
+    "answer": "1211"
   },
   {
-    "question": "qnab = 8 - 3\nvsqj = 6 - qnab\njd = qnab * vsqj\ngt = vsqj + 8\nrz = qnab - vsqj\nern = rz - vsqj\nfqfl = vsqj * ern\nWhat is the value of fqfl?",
+    "question": "ru = 15 - 23\nyv = ru * ru\nmhnx = yv + ru\neh = yv * 8\nxfb = eh - 16\nWhat is the value of xfb?",
+    "answer": "496"
+  },
+  {
+    "question": "nev = 15 * 13\nwplb = 18 - 5\nuov = 14 + 12\num = nev * nev\nygnl = um - 20\nWhat is the value of ygnl?",
+    "answer": "38005"
+  },
+  {
+    "question": "kono = 8 - 19\nnl = 5 + 6\nsmc = kono + kono\nviib = nl - 20\ntlb = 13 + 13\nvmq = 25 + smc\nWhat is the value of vmq?",
     "answer": "3"
   },
   {
-    "question": "bfd = 17 * 11\nbs = bfd - bfd\nxgn = 8 - bs\nursm = bfd - bfd\noqp = bs * ursm\nuh = bfd * 13\nzw = 10 * ursm\nWhat is the value of zw?",
+    "question": "ozw = 1 + 4\noiyw = 25 * 8\nomed = 3 * ozw\nhn = omed + ozw\ndx = ozw - omed\nsk = oiyw * oiyw\noa = oiyw * omed\nipl = oiyw + oa\npn = 20 + 24\nWhat is the value of ipl?",
+    "answer": "3200"
+  },
+  {
+    "question": "mz = 21 + 15\nemki = 14 * mz\novg = 15 + 25\nzub = mz + emki\nnb = 9 + 16\nlh = mz - zub\nlpb = 24 - 18\nahnu = zub + ovg\nWhat is the value of ahnu?",
+    "answer": "580"
+  },
+  {
+    "question": "yczn = 12 * 7\niucs = yczn + 14\nkez = iucs + 4\nWhat is the value of kez?",
+    "answer": "102"
+  },
+  {
+    "question": "zpy = 22 + 12\nzj = zpy * 9\nff = zj - zpy\nWhat is the value of ff?",
+    "answer": "272"
+  },
+  {
+    "question": "fqs = 1 * 21\nro = fqs + fqs\nlaw = ro + ro\nWhat is the value of law?",
+    "answer": "84"
+  },
+  {
+    "question": "ux = 7 * 3\nfzc = 25 - 14\ntr = fzc + ux\nxqg = fzc * fzc\nWhat is the value of xqg?",
+    "answer": "121"
+  },
+  {
+    "question": "nme = 24 + 18\nbqy = 3 * 12\nkr = 8 * 4\njt = nme - 25\nyvor = 23 + 22\nuls = jt + kr\nlai = 4 * nme\nhifp = lai - nme\nbb = 6 + 15\nic = 22 + lai\nWhat is the value of ic?",
+    "answer": "190"
+  },
+  {
+    "question": "zopq = 25 - 8\najv = 21 + zopq\nunrq = ajv + ajv\nWhat is the value of unrq?",
+    "answer": "76"
+  },
+  {
+    "question": "edwf = 8 * 15\nri = 21 + 12\nrzh = 15 + 23\noh = 19 + rzh\nwqcu = 4 * 4\nWhat is the value of wqcu?",
+    "answer": "16"
+  },
+  {
+    "question": "hhuk = 11 - 18\nam = hhuk + hhuk\ndwpj = 6 + 19\nfsv = dwpj * 4\nji = dwpj - 8\ngsb = 22 * 20\nyk = ji * 24\npet = dwpj + 3\nWhat is the value of pet?",
+    "answer": "28"
+  },
+  {
+    "question": "icoc = 9 - 1\net = icoc * icoc\nptj = 20 * 7\nge = 8 - 7\nnxb = icoc - 4\njviy = ptj * ge\nWhat is the value of jviy?",
+    "answer": "140"
+  },
+  {
+    "question": "aj = 6 * 6\nwbbw = aj + aj\ntw = 11 * 18\nus = wbbw + wbbw\nbar = aj - tw\nujk = aj + tw\nlez = tw - wbbw\nWhat is the value of lez?",
+    "answer": "126"
+  },
+  {
+    "question": "yx = 25 + 15\nfor = 14 + 19\nuz = yx * 8\nanns = for - 21\ngvbe = for + anns\nae = uz * yx\nbfqk = yx + 8\nnt = yx - 12\nWhat is the value of nt?",
+    "answer": "28"
+  },
+  {
+    "question": "oeo = 18 + 6\nxmz = oeo * oeo\nju = oeo - 18\njs = 25 + 8\nfkg = oeo + oeo\nbn = js + fkg\noowh = fkg + xmz\nfxif = bn + oeo\nWhat is the value of fxif?",
+    "answer": "105"
+  },
+  {
+    "question": "tkle = 23 + 5\nit = tkle - tkle\ndpz = tkle + it\npax = it + 8\ndif = it * pax\nWhat is the value of dif?",
     "answer": "0"
   },
   {
-    "question": "glyv = 3 - 9\ngvx = glyv - glyv\nwsb = 3 * gvx\nWhat is the value of wsb?",
+    "question": "wrf = 11 + 3\ncw = wrf * 16\nkb = wrf - wrf\nlq = 23 * cw\ncjt = cw * 19\nff = cw + kb\nlj = lq + cw\nqc = lq + cjt\nWhat is the value of qc?",
+    "answer": "9408"
+  },
+  {
+    "question": "zf = 7 + 11\nhrl = 18 * zf\nusu = hrl + hrl\nWhat is the value of usu?",
+    "answer": "648"
+  },
+  {
+    "question": "snmz = 6 - 14\npp = 10 + snmz\nvgs = snmz - snmz\nlp = vgs - snmz\nrhm = 15 - 20\namn = rhm + pp\ndosk = snmz * rhm\nyeiv = vgs * pp\nWhat is the value of yeiv?",
     "answer": "0"
   },
   {
-    "question": "ew = 20 + 18\nak = ew + ew\nraj = ak + ew\nih = 12 * 15\nymx = raj * ak\nWhat is the value of ymx?",
-    "answer": "8664"
+    "question": "pj = 21 - 20\nqi = 14 - 25\nvw = 5 * 4\nuu = 11 + qi\nWhat is the value of uu?",
+    "answer": "0"
   },
   {
-    "question": "uf = 12 + 6\nel = 4 * uiwp\nebdd = uf - uiwp\nuiwp = uf + uf\nWhat is the value of uiwp?",
+    "question": "sr = 11 * 2\nwcbg = 18 + sr\nwso = 13 - 17\nlwe = 23 - sr\nfda = wcbg + wcbg\njvd = fda * lwe\nWhat is the value of jvd?",
+    "answer": "80"
+  },
+  {
+    "question": "pkdw = 19 - 13\ntu = pkdw + pkdw\nye = pkdw - tu\nja = ye + 19\nlg = 6 - pkdw\nWhat is the value of lg?",
+    "answer": "0"
+  },
+  {
+    "question": "tx = 25 * 9\nzz = tx * tx\nfvv = 16 - 24\nxcc = tx + zz\nzp = zz + 8\nyp = fvv + tx\nvnna = 16 + 1\nWhat is the value of vnna?",
+    "answer": "17"
+  },
+  {
+    "question": "axpy = 16 + 9\nnn = 21 + 20\nxz = nn - 20\npmd = xz + xz\ncjle = 18 * xz\npc = 2 - nn\ncve = cjle + 8\nxhrt = cjle - nn\nfpjf = 7 * 25\ntnd = xhrt * pmd\nWhat is the value of tnd?",
+    "answer": "14154"
+  },
+  {
+    "question": "hwz = 25 - 8\nlxbl = hwz - hwz\nxno = hwz - lxbl\nnxwq = hwz + xno\nlk = nxwq + lxbl\nbxn = 3 - xno\nog = 22 + lk\nWhat is the value of og?",
+    "answer": "56"
+  },
+  {
+    "question": "fjz = 12 - 3\njaqm = 4 * 24\ncsc = jaqm - 18\nvk = 13 - jaqm\nzlqk = 20 * 1\nal = csc - csc\nvf = 11 + csc\neo = 7 + vf\nswz = al * vk\nWhat is the value of swz?",
+    "answer": "0"
+  },
+  {
+    "question": "qmfc = 23 + 25\nyqas = 5 + qmfc\nnnk = qmfc - yqas\nzkn = qmfc * yqas\nWhat is the value of zkn?",
+    "answer": "2544"
+  },
+  {
+    "question": "jk = 17 * 7\nhf = jk * 12\nopkq = 15 * hf\ntkse = hf * 15\nxte = 8 + 3\nWhat is the value of xte?",
+    "answer": "11"
+  },
+  {
+    "question": "rez = 10 + 14\nqyaj = 18 * 14\nppdo = qyaj - 15\nyqhj = 11 + ppdo\ntlfm = rez * 4\nWhat is the value of tlfm?",
+    "answer": "96"
+  },
+  {
+    "question": "cbdv = 5 + 12\nlrre = cbdv * 12\nxau = cbdv * lrre\nnfu = 2 * cbdv\nommc = cbdv * nfu\nrad = 2 + 10\nWhat is the value of rad?",
+    "answer": "12"
+  },
+  {
+    "question": "bnc = 22 * 10\ncinp = bnc - bnc\nzqx = bnc * cinp\nvo = 4 - 4\nWhat is the value of vo?",
+    "answer": "0"
+  },
+  {
+    "question": "pv = 7 + 24\nyr = 2 - pv\nmaqt = 4 * yr\nxci = 2 + maqt\nae = pv - 6\ncz = 6 + xci\nhlqu = pv * yr\nykv = cz * cz\nWhat is the value of ykv?",
+    "answer": "11664"
+  },
+  {
+    "question": "tpg = 6 * 14\nqbd = tpg + 20\nxi = qbd - tpg\nzon = qbd * tpg\nhfn = tpg + qbd\nfyfd = hfn - qbd\nman = xi - zon\nzuf = man * hfn\nsgxp = 8 + zon\nWhat is the value of sgxp?",
+    "answer": "8744"
+  },
+  {
+    "question": "wuh = 20 - 13\nfm = wuh + 3\nbm = wuh - fm\ngz = wuh - fm\nns = 15 * wuh\nrkai = wuh * 4\npuuy = 20 * 21\nhuq = gz + gz\nvw = 10 + huq\nWhat is the value of vw?",
+    "answer": "4"
+  },
+  {
+    "question": "ofw = 7 * 8\nvnv = ofw + ofw\nwn = 18 * 23\ngkh = wn - vnv\nqgrh = 13 - wn\nqm = 2 - 15\nha = 22 * 18\narn = ofw + ofw\nWhat is the value of arn?",
+    "answer": "112"
+  },
+  {
+    "question": "wosw = 12 + 21\nqn = 7 - 21\njl = wosw * wosw\nzb = jl - jl\nlq = 17 + zb\nkjnu = 9 * wosw\nuvw = 9 - 18\nWhat is the value of kjnu?",
+    "answer": "297"
+  },
+  {
+    "question": "fd = 22 + 9\nfiq = 8 * 6\nqhh = 11 + 11\nWhat is the value of qhh?",
+    "answer": "22"
+  },
+  {
+    "question": "ai = 1 + 19\nfjc = 22 - 3\nmo = 17 - 15\nnr = 22 - mo\ntq = nr * mo\nkcl = 5 + 23\nvjxs = 16 - ai\nha = fjc * fjc\nWhat is the value of ha?",
+    "answer": "361"
+  },
+  {
+    "question": "zr = 5 + 15\nhbo = zr - zr\nwrxv = 19 - hbo\ngdu = hbo * zr\ncn = 8 * 9\nWhat is the value of cn?",
+    "answer": "72"
+  },
+  {
+    "question": "akw = 15 + 5\nkhea = akw - akw\nonbr = khea + 19\nakt = khea + onbr\nopdv = akw - onbr\nrx = onbr * akt\niir = khea + 5\nWhat is the value of iir?",
+    "answer": "5"
+  },
+  {
+    "question": "uxdl = 15 - 21\nhslq = 18 + uxdl\nxn = uxdl - 2\nmcdf = hslq * xn\nofxt = uxdl - xn\nnrw = 13 - 15\nWhat is the value of ofxt?",
+    "answer": "2"
+  },
+  {
+    "question": "mjb = 20 * 5\nhyx = 16 - 25\nyzie = hyx * 3\ngc = 22 + 11\nvdev = hyx * yzie\nxorw = 11 * 1\nxd = 3 - 23\nsih = xorw + 20\nWhat is the value of sih?",
+    "answer": "31"
+  },
+  {
+    "question": "ubw = 3 + 7\nau = ubw * ubw\nkqtd = 23 * au\naavu = kqtd + kqtd\nejw = aavu - aavu\ngvn = kqtd - 25\nWhat is the value of gvn?",
+    "answer": "2275"
+  },
+  {
+    "question": "xbaf = 9 + 13\ngsjs = xbaf - xbaf\nilp = 22 + 7\nbf = 22 * 14\nWhat is the value of bf?",
+    "answer": "308"
+  },
+  {
+    "question": "detf = 23 + 1\nhhjk = 5 * 24\nvb = detf * detf\nlp = 5 - 13\ndpmd = hhjk * hhjk\nWhat is the value of dpmd?",
+    "answer": "14400"
+  },
+  {
+    "question": "vshd = 16 * 8\nxjeg = 11 - vshd\nut = vshd - 5\nlrd = 20 + vshd\nvvoi = lrd * 23\nWhat is the value of vvoi?",
+    "answer": "3404"
+  },
+  {
+    "question": "skh = 23 + 18\nmvf = 11 + skh\nrn = skh + skh\ngu = 5 * mvf\npl = mvf * 10\nxm = 5 * 17\nWhat is the value of xm?",
+    "answer": "85"
+  },
+  {
+    "question": "wm = 12 - 25\niqt = 11 * 2\niswq = iqt + 17\ngx = 12 - 20\nzppx = iswq + 12\nshv = 12 - 2\nawg = 9 * iqt\ndnn = 15 + 9\nWhat is the value of dnn?",
+    "answer": "24"
+  },
+  {
+    "question": "epa = 14 - 2\nqeqx = epa + epa\nvfge = epa + qeqx\nWhat is the value of vfge?",
     "answer": "36"
   },
   {
-    "question": "iw = 1 - 7\nhugs = 16 * iw\nhkct = 8 - 3\nhf = iw + iw\nrlle = hkct + 18\nzawu = iw - rlle\nolf = iw - hf\nWhat is the value of olf?",
+    "question": "ye = 20 + 5\nmw = 10 - 18\nthj = 3 - 17\nriyq = 13 - thj\nmpve = ye - ye\nWhat is the value of mpve?",
+    "answer": "0"
+  },
+  {
+    "question": "kln = 10 * 8\nrjbn = kln * 21\nwcfa = 15 * kln\nqnsx = 20 + kln\nvppt = qnsx - qnsx\ndanc = qnsx + wcfa\nqikm = 23 - qnsx\ntly = qikm + wcfa\nrr = rjbn - wcfa\nWhat is the value of rr?",
+    "answer": "480"
+  },
+  {
+    "question": "al = 14 + 2\nsso = al - 1\nwvv = al * sso\nupa = 7 + 18\nnbcj = sso + 13\nqmql = 19 * 7\nWhat is the value of qmql?",
+    "answer": "133"
+  },
+  {
+    "question": "bxwi = 14 - 13\nnim = bxwi + 4\nqaaw = 20 + nim\nkz = bxwi * nim\nWhat is the value of kz?",
+    "answer": "5"
+  },
+  {
+    "question": "ieh = 19 * 4\nqeud = 6 - 6\noo = ieh - ieh\ndyl = oo + 8\nowq = ieh + oo\nWhat is the value of owq?",
+    "answer": "76"
+  },
+  {
+    "question": "bgy = 12 + 12\nzj = 17 + bgy\nuoaj = zj * zj\nWhat is the value of uoaj?",
+    "answer": "1681"
+  },
+  {
+    "question": "aax = 6 + 24\ntlni = 20 + aax\nrkr = tlni - 4\njvdc = aax + tlni\ntyfi = jvdc + aax\nmtwc = tlni * 1\njq = tlni - 16\naqt = rkr * 12\nWhat is the value of aqt?",
+    "answer": "552"
+  },
+  {
+    "question": "xb = 4 + 7\nmm = xb - xb\nhc = 14 * mm\nllp = mm * 6\nsu = xb * xb\nWhat is the value of su?",
+    "answer": "121"
+  },
+  {
+    "question": "zuy = 1 + 12\nxo = zuy * zuy\nia = xo * zuy\nxdxx = ia * 16\nWhat is the value of xdxx?",
+    "answer": "35152"
+  },
+  {
+    "question": "xwcv = 3 + 24\nokom = 14 * 17\nyi = okom * 7\nkcb = okom + yi\nWhat is the value of kcb?",
+    "answer": "1904"
+  },
+  {
+    "question": "xkzh = 23 - 8\ncesg = xkzh - 3\nszc = xkzh - cesg\nqto = szc * 5\npmw = cesg * qto\nxv = 16 + qto\nxmqq = qto + qto\nbw = xkzh + 14\nWhat is the value of bw?",
+    "answer": "29"
+  },
+  {
+    "question": "lt = 22 + 19\nsklj = lt * lt\nipku = sklj * lt\nrbgc = 12 * lt\nWhat is the value of rbgc?",
+    "answer": "492"
+  },
+  {
+    "question": "odv = 10 * 15\naf = odv + odv\neon = odv - 11\ndyb = 24 + odv\ntvg = eon + eon\nrlhm = odv + dyb\ngb = 18 * tvg\nWhat is the value of gb?",
+    "answer": "5004"
+  },
+  {
+    "question": "gk = 24 * 17\ncl = gk - 24\nfimg = cl - 12\nusq = 9 + 23\ngw = 9 * 10\niax = 20 + 15\nWhat is the value of iax?",
+    "answer": "35"
+  },
+  {
+    "question": "fj = 24 + 15\nwo = fj - fj\nsua = wo + fj\nyy = 20 * 2\nma = sua + sua\nWhat is the value of ma?",
+    "answer": "78"
+  },
+  {
+    "question": "nxt = 12 - 18\nfpww = nxt * nxt\nml = fpww * fpww\nzbr = nxt + 10\nfdbq = 20 - nxt\nxex = 5 * 15\nny = 3 + fpww\nmty = fdbq - 20\nWhat is the value of mty?",
     "answer": "6"
   },
   {
-    "question": "xn = 12 - 10\nmdmm = 15 * xn\ngr = xn - sge\nsge = xn * xn\nWhat is the value of sge?",
-    "answer": "4"
+    "question": "uau = 18 + 18\ntjp = uau + uau\nliq = tjp * tjp\nts = uau - 9\nkjsn = tjp - 8\nmdlj = ts + liq\nybh = 25 * mdlj\now = 24 * 10\nWhat is the value of ow?",
+    "answer": "240"
   },
   {
-    "question": "mudi = 14 - 7\nbqr = mudi * 11\nfuf = mudi - bqr\njn = bqr + mudi\nata = mudi * fuf\nctvs = 20 * ata\nskja = bqr + 2\nWhat is the value of skja?",
-    "answer": "79"
+    "question": "zypm = 24 - 2\ncryh = zypm - zypm\namvl = zypm - 12\nWhat is the value of amvl?",
+    "answer": "10"
   },
   {
-    "question": "pmuk = 2 + 3\nai = 13 - 5\nji = pmuk * 9\noka = 18 * ai\ncwnt = pmuk - oka\ngub = pmuk * ji\nWhat is the value of gub?",
-    "answer": "225"
+    "question": "ua = 9 * 10\noso = ua + ua\ndamv = ua * 16\nvdqo = 14 * oso\nWhat is the value of vdqo?",
+    "answer": "2520"
   },
   {
-    "question": "sebk = 5 - 7\nefx = sebk + sebk\nvaq = sebk - 8\nlzhv = 17 - sebk\nWhat is the value of lzhv?",
-    "answer": "19"
+    "question": "kw = 6 * 5\nle = kw - 22\ncl = kw + le\nadkw = 9 + kw\nWhat is the value of adkw?",
+    "answer": "39"
   },
   {
-    "question": "pq = 15 - 3\nlqbp = pq - pq\ntoqr = pq - lqbp\nxbrx = pq * toqr\natqp = pq * 3\nltdb = pq + toqr\nficg = toqr - 8\nucm = 6 + ltdb\nWhat is the value of ficg?",
-    "answer": "4"
-  },
-  {
-    "question": "qte = 11 + 4\nkukl = qte - 2\nph = qte * qte\njsa = ph * 13\nxi = 10 - qte\nww = 8 - 1\nWhat is the value of ww?",
-    "answer": "7"
-  },
-  {
-    "question": "ewp = 2 - 2\nfox = ewp - ewp\nbdqo = ewp + ewp\nbe = fox + 8\nWhat is the value of be?",
+    "question": "gmwt = 9 * 24\ndnyz = gmwt - 14\neaa = 21 - 13\nrpch = 18 + eaa\npfgl = eaa + 16\nphqw = 20 * pfgl\nhj = pfgl + phqw\ndqwo = eaa * 1\nWhat is the value of dqwo?",
     "answer": "8"
   },
   {
-    "question": "bzpg = 1 - 12\nkriw = bzpg - bzpg\nwr = kriw - kriw\njv = wr + wr\nnmn = 19 - 20\nqwrs = 6 - jv\nWhat is the value of qwrs?",
-    "answer": "6"
+    "question": "tugi = 20 + 7\nalco = tugi + tugi\nwssi = 9 - 14\ntpq = alco + alco\nki = tpq - 20\njzy = alco * 4\nWhat is the value of jzy?",
+    "answer": "216"
   },
   {
-    "question": "rb = 6 + 5\nsr = rb * rb\npzai = sr + sr\njqj = sr + sr\nWhat is the value of jqj?",
-    "answer": "242"
+    "question": "jrom = 23 - 16\nthk = 9 * 8\nrrh = 2 + 14\nhb = rrh * rrh\nwdn = rrh - 12\nbxn = thk * 5\noxlg = wdn + 4\nWhat is the value of oxlg?",
+    "answer": "8"
+  },
+  {
+    "question": "qtog = 13 + 4\nmu = qtog + qtog\nlncm = 23 + qtog\ndfe = 25 * 22\nWhat is the value of lncm?",
+    "answer": "40"
+  },
+  {
+    "question": "bqn = 20 + 19\nhzz = 11 - 14\nury = hzz + bqn\nnyym = 23 - 4\noo = ury * ury\nutuz = 10 - hzz\nWhat is the value of utuz?",
+    "answer": "13"
+  },
+  {
+    "question": "zs = 19 - 17\nhh = 10 + zs\nxfh = zs - hh\nwhkk = xfh + xfh\nxo = 13 + zs\nWhat is the value of xo?",
+    "answer": "15"
+  },
+  {
+    "question": "li = 23 * 9\nxk = 5 - 8\nunjg = li - li\nnxna = 19 + 3\ntlyk = nxna * nxna\nre = 2 - 24\nWhat is the value of tlyk?",
+    "answer": "484"
+  },
+  {
+    "question": "oy = 22 * 18\nfsnl = oy - 12\nym = 12 - 1\nhsu = 9 + 7\newk = fsnl + hsu\nbpln = 2 + 14\nksy = 8 + 12\npqz = 4 * ym\nctk = bpln - 3\nWhat is the value of ctk?",
+    "answer": "13"
+  },
+  {
+    "question": "wttb = 14 - 3\njdp = wttb * 18\nnow = wttb - wttb\nspbz = 4 * now\nyoan = 14 * 2\nksoa = spbz - jdp\nyeo = 17 * 2\ncd = 6 - wttb\npvk = 17 + jdp\nWhat is the value of pvk?",
+    "answer": "215"
+  },
+  {
+    "question": "txrq = 1 + 14\nmug = txrq + txrq\nyhh = mug * txrq\nfkeh = mug - 10\npc = mug * yhh\nWhat is the value of pc?",
+    "answer": "13500"
+  },
+  {
+    "question": "bsm = 25 * 20\ncnab = bsm - 2\njrjb = bsm * cnab\ngwg = cnab - cnab\nbbcu = bsm * 17\nglt = bsm + bsm\nxljo = cnab + bbcu\nWhat is the value of xljo?",
+    "answer": "8998"
+  },
+  {
+    "question": "ld = 22 - 14\nys = ld * 25\ngaoz = ld + 13\nlmdv = 4 - ld\nzwsc = 1 + ld\nWhat is the value of zwsc?",
+    "answer": "9"
+  },
+  {
+    "question": "lhx = 13 + 1\ndk = lhx + lhx\nds = lhx - 21\nad = lhx + ds\nWhat is the value of ad?",
+    "answer": "7"
+  },
+  {
+    "question": "rsex = 17 * 20\nee = rsex - rsex\noj = rsex - ee\nWhat is the value of oj?",
+    "answer": "340"
+  },
+  {
+    "question": "qvci = 2 + 1\nlzwz = qvci * qvci\nwu = lzwz * 18\nqsu = lzwz * qvci\nomw = qvci + 2\nlqu = 6 - lzwz\njed = qvci + 15\nqkj = wu * 10\nWhat is the value of qkj?",
+    "answer": "1620"
+  },
+  {
+    "question": "cgdd = 21 - 1\ndq = 2 + 9\nykyk = dq - cgdd\nfz = cgdd * dq\nke = 24 - fz\nvwaz = fz + fz\njae = cgdd + vwaz\nfhif = 22 + fz\nbzsw = cgdd + fhif\nWhat is the value of bzsw?",
+    "answer": "262"
+  },
+  {
+    "question": "nd = 15 - 2\ncc = 25 + nd\nsmh = cc + cc\ncog = 13 * nd\nWhat is the value of cog?",
+    "answer": "169"
+  },
+  {
+    "question": "jk = 8 + 17\ncrqx = jk - jk\nzalb = crqx * 2\nrd = jk - 9\ngqh = 5 * 15\nmzjy = 16 - rd\nfh = crqx - 15\nzmi = fh * rd\nssh = 15 + mzjy\nme = zmi * crqx\nWhat is the value of me?",
+    "answer": "0"
+  },
+  {
+    "question": "an = 24 - 19\nbvq = an * an\nqpw = an * 1\nWhat is the value of qpw?",
+    "answer": "5"
+  },
+  {
+    "question": "klt = 24 + 13\nhpaf = 14 - 16\nsiam = klt + hpaf\nmoo = 24 + 9\nhhhj = 3 + hpaf\nWhat is the value of hhhj?",
+    "answer": "1"
+  },
+  {
+    "question": "tbs = 25 + 13\noqz = tbs + tbs\nzbzj = tbs + tbs\nat = zbzj - oqz\nmsr = 7 * 23\nzet = at + at\nwt = oqz - 19\nWhat is the value of wt?",
+    "answer": "57"
+  },
+  {
+    "question": "kpb = 9 + 13\nnuev = 12 + kpb\nueq = nuev + kpb\nkmt = 20 - 14\nanea = nuev - 10\npq = kpb - kpb\nWhat is the value of pq?",
+    "answer": "0"
+  },
+  {
+    "question": "lf = 3 + 15\nsb = 18 * 5\ntel = lf - lf\neg = 19 * lf\nWhat is the value of eg?",
+    "answer": "342"
+  },
+  {
+    "question": "eipe = 9 - 1\nzs = 11 + eipe\nvad = eipe * zs\nmp = eipe + 6\nrx = eipe - 2\nzkyv = vad * rx\nqte = zkyv + zkyv\nWhat is the value of qte?",
+    "answer": "1824"
+  },
+  {
+    "question": "smhr = 15 * 17\nns = 9 + smhr\nty = smhr - 23\nxlx = smhr + ty\naxdz = 14 + ty\nptx = 25 * 25\ntt = ptx - ty\nWhat is the value of tt?",
+    "answer": "393"
+  },
+  {
+    "question": "cf = 19 + 23\nqbpw = 3 * cf\nzope = cf - qbpw\nwhac = cf * zope\nhy = 14 - 8\nlc = 22 + cf\nuuur = 4 - 21\nypjz = qbpw * 11\nWhat is the value of ypjz?",
+    "answer": "1386"
+  },
+  {
+    "question": "yk = 17 - 1\nad = 14 - yk\nbfk = yk * yk\nhjr = ad + yk\nbtfp = ad + 23\nnvrt = 8 + 14\nncl = btfp * hjr\nwwc = 5 + yk\nWhat is the value of wwc?",
+    "answer": "21"
+  },
+  {
+    "question": "kxul = 8 - 12\ngoj = 24 - kxul\nqt = goj - 15\ncl = qt * 21\nWhat is the value of cl?",
+    "answer": "273"
+  },
+  {
+    "question": "pr = 3 * 1\nseup = pr + 4\nucdn = seup + seup\nev = pr - seup\njczr = ev + pr\nupyt = ucdn + pr\nWhat is the value of upyt?",
+    "answer": "17"
+  },
+  {
+    "question": "nyn = 2 - 12\nnyjy = nyn - nyn\nyve = nyjy - nyjy\nyy = 25 * yve\naa = 18 + 24\npql = nyn - yy\nmeyb = 8 + 9\nWhat is the value of meyb?",
+    "answer": "17"
+  },
+  {
+    "question": "pqj = 3 - 1\nelhl = 7 - pqj\nxbw = 11 * elhl\ndgqh = xbw - pqj\nha = pqj * elhl\nfrm = 11 - pqj\nsmlv = dgqh * 21\nWhat is the value of smlv?",
+    "answer": "1113"
+  },
+  {
+    "question": "ea = 22 - 9\nhap = 13 * ea\nzv = ea * 8\ncbb = zv * zv\nWhat is the value of cbb?",
+    "answer": "10816"
+  },
+  {
+    "question": "mgdx = 19 - 1\ntsev = mgdx * mgdx\nsue = tsev - mgdx\npdci = tsev * 14\nWhat is the value of pdci?",
+    "answer": "4536"
+  },
+  {
+    "question": "ysw = 10 + 7\nlu = ysw + ysw\nzrz = 17 * lu\nWhat is the value of zrz?",
+    "answer": "578"
+  },
+  {
+    "question": "fb = 1 - 20\nqof = fb * fb\nqa = 15 - 5\nbh = 4 - 22\nchz = qof + fb\noj = qof + 8\nze = chz - bh\nlwy = qa + 8\nWhat is the value of lwy?",
+    "answer": "18"
+  },
+  {
+    "question": "oy = 6 * 3\nsttt = oy * oy\nbe = 19 - oy\nzen = 16 - 4\nkv = oy - sttt\nki = 21 * be\nhug = ki + oy\nulb = 8 - 5\ntwr = 8 - 7\nqmp = 25 + ki\nWhat is the value of qmp?",
+    "answer": "46"
+  },
+  {
+    "question": "vgd = 15 - 3\nxd = vgd * vgd\nncmg = vgd - vgd\nsl = 1 - vgd\nsrob = vgd + xd\nnlnj = sl - vgd\nnp = ncmg * xd\nuqkw = np + 25\nWhat is the value of uqkw?",
+    "answer": "25"
+  },
+  {
+    "question": "it = 18 * 6\nudw = 25 - it\nys = it + udw\nwek = udw * 22\noees = 23 + ys\nfsro = it + wek\nmxmo = 1 - fsro\nwyfc = 24 + fsro\nojgi = fsro - wek\nWhat is the value of ojgi?",
+    "answer": "108"
+  },
+  {
+    "question": "gib = 5 * 21\nojc = gib - gib\nggry = gib + ojc\novsa = 20 - gib\nuprz = ojc + gib\nWhat is the value of uprz?",
+    "answer": "105"
+  },
+  {
+    "question": "xaq = 19 * 7\nvfwa = xaq * xaq\ndset = 17 + xaq\ndajr = 16 - xaq\nbeif = dset * dajr\nlrv = dset - 25\nmb = dajr * dajr\nWhat is the value of mb?",
+    "answer": "13689"
+  },
+  {
+    "question": "ggea = 21 * 23\nasqf = ggea + ggea\ntoj = 6 - 15\ntsep = toj + toj\ndr = 9 + 11\nWhat is the value of dr?",
+    "answer": "20"
+  },
+  {
+    "question": "qgf = 9 - 5\ntcj = 9 * qgf\nyrl = 24 - qgf\nWhat is the value of yrl?",
+    "answer": "20"
+  },
+  {
+    "question": "hq = 2 * 5\nhg = hq - 22\nzpt = 24 * 22\nulx = hq + hq\nouk = 4 - 2\nukm = ouk * hq\ncjrx = 13 + hq\nryp = cjrx + hq\nfqd = ouk * hq\nWhat is the value of fqd?",
+    "answer": "20"
+  },
+  {
+    "question": "skuf = 7 - 9\njav = 3 * 20\nmxbr = jav + jav\nkhwp = jav - mxbr\nqnun = jav - khwp\nWhat is the value of qnun?",
+    "answer": "120"
+  },
+  {
+    "question": "le = 25 + 2\njify = le * le\nanlu = le * le\nayr = anlu * 18\ndb = anlu - anlu\nqgyt = jify + le\nWhat is the value of qgyt?",
+    "answer": "756"
+  },
+  {
+    "question": "vyf = 24 + 20\nwukm = 16 - 4\nkn = wukm + wukm\nycj = kn - wukm\nlayo = wukm + wukm\niyt = 19 + 1\njkf = 16 * 1\neo = jkf + 3\nWhat is the value of eo?",
+    "answer": "19"
+  },
+  {
+    "question": "adq = 21 * 5\nhj = 21 + adq\njgdp = 2 * adq\nvmb = adq * hj\nzzi = vmb * adq\nkqle = zzi + hj\nzv = zzi + zzi\nmll = 10 + 8\nsry = 7 * jgdp\nWhat is the value of sry?",
+    "answer": "1470"
+  },
+  {
+    "question": "lyft = 14 + 9\niol = lyft + lyft\ngadl = lyft + iol\nitb = 7 - 5\nei = iol - lyft\nizf = 12 + 15\nvfx = izf + 2\nodu = 13 + 24\nxryz = izf + ei\nlznn = 16 * 8\nWhat is the value of xryz?",
+    "answer": "50"
+  },
+  {
+    "question": "jqw = 4 * 12\ndctp = 15 - 3\nuli = 10 - jqw\nskln = uli * uli\nzwry = jqw + jqw\nqcmm = 11 + uli\njooy = 17 - 1\nyz = 7 + 19\nWhat is the value of yz?",
+    "answer": "26"
+  },
+  {
+    "question": "bkb = 3 * 16\nccq = bkb - bkb\nowm = bkb * ccq\nhm = 15 * owm\nwj = owm + bkb\npdu = wj * owm\nuxdq = wj + owm\nWhat is the value of uxdq?",
+    "answer": "48"
+  },
+  {
+    "question": "xuom = 10 - 23\nogml = xuom - xuom\nmb = xuom - 8\ndywd = 2 * 1\nlvoo = 18 + ogml\npo = mb * xuom\ndahq = lvoo * 8\njhwk = po - ogml\nWhat is the value of jhwk?",
+    "answer": "273"
+  },
+  {
+    "question": "hto = 20 - 12\nuz = hto - hto\nnxvj = uz + 18\niy = 21 + nxvj\nWhat is the value of iy?",
+    "answer": "39"
+  },
+  {
+    "question": "khah = 13 + 20\nxbxm = khah * khah\ngja = 19 + khah\nuz = 22 * 6\nmv = 16 - 18\nWhat is the value of gja?",
+    "answer": "52"
+  },
+  {
+    "question": "zl = 10 * 23\ndv = 6 - zl\ngmb = dv * 1\nxbo = 17 - gmb\nflef = 24 + dv\noh = xbo + zl\nWhat is the value of oh?",
+    "answer": "471"
+  },
+  {
+    "question": "wzp = 4 - 7\nzj = 17 + 2\nbp = zj - wzp\nsq = zj + zj\nww = wzp + 11\nuki = zj - 24\ndze = uki - uki\npsu = 17 * bp\ndnn = 5 + wzp\nWhat is the value of dnn?",
+    "answer": "2"
+  },
+  {
+    "question": "voqw = 17 + 6\nls = voqw - 1\nsc = voqw - 11\nwg = 6 + 14\nlbs = 18 * 15\nwofl = 25 * 8\nWhat is the value of lbs?",
+    "answer": "270"
+  },
+  {
+    "question": "jk = 10 * 5\nqoyp = 12 * 1\nkz = qoyp - qoyp\nvz = 24 + qoyp\nxc = qoyp + vz\nfu = 18 - qoyp\nqv = fu * 14\njen = 10 + qv\ngkh = 4 * 20\nWhat is the value of gkh?",
+    "answer": "80"
+  },
+  {
+    "question": "tqki = 5 + 25\nxow = tqki + 6\npr = tqki - 6\ndvho = tqki - 14\niot = dvho * 25\npxl = 20 * 9\nWhat is the value of pxl?",
+    "answer": "180"
+  },
+  {
+    "question": "kty = 13 + 16\niohy = kty + kty\nommv = kty * 13\ntjvd = iohy * 22\nWhat is the value of tjvd?",
+    "answer": "1276"
+  },
+  {
+    "question": "vg = 8 + 11\nwqzs = 1 + vg\nwm = vg * vg\ngxw = 13 - wm\ncud = wm + 21\noje = wqzs * wm\nqb = 18 * 18\nfazc = 25 + 20\nzus = wm + fazc\nWhat is the value of zus?",
+    "answer": "406"
+  },
+  {
+    "question": "zezx = 17 * 18\nax = zezx * 18\njj = ax - zezx\nWhat is the value of jj?",
+    "answer": "5202"
+  },
+  {
+    "question": "nk = 9 + 8\nljkv = 22 + 11\nqe = nk * 24\ngw = 2 + ljkv\nyhmf = nk + qe\nxi = gw + 5\nlyf = 14 + ljkv\nWhat is the value of lyf?",
+    "answer": "47"
+  },
+  {
+    "question": "xz = 10 * 7\njna = 12 * xz\nehsk = jna + xz\noqt = 11 + ehsk\nwv = oqt + 3\nqkhp = xz + wv\ngpv = 4 - 24\nprc = 16 * 11\nnf = xz + 16\nWhat is the value of nf?",
+    "answer": "86"
+  },
+  {
+    "question": "erei = 18 + 23\nqh = erei * 11\nol = erei * erei\nxdqe = qh * erei\nvvpw = 1 + 23\nuwb = vvpw - xdqe\njstb = uwb * uwb\nfufm = 11 * 14\nqvb = 18 - 10\nsep = 24 + 16\nWhat is the value of sep?",
+    "answer": "40"
+  },
+  {
+    "question": "kkml = 1 * 18\nnvco = kkml + 3\nwzl = kkml + 3\nrg = kkml - nvco\nbe = 25 * rg\nhj = 7 * rg\ngiie = 7 - hj\nWhat is the value of giie?",
+    "answer": "28"
+  },
+  {
+    "question": "jopb = 8 + 17\nov = jopb + jopb\nii = 3 + jopb\nsyz = 25 * 10\ndkci = 16 + ii\nrk = 4 + 10\njtp = ov - jopb\nWhat is the value of jtp?",
+    "answer": "25"
+  },
+  {
+    "question": "li = 17 + 20\nturu = 21 + 8\nzyk = li + turu\nilpk = zyk - 10\niq = turu - turu\nipf = ilpk + 25\nWhat is the value of ipf?",
+    "answer": "81"
+  },
+  {
+    "question": "kkap = 6 - 10\nnum = 12 * 6\ntjna = 14 * 18\nldsr = 3 * num\nlm = 2 * 20\nWhat is the value of ldsr?",
+    "answer": "216"
+  },
+  {
+    "question": "yi = 11 + 13\nfmia = yi * yi\nwsqr = 10 * fmia\nsqnx = yi + wsqr\nqju = 21 + yi\nwc = fmia * fmia\ndlfg = sqnx * 2\nWhat is the value of dlfg?",
+    "answer": "11568"
+  },
+  {
+    "question": "vyz = 22 - 14\nck = 15 + vyz\nphzk = 18 + 24\nih = ck - 11\noigb = 15 - 19\nyhth = ck + ih\nxh = 13 - 3\nwj = 5 + yhth\nWhat is the value of wj?",
+    "answer": "40"
+  },
+  {
+    "question": "wp = 18 - 6\num = wp - wp\negrs = um * um\noo = 11 - um\nrkoa = 18 - 13\nba = 23 + rkoa\nWhat is the value of ba?",
+    "answer": "28"
+  },
+  {
+    "question": "if = 21 + 20\nlexd = 7 - if\njxf = 7 * 13\nuikf = 19 - 21\ncn = lexd * lexd\nuw = 5 + 8\nWhat is the value of uw?",
+    "answer": "13"
+  },
+  {
+    "question": "brce = 22 * 14\ned = brce - 19\nwn = ed * 14\nWhat is the value of wn?",
+    "answer": "4046"
+  },
+  {
+    "question": "pelz = 1 + 13\nnie = 15 + pelz\njjje = pelz - pelz\nWhat is the value of jjje?",
+    "answer": "0"
+  },
+  {
+    "question": "xhxh = 22 + 18\non = xhxh - 8\nzgnj = 1 + xhxh\nmhz = 16 * on\nnwf = xhxh - 1\nrhw = nwf * on\nwa = 5 + xhxh\nWhat is the value of wa?",
+    "answer": "45"
+  },
+  {
+    "question": "xtg = 5 * 5\nzba = xtg - 12\nrh = 22 - zba\njv = zba * 25\nnl = xtg * jv\nrouy = 9 * zba\nWhat is the value of rouy?",
+    "answer": "117"
+  },
+  {
+    "question": "ka = 3 - 16\nsp = 7 * 11\non = 3 * 16\nidwp = ka * ka\nnqt = ka - 17\nric = 22 - 5\nso = ric + nqt\nckq = so + 16\nWhat is the value of ckq?",
+    "answer": "3"
+  },
+  {
+    "question": "rex = 3 + 24\njcuv = 1 - rex\nns = rex + jcuv\nsjl = 1 + rex\nxpl = sjl - 16\nquxs = ns * xpl\ndjql = 3 + 4\nWhat is the value of djql?",
+    "answer": "7"
+  },
+  {
+    "question": "cplx = 2 * 23\nfpns = cplx * 2\nfh = 22 + fpns\neg = 20 + 19\nsmyc = 22 - cplx\nuub = cplx * fh\nWhat is the value of uub?",
+    "answer": "5244"
+  },
+  {
+    "question": "jvv = 20 * 15\ncc = 12 + jvv\nbug = 22 + cc\nxo = 22 - cc\nhg = bug - 15\nlt = xo - 5\nqnxk = hg + cc\nctm = xo - 19\ndohy = cc - 5\nWhat is the value of dohy?",
+    "answer": "307"
+  },
+  {
+    "question": "sodo = 15 - 19\ngubn = sodo * sodo\nwut = sodo + gubn\ngp = sodo + 11\npm = 14 * wut\nrzia = pm - 15\nauub = sodo - sodo\nWhat is the value of auub?",
+    "answer": "0"
+  },
+  {
+    "question": "jds = 11 * 23\nggy = jds + jds\nfkw = ggy - 10\nWhat is the value of fkw?",
+    "answer": "496"
+  },
+  {
+    "question": "hxq = 7 * 13\nfev = hxq - 18\nlez = 24 + 17\npave = fev - fev\nWhat is the value of pave?",
+    "answer": "0"
+  },
+  {
+    "question": "uhov = 1 - 20\nfq = 3 + 4\nlikv = 5 * fq\nxbwv = likv - 12\nmc = 21 - 21\nwpu = fq - likv\nud = 20 + 6\nWhat is the value of ud?",
+    "answer": "26"
+  },
+  {
+    "question": "jsmd = 2 + 16\nnhqy = 4 + 5\nqxg = jsmd - jsmd\nsr = qxg - 10\nvpo = qxg + 4\ndzm = qxg * 24\ntpfq = 5 + 4\nWhat is the value of tpfq?",
+    "answer": "9"
+  },
+  {
+    "question": "hgik = 13 - 4\nbm = 17 + hgik\ntbu = 18 * 18\nhzpp = tbu - 25\nci = hzpp - tbu\ndw = bm - bm\nWhat is the value of dw?",
+    "answer": "0"
+  },
+  {
+    "question": "mcld = 6 - 24\ntol = mcld * mcld\ndxbf = 1 * 6\nsyor = tol * tol\nognx = mcld - tol\ntxr = 12 * tol\nmo = 24 + 22\nnef = syor * tol\npbxo = ognx - ognx\nhcsx = 2 + txr\nWhat is the value of hcsx?",
+    "answer": "3890"
+  },
+  {
+    "question": "jwe = 16 + 3\nxjqf = jwe * 7\nfhrs = xjqf + 25\nitw = 20 + xjqf\nWhat is the value of itw?",
+    "answer": "153"
+  },
+  {
+    "question": "poi = 22 - 13\nzyy = poi + poi\nykon = zyy * poi\ncoc = zyy * 14\njg = 5 - poi\nwcrp = 19 + 12\nsfwu = poi + coc\nij = wcrp + jg\nWhat is the value of ij?",
+    "answer": "27"
   }
 ]
