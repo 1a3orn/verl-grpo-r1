@@ -4,7 +4,7 @@ export VLLM_ATTENTION_BACKEND=XFORMERS
 
 python3 -m verl.trainer.main_grpo \
     algorithm.adv_estimator=grpo \
-    data.train_files=$DATA_DIR/all_zebralogic_train_True.parquet \
+    data.train_files=$DATA_DIR/all_zebralogic_train_False.parquet \
     data.val_files="[\
 \"$DATA_DIR/all_geography_test_True.parquet\",\
 \"$DATA_DIR/all_gsm8k_test_True.parquet\",\
