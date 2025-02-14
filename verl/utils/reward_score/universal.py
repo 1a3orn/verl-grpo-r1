@@ -2,23 +2,27 @@ import re
 
 
 def compute_score(solution_str, ground_truth, method='strict', format_score=0.0, score=1.):
+    try:
 
-    if is_answer_correct(solution_str, ground_truth):
-        return score
-    else:
-
-        # If we have <answer>...</answer>, then it's 
-        # at least formatted correctly
-
-        # remove example <answer>...</answer>
-        if "<answer>...</answer>" in solution_str:
-            solution_str = solution_str.split("<answer>...</answer>")[1]
-
-        answer_contents = re.findall(r'<answer>(.*?)</answer>', solution_str)
-        if len(answer_contents) > 0:
-            return format_score
+        if is_answer_correct(solution_str, ground_truth):
+            return score
         else:
-            return 0
+
+            # If we have <answer>...</answer>, then it's 
+            # at least formatted correctly
+
+            # remove example <answer>...</answer>
+            if "<answer>...</answer>" in solution_str:
+                solution_str = solution_str.split("<answer>...</answer>")[1]
+
+            answer_contents = re.findall(r'<answer>(.*?)</answer>', solution_str)
+            if len(answer_contents) > 0:
+                return format_score
+            else:
+                return 0
+    except:
+        print(f"Error in compute_score: {solution_str} {ground_truth}")
+        return 0
 
 def is_answer_correct(output: str, ground_truth: dict) -> bool:
 
