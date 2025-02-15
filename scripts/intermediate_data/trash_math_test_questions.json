@@ -1,802 +1,802 @@
 [
   {
-    "question": "What is the result of 13 + 22 - 17 - 16 + 26 + 11 + 13 + 24?",
-    "answer": "76"
+    "question": "What is the result of 42 + 22 - 37 - 40 * 17 + 39 * 24?",
+    "answer": "283"
   },
   {
-    "question": "What is the result of (4 + 34) - 32?",
-    "answer": "6"
+    "question": "What is the result of 22 * 27 + 20 * 20?",
+    "answer": "994"
   },
   {
-    "question": "What is the result of 24 - 20 - 15 + (14 + 19 + 10)?",
-    "answer": "32"
-  },
-  {
-    "question": "What is the result of 19 - 5 - 6 + 13 * 20 * 17 - 5 + 39?",
-    "answer": "4462"
-  },
-  {
-    "question": "What is the result of 20 + 35 * 39?",
-    "answer": "1385"
-  },
-  {
-    "question": "What is the result of 1 - 19 + 8 * 12 * 28 - 33 - 22?",
-    "answer": "2615"
-  },
-  {
-    "question": "What is the result of (35 + 40 * 5)?",
-    "answer": "235"
-  },
-  {
-    "question": "What is the result of 7 - 39 + 1 * 39?",
-    "answer": "7"
-  },
-  {
-    "question": "What is the result of 40 * 38 + 36 + 7 + 16 + 20 + 36 * 31?",
-    "answer": "2715"
-  },
-  {
-    "question": "What is the result of 38 - 1 * 13?",
-    "answer": "25"
-  },
-  {
-    "question": "What is the result of 10 * 9 * 15 + 11 + 34 + 32 - 37?",
-    "answer": "1390"
-  },
-  {
-    "question": "What is the result of 22 - 33 + 7 * 15 - 32?",
-    "answer": "62"
-  },
-  {
-    "question": "What is the result of 25 + 30 + 17?",
-    "answer": "72"
-  },
-  {
-    "question": "What is the result of 11 * 3 * 22 + 33 - 33 + 9 * 31 - 12?",
-    "answer": "993"
-  },
-  {
-    "question": "What is the result of 8 * 19 + (1 + 13 + 18 + 7)?",
-    "answer": "191"
-  },
-  {
-    "question": "What is the result of 38 * 30 + 37 * 17 + 15 + 2?",
-    "answer": "1786"
-  },
-  {
-    "question": "What is the result of 38 - 24 * 24 * (17 - 39) + 13 + 12?",
-    "answer": "12735"
-  },
-  {
-    "question": "What is the result of 11 - 24 + 30 * 36?",
-    "answer": "1067"
-  },
-  {
-    "question": "What is the result of 31 - 37 + 29 + (12 + 5 - 3) + 13?",
-    "answer": "50"
-  },
-  {
-    "question": "What is the result of (13 + 24) - 20 + 15?",
-    "answer": "32"
-  },
-  {
-    "question": "What is the result of 27 + 35 + 37 * 28 * 9 + 13?",
-    "answer": "9399"
-  },
-  {
-    "question": "What is the result of 36 * 26 * 8 - 6?",
-    "answer": "7482"
-  },
-  {
-    "question": "What is the result of 20 - 33 * 3 + 21 + 23 * 21 + 5?",
-    "answer": "430"
-  },
-  {
-    "question": "What is the result of 1 + 1 + 2 * 7 + 36 - 17?",
-    "answer": "35"
-  },
-  {
-    "question": "What is the result of 25 - (10 + 40) + 32 + 22?",
-    "answer": "29"
-  },
-  {
-    "question": "What is the result of (34 * 18) * 9 - 24 + 1?",
-    "answer": "5485"
-  },
-  {
-    "question": "What is the result of (27 + 22 + 40)?",
-    "answer": "89"
-  },
-  {
-    "question": "What is the result of 38 + 26 + 9 + 6?",
-    "answer": "79"
-  },
-  {
-    "question": "What is the result of 9 * (23 + 13) - 29 - 23 * 7?",
-    "answer": "134"
-  },
-  {
-    "question": "What is the result of 40 * 32 + 3 * 11 + 4?",
-    "answer": "1317"
-  },
-  {
-    "question": "What is the result of 34 + 34 - 32 + 12 + 3 - 37 + 34?",
-    "answer": "48"
-  },
-  {
-    "question": "What is the result of (37 + 17) + 2?",
-    "answer": "56"
-  },
-  {
-    "question": "What is the result of (33 - 11 + 6 + 14)?",
-    "answer": "42"
-  },
-  {
-    "question": "What is the result of 32 + 20 * 15?",
-    "answer": "332"
-  },
-  {
-    "question": "What is the result of 14 + 38 - 16 - 22 + 38 + 8 + 25 - 5?",
-    "answer": "80"
-  },
-  {
-    "question": "What is the result of 39 * (5 * 32) + 36?",
-    "answer": "6276"
-  },
-  {
-    "question": "What is the result of (11 * 23 - 32)?",
-    "answer": "221"
-  },
-  {
-    "question": "What is the result of 31 + 37 - 1 + 29 * 5 + 39 + 27 * 29?",
-    "answer": "1034"
-  },
-  {
-    "question": "What is the result of 29 - 1 - (40 - 25 + 5 + 5 - 5)?",
-    "answer": "8"
-  },
-  {
-    "question": "What is the result of 40 * 15 - 19 + 40 + 33 - 33 + 33?",
-    "answer": "654"
-  },
-  {
-    "question": "What is the result of (4 + 37 + 2 * 22) * 30 - 27 - 15 * 7?",
-    "answer": "2418"
-  },
-  {
-    "question": "What is the result of (19 + 37 * 29 - 33)?",
-    "answer": "1059"
-  },
-  {
-    "question": "What is the result of 36 + 12 + 34?",
-    "answer": "82"
-  },
-  {
-    "question": "What is the result of 40 * 31 + 8 * 38?",
-    "answer": "1544"
-  },
-  {
-    "question": "What is the result of 22 * 22 - 14 - 15 + (22 + 37 - 16) - 14?",
-    "answer": "484"
-  },
-  {
-    "question": "What is the result of (4 * 6 + 14 * 26 * 39) + 25?",
-    "answer": "14245"
-  },
-  {
-    "question": "What is the result of 34 * 20 - 40 + 17 - 4 * 12 - 11?",
-    "answer": "598"
-  },
-  {
-    "question": "What is the result of 30 * (18 - 30 + 21)?",
-    "answer": "270"
-  },
-  {
-    "question": "What is the result of 22 + 28 + (33 - 38 + 22 + 22) - 38 - 17?",
-    "answer": "34"
-  },
-  {
-    "question": "What is the result of (21 + 39 * 13)?",
-    "answer": "528"
-  },
-  {
-    "question": "What is the result of 29 + 26 + 38 + 20 + 15 + 14?",
-    "answer": "142"
-  },
-  {
-    "question": "What is the result of 27 + 29 * 35?",
-    "answer": "1042"
-  },
-  {
-    "question": "What is the result of 9 * 34 + 28?",
-    "answer": "334"
-  },
-  {
-    "question": "What is the result of 22 * 35 + 21?",
-    "answer": "791"
-  },
-  {
-    "question": "What is the result of 26 - 35 + 32 * 30 + 20 + 26?",
-    "answer": "997"
-  },
-  {
-    "question": "What is the result of 22 - 7 + 30 - 10 + 14 + 10 + 22?",
-    "answer": "81"
-  },
-  {
-    "question": "What is the result of 12 * 34 * 32 * (40 - 38) - 37 - 26?",
-    "answer": "26049"
-  },
-  {
-    "question": "What is the result of 22 * 5 - 12 + (14 * 24 + 22 + 26) + 3?",
-    "answer": "485"
-  },
-  {
-    "question": "What is the result of 36 - 1 - 28 - 13 + 28?",
+    "question": "What is the result of 23 + 3 * 13 - 18 - 22?",
     "answer": "22"
   },
   {
-    "question": "What is the result of 25 * 28 - 15?",
-    "answer": "685"
+    "question": "What is the result of 33 * 23 * 48 - 34 + 38 - 19?",
+    "answer": "36417"
   },
   {
-    "question": "What is the result of 9 + (18 * 24 + 29 + 35) + 16 + 38?",
-    "answer": "559"
+    "question": "What is the result of 39 + 38 + 38 * 23 * (25 + 41) - 35 - 9 - 37?",
+    "answer": "57680"
   },
   {
-    "question": "What is the result of 21 + 39 * 39?",
-    "answer": "1542"
-  },
-  {
-    "question": "What is the result of 26 * 29 - 27 * 10?",
-    "answer": "484"
-  },
-  {
-    "question": "What is the result of 21 - 40 + 15 * 31 * 5 - 7 + 5?",
-    "answer": "2304"
-  },
-  {
-    "question": "What is the result of 13 * (4 * 35 + 35) - 17 - 32?",
-    "answer": "2226"
-  },
-  {
-    "question": "What is the result of 27 - 24 + 25?",
-    "answer": "28"
-  },
-  {
-    "question": "What is the result of (23 + 2 * 24)?",
-    "answer": "71"
-  },
-  {
-    "question": "What is the result of (37 * 20 + 23)?",
-    "answer": "763"
-  },
-  {
-    "question": "What is the result of 26 + 20 - 14?",
-    "answer": "32"
-  },
-  {
-    "question": "What is the result of 10 + 27 + 6 - (25 - 16 - 8)?",
-    "answer": "42"
-  },
-  {
-    "question": "What is the result of 24 * 35 + 22?",
-    "answer": "862"
-  },
-  {
-    "question": "What is the result of 33 * 4 + 3 + 6 + 6?",
-    "answer": "147"
-  },
-  {
-    "question": "What is the result of (13 * 9) - 36?",
-    "answer": "81"
-  },
-  {
-    "question": "What is the result of 29 * 12 - 26?",
-    "answer": "322"
-  },
-  {
-    "question": "What is the result of 22 * 30 - 3 + 16 + 31 + 36?",
+    "question": "What is the result of 43 - 50 + 28 * 33 - 21 * 6 - 6 * 3 - 33?",
     "answer": "740"
   },
   {
-    "question": "What is the result of 31 * (8 * 17 + 2 * 15 * 8)?",
-    "answer": "11656"
+    "question": "What is the result of 44 - 16 + 47?",
+    "answer": "75"
   },
   {
-    "question": "What is the result of 40 * 23 + 1 + 26 - 2?",
-    "answer": "945"
-  },
-  {
-    "question": "What is the result of (36 * 24 - 6 - 4) - 3 - 23 - 23?",
-    "answer": "805"
-  },
-  {
-    "question": "What is the result of 16 * 9 - 11 - 1 - 21?",
-    "answer": "111"
-  },
-  {
-    "question": "What is the result of 26 + 31 + 25 - 38 + 17 + 16 - 7?",
-    "answer": "70"
-  },
-  {
-    "question": "What is the result of 3 * 14 - 14?",
-    "answer": "28"
-  },
-  {
-    "question": "What is the result of 26 * 25 * 10 + 33 - 15?",
-    "answer": "6518"
-  },
-  {
-    "question": "What is the result of 31 + (14 * 15) + 24 * 9?",
-    "answer": "457"
-  },
-  {
-    "question": "What is the result of (20 * 36 + 10 + 25) * 36 + 21?",
-    "answer": "27201"
-  },
-  {
-    "question": "What is the result of 2 + 31 * 20 - 32?",
-    "answer": "590"
-  },
-  {
-    "question": "What is the result of (31 * 1) + 23?",
-    "answer": "54"
-  },
-  {
-    "question": "What is the result of 35 - 19 + 24 * 26 * 32?",
-    "answer": "19984"
-  },
-  {
-    "question": "What is the result of 10 + 21 + 11 + (8 - 8) * 24?",
-    "answer": "42"
-  },
-  {
-    "question": "What is the result of (29 + 13) + 7?",
-    "answer": "49"
-  },
-  {
-    "question": "What is the result of 11 * 6 * 4 * 35 * 2 + 19?",
-    "answer": "18499"
-  },
-  {
-    "question": "What is the result of (16 * 15 * 30 - 7 - 21 - 25)?",
-    "answer": "7147"
-  },
-  {
-    "question": "What is the result of (19 + 10 - 12)?",
+    "question": "What is the result of 5 + 17 - 5?",
     "answer": "17"
   },
   {
-    "question": "What is the result of 33 - 7 + 18 * 7 + 19?",
-    "answer": "171"
-  },
-  {
-    "question": "What is the result of 25 * 9 + 4 * 26 * 32?",
-    "answer": "3553"
-  },
-  {
-    "question": "What is the result of 24 + 33 * 1 * 18 - 13 - 35 - 32?",
-    "answer": "538"
-  },
-  {
-    "question": "What is the result of 31 * 17 * 7 * 12 + 6?",
-    "answer": "44274"
-  },
-  {
-    "question": "What is the result of (37 + 21 + 8 + 29)?",
-    "answer": "95"
-  },
-  {
-    "question": "What is the result of 27 * 19 - 34?",
-    "answer": "479"
-  },
-  {
-    "question": "What is the result of 7 * 5 * 36 + 13 - 23 * 34?",
-    "answer": "491"
-  },
-  {
-    "question": "What is the result of 10 * 37 * 9?",
-    "answer": "3330"
-  },
-  {
-    "question": "What is the result of (17 + 14 * 37)?",
-    "answer": "535"
-  },
-  {
-    "question": "What is the result of (9 - 27) + 34 + 32?",
-    "answer": "48"
-  },
-  {
-    "question": "What is the result of 23 + 26 - 26 - (3 - 22 + 10)?",
-    "answer": "32"
-  },
-  {
-    "question": "What is the result of 33 + 31 * 13 + 7 - 9?",
-    "answer": "434"
-  },
-  {
-    "question": "What is the result of 26 - 11 + 5 * 25 * 40 + 2 - 2 + 7?",
-    "answer": "5022"
-  },
-  {
-    "question": "What is the result of (16 * 40 * 1)?",
-    "answer": "640"
-  },
-  {
-    "question": "What is the result of 22 * 30 * 36 + 9 * 40 * 8?",
-    "answer": "26640"
-  },
-  {
-    "question": "What is the result of 7 * 38 + 13 - 30?",
-    "answer": "249"
-  },
-  {
-    "question": "What is the result of 13 - 12 - 27 - 13 + 31 + 26 * 23?",
-    "answer": "590"
-  },
-  {
-    "question": "What is the result of 35 + (25 * 36 * 10)?",
-    "answer": "9035"
-  },
-  {
-    "question": "What is the result of 31 * (37 + 14 + 37 * 34)?",
-    "answer": "40579"
-  },
-  {
-    "question": "What is the result of (29 - 7) * 28?",
-    "answer": "616"
-  },
-  {
-    "question": "What is the result of 2 - (1 - 34) + 9 * 14?",
-    "answer": "161"
-  },
-  {
-    "question": "What is the result of (26 + 4) + 10?",
-    "answer": "40"
-  },
-  {
-    "question": "What is the result of 4 * 16 * 12 - 32?",
-    "answer": "736"
-  },
-  {
-    "question": "What is the result of 23 + (3 - 32) + 24?",
-    "answer": "18"
-  },
-  {
-    "question": "What is the result of (29 + 16 * 25 - 19) + 17 * 17 * 33?",
-    "answer": "9947"
-  },
-  {
-    "question": "What is the result of (38 + 5 + 9)?",
-    "answer": "52"
-  },
-  {
-    "question": "What is the result of (39 + 20) * 10?",
-    "answer": "590"
-  },
-  {
-    "question": "What is the result of 1 * 3 * 13 + 11 + 38 * 40?",
-    "answer": "1570"
-  },
-  {
-    "question": "What is the result of 14 * (37 + 15) * 2?",
-    "answer": "1456"
-  },
-  {
-    "question": "What is the result of 1 * 29 + 23 + 12 - 13 + 5 * 12?",
-    "answer": "111"
-  },
-  {
-    "question": "What is the result of 40 + 17 + 5 + 18 * 38?",
-    "answer": "746"
-  },
-  {
-    "question": "What is the result of (31 * 9 + 39 - 23)?",
-    "answer": "295"
-  },
-  {
-    "question": "What is the result of 11 + 16 * 29?",
-    "answer": "475"
-  },
-  {
-    "question": "What is the result of 7 + 2 * 2?",
-    "answer": "11"
-  },
-  {
-    "question": "What is the result of 32 + (3 + 31 + 33)?",
-    "answer": "99"
-  },
-  {
-    "question": "What is the result of (12 + 10 - 8)?",
-    "answer": "14"
-  },
-  {
-    "question": "What is the result of 31 * (1 * 30 + 19 * 11)?",
-    "answer": "7409"
-  },
-  {
-    "question": "What is the result of (17 * 5 - 14) * 28 - 33?",
-    "answer": "1955"
-  },
-  {
-    "question": "What is the result of (28 + 22) * 35?",
-    "answer": "1750"
-  },
-  {
-    "question": "What is the result of 6 + 2 + 15 + 20 - 7?",
-    "answer": "36"
-  },
-  {
-    "question": "What is the result of 10 * 17 + 15 + 35 - 24 * 2 - 30?",
-    "answer": "142"
-  },
-  {
-    "question": "What is the result of 27 + (21 - 20) * 35 * 26?",
-    "answer": "937"
-  },
-  {
-    "question": "What is the result of 12 * 5 - 37 - 14 + 6?",
-    "answer": "15"
-  },
-  {
-    "question": "What is the result of 27 * 24 + 2 * 36?",
-    "answer": "720"
-  },
-  {
-    "question": "What is the result of 18 * 26 - 34?",
-    "answer": "434"
-  },
-  {
-    "question": "What is the result of 35 - 34 + 7 * 5 + 31?",
-    "answer": "67"
-  },
-  {
-    "question": "What is the result of (38 + 28 * 2 - 25 - 4)?",
-    "answer": "65"
-  },
-  {
-    "question": "What is the result of 2 + (25 - 24) + 17?",
-    "answer": "20"
-  },
-  {
-    "question": "What is the result of 11 * 32 * 10 + 35?",
-    "answer": "3555"
-  },
-  {
-    "question": "What is the result of 17 + 15 + 6 + 4?",
-    "answer": "42"
-  },
-  {
-    "question": "What is the result of (37 + 33 - 40 - 13 * 2) + 37 + 9?",
-    "answer": "50"
-  },
-  {
-    "question": "What is the result of 29 * 33 + 37 + 35 + 35 * 12 * 21 - 30?",
-    "answer": "9819"
-  },
-  {
-    "question": "What is the result of 15 - (22 * 29 - 24) + 34 * 30?",
-    "answer": "421"
-  },
-  {
-    "question": "What is the result of (10 * 33) * 6?",
-    "answer": "1980"
-  },
-  {
-    "question": "What is the result of (38 * 35 - 36 + 18 * 32 - 3) - 14?",
-    "answer": "1853"
-  },
-  {
-    "question": "What is the result of 29 + 9 * 3?",
-    "answer": "56"
-  },
-  {
-    "question": "What is the result of (40 * 3 + 9 - 15) * 34 + 7 - 39 + 30?",
-    "answer": "3874"
-  },
-  {
-    "question": "What is the result of 14 - 11 - 13 * 36 + 35 * 25 * 20?",
-    "answer": "17035"
-  },
-  {
-    "question": "What is the result of 37 + 4 * 13 * 5?",
-    "answer": "297"
-  },
-  {
-    "question": "What is the result of 12 + 26 + 17 - 16 + 11 + 33 * 6 * 9?",
-    "answer": "1832"
-  },
-  {
-    "question": "What is the result of 15 * (2 * 27 - 30 + 36)?",
-    "answer": "900"
-  },
-  {
-    "question": "What is the result of (6 * 28) + 3?",
-    "answer": "171"
-  },
-  {
-    "question": "What is the result of 38 + (9 * 21) + 13 - 11 + 8?",
-    "answer": "237"
-  },
-  {
-    "question": "What is the result of 10 * 30 - 9 + (10 * 35 * 11) - 39?",
-    "answer": "4102"
-  },
-  {
-    "question": "What is the result of 8 + 26 * 34 - 2 + 17 * 16?",
-    "answer": "1162"
-  },
-  {
-    "question": "What is the result of 14 - 39 + 19 * 6?",
-    "answer": "89"
-  },
-  {
-    "question": "What is the result of 38 - (32 - 26 * 24 - 22)?",
-    "answer": "652"
-  },
-  {
-    "question": "What is the result of (34 - 35 + 14 * 6 + 18) + 38?",
-    "answer": "139"
-  },
-  {
-    "question": "What is the result of 21 * 36 + 14 + 31 * 27 + 19 + 35 - 22?",
-    "answer": "1639"
-  },
-  {
-    "question": "What is the result of (5 - 3 - 8 + 7 * 27) * 39 + 38?",
-    "answer": "7175"
-  },
-  {
-    "question": "What is the result of 37 * 7 * 16 + 21 + 8 * 17?",
-    "answer": "4301"
-  },
-  {
-    "question": "What is the result of 31 * 1 - (37 * 1 - 8)?",
-    "answer": "2"
-  },
-  {
-    "question": "What is the result of 15 - (7 - 18) + 9?",
-    "answer": "35"
-  },
-  {
-    "question": "What is the result of 21 * 4 - 31 + 26 * 1 - 40 - 7 - 10?",
-    "answer": "22"
-  },
-  {
-    "question": "What is the result of 11 - 11 + 28 * 10 + 3 * 35 - 21?",
-    "answer": "364"
-  },
-  {
-    "question": "What is the result of 30 - 20 - 13 - 38 * 25 + 37 * 30?",
-    "answer": "157"
-  },
-  {
-    "question": "What is the result of 16 + 31 * 40 * 6?",
-    "answer": "7456"
-  },
-  {
-    "question": "What is the result of 24 * 19 + 7 + (25 - 39) * 3?",
-    "answer": "421"
-  },
-  {
-    "question": "What is the result of 8 * 23 - 22?",
-    "answer": "162"
-  },
-  {
-    "question": "What is the result of 18 - 22 + 36?",
-    "answer": "32"
-  },
-  {
-    "question": "What is the result of 3 * 13 * 23?",
-    "answer": "897"
-  },
-  {
-    "question": "What is the result of 25 * 16 - 4?",
-    "answer": "396"
-  },
-  {
-    "question": "What is the result of (36 - 4) - 38 + 40 + 4?",
-    "answer": "38"
-  },
-  {
-    "question": "What is the result of 24 + 6 - 1 - 27 + (30 + 18) - 15 - 7?",
-    "answer": "28"
-  },
-  {
-    "question": "What is the result of (34 + 8 + 34 - 18) + 24?",
-    "answer": "82"
-  },
-  {
-    "question": "What is the result of 5 * 15 - 5 * 16 + 6 + 16 * 9 * 10?",
-    "answer": "1441"
-  },
-  {
-    "question": "What is the result of 28 * (34 * 29 - 38)?",
-    "answer": "26544"
-  },
-  {
-    "question": "What is the result of 7 - 21 + 19 * 3 - 16 + 33?",
+    "question": "What is the result of 4 + 42 + 14?",
     "answer": "60"
   },
   {
-    "question": "What is the result of (11 - 39) + 21 + 24?",
-    "answer": "17"
+    "question": "What is the result of 15 + 39 + 45 - 7 * 8 + 23?",
+    "answer": "66"
   },
   {
-    "question": "What is the result of 13 + 17 + 31?",
-    "answer": "61"
+    "question": "What is the result of (49 + 24 * 29 - 31 + 28)?",
+    "answer": "742"
   },
   {
-    "question": "What is the result of (3 + 35 + 5 + 33)?",
+    "question": "What is the result of 9 + 40 * 3?",
+    "answer": "129"
+  },
+  {
+    "question": "What is the result of 10 * 7 + (38 * 16) + 30?",
+    "answer": "708"
+  },
+  {
+    "question": "What is the result of (9 * 43) * 8?",
+    "answer": "3096"
+  },
+  {
+    "question": "What is the result of 30 * 17 + 25 + 9 - 37?",
+    "answer": "507"
+  },
+  {
+    "question": "What is the result of 12 + 19 + 11 * 19 + 27 * 20 + 50 + 41 - 19?",
+    "answer": "852"
+  },
+  {
+    "question": "What is the result of (24 - 12 + 17 * 18) - 5?",
+    "answer": "313"
+  },
+  {
+    "question": "What is the result of 36 - 25 - 1 + 25 * 41 * (14 + 8 + 17 + 3)?",
+    "answer": "43060"
+  },
+  {
+    "question": "What is the result of 3 - 42 * 26 + 23 * 27 * 39?",
+    "answer": "23130"
+  },
+  {
+    "question": "What is the result of 7 - 20 + 21 * 49 + 28?",
+    "answer": "1044"
+  },
+  {
+    "question": "What is the result of 28 * 2 * 38 * 10 * 1?",
+    "answer": "21280"
+  },
+  {
+    "question": "What is the result of 49 * 23 + 10 - 25?",
+    "answer": "1112"
+  },
+  {
+    "question": "What is the result of (12 * 28 * 12 - 48 * 37)?",
+    "answer": "2256"
+  },
+  {
+    "question": "What is the result of 20 + 19 - 13 - 30 + 8 + (34 * 41) - 20?",
+    "answer": "1378"
+  },
+  {
+    "question": "What is the result of 49 + 12 + 37 * 41 - 23 + 10 - 6 + 48 * 12?",
+    "answer": "2135"
+  },
+  {
+    "question": "What is the result of 47 + 40 * 30?",
+    "answer": "1247"
+  },
+  {
+    "question": "What is the result of 5 + 50 * 4?",
+    "answer": "205"
+  },
+  {
+    "question": "What is the result of 16 - 8 + 9 * 22 + 50 * 46?",
+    "answer": "2506"
+  },
+  {
+    "question": "What is the result of 38 + 6 - 23 * 3 + 14 * 28 * 15 - 32?",
+    "answer": "5823"
+  },
+  {
+    "question": "What is the result of 49 * 31 - 28?",
+    "answer": "1491"
+  },
+  {
+    "question": "What is the result of 10 * 10 - 50?",
+    "answer": "50"
+  },
+  {
+    "question": "What is the result of (40 + 28 * 15) + 31 * 33?",
+    "answer": "1483"
+  },
+  {
+    "question": "What is the result of 49 - 10 + (48 + 32) + 7?",
+    "answer": "126"
+  },
+  {
+    "question": "What is the result of (48 * 48 - 26) - 6?",
+    "answer": "2272"
+  },
+  {
+    "question": "What is the result of 32 * 15 - 49 - 44 + 39 * 33 - 27 + 28 - 49?",
+    "answer": "1626"
+  },
+  {
+    "question": "What is the result of 23 + 14 - 4 + 1?",
+    "answer": "34"
+  },
+  {
+    "question": "What is the result of (27 + 2 + 47 + 25) * 11 + 50?",
+    "answer": "1161"
+  },
+  {
+    "question": "What is the result of 36 + 1 + 14 * 32 * 30 + 48 * 25 + 47 + 31?",
+    "answer": "14755"
+  },
+  {
+    "question": "What is the result of 24 + 40 * 18 * 12 - 18 - 47?",
+    "answer": "8599"
+  },
+  {
+    "question": "What is the result of (13 - 33) + 50?",
+    "answer": "30"
+  },
+  {
+    "question": "What is the result of 16 * 39 + 30 + 18 - (21 - 23 - 2)?",
+    "answer": "676"
+  },
+  {
+    "question": "What is the result of 4 + 33 + 41 * 7 + 43 - 4 + 35?",
+    "answer": "398"
+  },
+  {
+    "question": "What is the result of 33 - (31 - 44) + 28 * 24?",
+    "answer": "718"
+  },
+  {
+    "question": "What is the result of (18 + 11) - 6?",
+    "answer": "23"
+  },
+  {
+    "question": "What is the result of 4 * 2 + 38?",
+    "answer": "46"
+  },
+  {
+    "question": "What is the result of 25 * 23 * 16 + 47 - 3 - 36 - 23 * 23 + 40?",
+    "answer": "8719"
+  },
+  {
+    "question": "What is the result of 40 * 16 - 33 - 16 * 28 - 9 + 36 * 41 + 13?",
+    "answer": "1639"
+  },
+  {
+    "question": "What is the result of 37 - 11 + 13 + 11?",
+    "answer": "50"
+  },
+  {
+    "question": "What is the result of 26 - 14 - (9 - 4 * 28)?",
+    "answer": "115"
+  },
+  {
+    "question": "What is the result of 36 + 50 + 33?",
+    "answer": "119"
+  },
+  {
+    "question": "What is the result of 12 + 25 * 38 - (3 - 38 * 22)?",
+    "answer": "1795"
+  },
+  {
+    "question": "What is the result of 14 * 6 - 29?",
+    "answer": "55"
+  },
+  {
+    "question": "What is the result of 25 - 49 * 13 + 50 * 22 * 46?",
+    "answer": "49988"
+  },
+  {
+    "question": "What is the result of 28 - 22 - 35 + 29 + 43 * 7?",
+    "answer": "301"
+  },
+  {
+    "question": "What is the result of 13 + 1 * 45 - 46 + 50 - 8 + 42 - 13?",
+    "answer": "83"
+  },
+  {
+    "question": "What is the result of (12 * 9) * 1?",
+    "answer": "108"
+  },
+  {
+    "question": "What is the result of 9 - 22 + (14 * 31 + 4 + 38)?",
+    "answer": "463"
+  },
+  {
+    "question": "What is the result of (1 + 16 * 8 - 27 - 39 + 32) + 5?",
+    "answer": "100"
+  },
+  {
+    "question": "What is the result of 41 * 50 + 17 + 29 - 4 - 20 - 49?",
+    "answer": "2023"
+  },
+  {
+    "question": "What is the result of 10 + 42 - 38 + 5?",
+    "answer": "19"
+  },
+  {
+    "question": "What is the result of (38 + 46) - 7?",
+    "answer": "77"
+  },
+  {
+    "question": "What is the result of 2 + (6 * 1) + 28 * 45 * 47?",
+    "answer": "59228"
+  },
+  {
+    "question": "What is the result of 39 - 11 * 31 - 42 + 30 + 19 * 26 * 4?",
+    "answer": "1662"
+  },
+  {
+    "question": "What is the result of 18 + 43 + 8?",
+    "answer": "69"
+  },
+  {
+    "question": "What is the result of 9 * 43 * 21 + 9 - (1 * 5 + 40 - 34) * 1?",
+    "answer": "8125"
+  },
+  {
+    "question": "What is the result of 12 - 24 + 20?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the result of (48 - 25 + 47) - 34?",
+    "answer": "36"
+  },
+  {
+    "question": "What is the result of 42 + 10 * 31 - 16 - 35 * 7?",
+    "answer": "91"
+  },
+  {
+    "question": "What is the result of 46 * 17 + 44 + 16 - 45 - 14?",
+    "answer": "783"
+  },
+  {
+    "question": "What is the result of 39 * 46 * 8 + 23 * 6 + 26 - 25 - 42 - 24?",
+    "answer": "14425"
+  },
+  {
+    "question": "What is the result of 45 - 21 + (47 * 37 - 40) * 44?",
+    "answer": "74780"
+  },
+  {
+    "question": "What is the result of (33 + 26 + 48) * 40?",
+    "answer": "4280"
+  },
+  {
+    "question": "What is the result of 24 * 4 + 22 + 23 - 17 + (35 - 49) + 11?",
+    "answer": "121"
+  },
+  {
+    "question": "What is the result of 19 * 9 + 25 * 13 * 49 - 45 - 22 * 9?",
+    "answer": "15853"
+  },
+  {
+    "question": "What is the result of 37 * 39 - 32?",
+    "answer": "1411"
+  },
+  {
+    "question": "What is the result of 17 * 20 * 24 + 40 * 20 - 50?",
+    "answer": "8910"
+  },
+  {
+    "question": "What is the result of 36 * 13 * 25 - 32 + 31 - 23 * 31 - 40 - 39?",
+    "answer": "10907"
+  },
+  {
+    "question": "What is the result of 22 * 18 + 22?",
+    "answer": "418"
+  },
+  {
+    "question": "What is the result of 7 + 13 + 31 + 25?",
     "answer": "76"
   },
   {
-    "question": "What is the result of (19 * 14 - 30) * 1 + 4?",
-    "answer": "240"
+    "question": "What is the result of 4 * 28 * 12 - 35 - 5?",
+    "answer": "1304"
   },
   {
-    "question": "What is the result of (11 + 27 * 23) + 12 - 19 + 8?",
-    "answer": "633"
+    "question": "What is the result of (34 * 15) - 21?",
+    "answer": "489"
   },
   {
-    "question": "What is the result of 27 * 11 + 29 + 38 + 31 * 38 - 36?",
-    "answer": "1506"
+    "question": "What is the result of 45 * 37 - 30 + (3 + 42 - 32) + 14?",
+    "answer": "1662"
   },
   {
-    "question": "What is the result of 9 + 29 - 2 + 32 * (38 * 2 - 18)?",
-    "answer": "1892"
+    "question": "What is the result of 43 * 44 * 24 + 24 - (31 - 39) * 30?",
+    "answer": "45672"
   },
   {
-    "question": "What is the result of 38 * 38 * 13 + 27 * 30 - 11 * 18?",
-    "answer": "19384"
+    "question": "What is the result of 46 + 39 * 47 * 25 + 2 + 12 + 31?",
+    "answer": "45916"
   },
   {
-    "question": "What is the result of 1 * (31 + 2 * 40)?",
-    "answer": "111"
+    "question": "What is the result of 11 + 31 + 6 + 5 + 37 + 19 - 40?",
+    "answer": "69"
   },
   {
-    "question": "What is the result of 32 * 18 * 21 + 25?",
-    "answer": "12121"
+    "question": "What is the result of (49 + 40 + 5 + 37)?",
+    "answer": "131"
   },
   {
-    "question": "What is the result of 34 + 4 + 36 * 15?",
-    "answer": "578"
+    "question": "What is the result of 21 * 48 + 42 * 27 * 2?",
+    "answer": "3276"
   },
   {
-    "question": "What is the result of 7 * (1 + 22 + 36 - 13)?",
-    "answer": "322"
+    "question": "What is the result of 14 - 32 * 17 + 17 + 36 * 19 + 43?",
+    "answer": "214"
   },
   {
-    "question": "What is the result of 18 * 28 * 32 - 40?",
-    "answer": "16088"
+    "question": "What is the result of 11 * 12 * 29 * 15 - 42?",
+    "answer": "57378"
   },
   {
-    "question": "What is the result of 36 * 8 + 23 + 6 - 40 - 5?",
-    "answer": "272"
+    "question": "What is the result of 25 * 24 * 1 * (19 + 37 - 27)?",
+    "answer": "17400"
   },
   {
-    "question": "What is the result of 38 * 34 + 29 + 38 * 5 * 25 + 39?",
-    "answer": "6110"
+    "question": "What is the result of 14 - 10 + 49 + 35?",
+    "answer": "88"
   },
   {
-    "question": "What is the result of 33 * 19 - 4 + 23 + 22 * 5 * 40 - 40?",
-    "answer": "5006"
+    "question": "What is the result of (40 + 10 - 40)?",
+    "answer": "10"
   },
   {
-    "question": "What is the result of 6 + 37 * (32 * 24 + 38)?",
-    "answer": "29828"
+    "question": "What is the result of 5 + 6 - 45 + 37?",
+    "answer": "3"
   },
   {
-    "question": "What is the result of 6 + (13 - 14) * 11 + 28 - 9?",
+    "question": "What is the result of 7 + 46 + 1 - 5 + 6 * 17 * 32 - 7?",
+    "answer": "3306"
+  },
+  {
+    "question": "What is the result of 20 + 1 + 41?",
+    "answer": "62"
+  },
+  {
+    "question": "What is the result of (40 + 11) + 10?",
+    "answer": "61"
+  },
+  {
+    "question": "What is the result of 28 - 35 + 41 * (15 + 30) * 14 - 5 * 25 + 41?",
+    "answer": "25739"
+  },
+  {
+    "question": "What is the result of (4 + 26 * 9) - 38?",
+    "answer": "200"
+  },
+  {
+    "question": "What is the result of (49 + 47 * 10 + 33 - 37)?",
+    "answer": "515"
+  },
+  {
+    "question": "What is the result of 3 + 42 * 26 * 40?",
+    "answer": "43683"
+  },
+  {
+    "question": "What is the result of (8 + 25) + 18 - 10?",
+    "answer": "41"
+  },
+  {
+    "question": "What is the result of 10 * 8 - 16 - 31 + 25?",
+    "answer": "58"
+  },
+  {
+    "question": "What is the result of 25 + 32 * (25 - 15 + 3)?",
+    "answer": "441"
+  },
+  {
+    "question": "What is the result of 21 * 9 * 7?",
+    "answer": "1323"
+  },
+  {
+    "question": "What is the result of 19 - 25 * 24 * 22 + 35 * 13 * 32?",
+    "answer": "1379"
+  },
+  {
+    "question": "What is the result of 48 + 25 * 7 * 48 - (38 + 22 * 2 - 45 + 47)?",
+    "answer": "8364"
+  },
+  {
+    "question": "What is the result of 36 * 36 * 29 - 19 + 36 + 19 - 25 - 3 + 12?",
+    "answer": "37604"
+  },
+  {
+    "question": "What is the result of 36 - 5 - 25 - 38 + 33?",
+    "answer": "1"
+  },
+  {
+    "question": "What is the result of 34 + (49 + 48) * 22 * 20?",
+    "answer": "42714"
+  },
+  {
+    "question": "What is the result of (44 + 17 * 9) * 39?",
+    "answer": "7683"
+  },
+  {
+    "question": "What is the result of 45 + 23 * 35 * (24 - 46 + 35 + 48 + 40)?",
+    "answer": "81350"
+  },
+  {
+    "question": "What is the result of 12 + 48 * 16 + 42?",
+    "answer": "822"
+  },
+  {
+    "question": "What is the result of 44 + 12 * 4 - 7 + 31?",
+    "answer": "116"
+  },
+  {
+    "question": "What is the result of 40 - 45 + 49 * 26?",
+    "answer": "1269"
+  },
+  {
+    "question": "What is the result of 12 * 33 + 21 - 49 + 1 * 8 - 20 + 3 - 43?",
+    "answer": "316"
+  },
+  {
+    "question": "What is the result of 28 + 36 + 31 * 46 * 33 - 15 - 18?",
+    "answer": "47089"
+  },
+  {
+    "question": "What is the result of 33 + 4 * 45 - 4 - 28 + 11?",
+    "answer": "192"
+  },
+  {
+    "question": "What is the result of 21 + 12 + 35?",
+    "answer": "68"
+  },
+  {
+    "question": "What is the result of 50 * (15 * 7 * 17) + 25?",
+    "answer": "89275"
+  },
+  {
+    "question": "What is the result of 39 * 33 * 49 + 29 * 37 - 34 * (18 * 23 - 2)?",
+    "answer": "50128"
+  },
+  {
+    "question": "What is the result of 16 + 33 + 29 + 8 - 11 + 20 + 42 + 12?",
+    "answer": "149"
+  },
+  {
+    "question": "What is the result of 31 + 36 + 49 - (32 * 1 + 3) + 15 + 9 + 36?",
+    "answer": "141"
+  },
+  {
+    "question": "What is the result of 21 - 5 * 13 + 31 + 22?",
+    "answer": "9"
+  },
+  {
+    "question": "What is the result of 20 - 33 + 32 * 4 + 14?",
+    "answer": "129"
+  },
+  {
+    "question": "What is the result of 8 + 8 * 18 + 3?",
+    "answer": "155"
+  },
+  {
+    "question": "What is the result of 5 * 6 + 3 + 33 - 31 + (28 * 43) + 25 - 8?",
+    "answer": "1256"
+  },
+  {
+    "question": "What is the result of (43 - 1 * 14 + 25 + 19 * 24 * 47 + 31 * 3)?",
+    "answer": "21579"
+  },
+  {
+    "question": "What is the result of (49 - 50) * 36 + 7 * 23?",
+    "answer": "125"
+  },
+  {
+    "question": "What is the result of 37 - 8 + 37 + 18 - 9 - 39 + 23?",
+    "answer": "59"
+  },
+  {
+    "question": "What is the result of (12 - 9 + 1 * 12 - 8)?",
+    "answer": "7"
+  },
+  {
+    "question": "What is the result of 15 * 18 + 2 * 13 * 29 + 7 + 45 - 46?",
+    "answer": "1030"
+  },
+  {
+    "question": "What is the result of 37 + 7 - 40 - 50 + 28 + 20?",
+    "answer": "2"
+  },
+  {
+    "question": "What is the result of 15 + 42 + 2 - 12 - 6 + 8?",
+    "answer": "49"
+  },
+  {
+    "question": "What is the result of 37 - 40 - 11 + 14 * 6 + 12 * 36 + 3 + 17?",
+    "answer": "522"
+  },
+  {
+    "question": "What is the result of 13 + 50 + 20 + 37 * 39 - 39 + 47 - 19?",
+    "answer": "1515"
+  },
+  {
+    "question": "What is the result of 40 - (4 - 42 - 44)?",
+    "answer": "122"
+  },
+  {
+    "question": "What is the result of 33 * 50 + 25 * 7 + 11 * 48?",
+    "answer": "2353"
+  },
+  {
+    "question": "What is the result of (21 * 19 * 42)?",
+    "answer": "16758"
+  },
+  {
+    "question": "What is the result of 50 + 46 + 20 + 5 * 49 + 31 + 50 + 49 * 36?",
+    "answer": "2206"
+  },
+  {
+    "question": "What is the result of 1 * (49 * 31) - 22?",
+    "answer": "1497"
+  },
+  {
+    "question": "What is the result of 30 + 12 - 19 * (26 - 13 * 35 - 12)?",
+    "answer": "8421"
+  },
+  {
+    "question": "What is the result of 11 * 36 - 1 * 6 - 12 + 46?",
+    "answer": "424"
+  },
+  {
+    "question": "What is the result of (21 * 23) * 4 - 22 * 2 + 40 - 9 + 47?",
+    "answer": "1966"
+  },
+  {
+    "question": "What is the result of 36 * (42 - 21 - 4) * 37?",
+    "answer": "22644"
+  },
+  {
+    "question": "What is the result of 27 - 21 * 16 - 37 - 47 + 34 * 20 * 11?",
+    "answer": "7087"
+  },
+  {
+    "question": "What is the result of 20 * 34 + 36 + 15 - 48 - 26?",
+    "answer": "657"
+  },
+  {
+    "question": "What is the result of (31 + 10 + 39 * 18 - 24 + 27)?",
+    "answer": "746"
+  },
+  {
+    "question": "What is the result of 12 + 3 + 15 * 40 + 3 + 50?",
+    "answer": "668"
+  },
+  {
+    "question": "What is the result of 34 - (11 - 25) * 41 * 41?",
+    "answer": "23568"
+  },
+  {
+    "question": "What is the result of 46 + 49 - 38 + 3 + 8 + 16?",
+    "answer": "84"
+  },
+  {
+    "question": "What is the result of 20 + 36 + 50?",
+    "answer": "106"
+  },
+  {
+    "question": "What is the result of 41 * 37 * (30 + 11 + 3) + 3 - 29 - 16?",
+    "answer": "66706"
+  },
+  {
+    "question": "What is the result of 39 * 28 - 33 - 28?",
+    "answer": "1031"
+  },
+  {
+    "question": "What is the result of 26 + 42 * 34 * 47 - 12 * 11?",
+    "answer": "67010"
+  },
+  {
+    "question": "What is the result of 19 + 17 - 19 + 30 + (29 - 49 + 17)?",
+    "answer": "44"
+  },
+  {
+    "question": "What is the result of 34 - 1 + 31 + 21 + 30 * 34 + 33 * 10 * 30?",
+    "answer": "11005"
+  },
+  {
+    "question": "What is the result of 34 * (19 - 2 + 36) - 30 * 8 + 44?",
+    "answer": "1606"
+  },
+  {
+    "question": "What is the result of 23 + (31 * 21) - 29?",
+    "answer": "645"
+  },
+  {
+    "question": "What is the result of 48 + 49 * 2?",
+    "answer": "146"
+  },
+  {
+    "question": "What is the result of 13 - 20 + 40 + 23 + 46?",
+    "answer": "102"
+  },
+  {
+    "question": "What is the result of 26 * 9 * 48 - 1?",
+    "answer": "11231"
+  },
+  {
+    "question": "What is the result of 17 * 13 * 32?",
+    "answer": "7072"
+  },
+  {
+    "question": "What is the result of 29 * 12 * 4?",
+    "answer": "1392"
+  },
+  {
+    "question": "What is the result of 8 + 42 + 22 - 20 - 47?",
+    "answer": "5"
+  },
+  {
+    "question": "What is the result of 10 - 19 + 30 - 1 - 15 + 16 + 2 + 5 + 38?",
+    "answer": "66"
+  },
+  {
+    "question": "What is the result of 9 * 7 + 7 + 31 * 20 * 29?",
+    "answer": "18050"
+  },
+  {
+    "question": "What is the result of (8 - 23 - 5 - 34 + 37) + 4 * 21?",
+    "answer": "67"
+  },
+  {
+    "question": "What is the result of 22 + (19 + 25 * 44 - 10 - 40 - 8) - 25?",
+    "answer": "1058"
+  },
+  {
+    "question": "What is the result of 17 - 49 + 24 - 44 * 47 + 41 * 41 * 16?",
+    "answer": "24820"
+  },
+  {
+    "question": "What is the result of 18 + 4 - 50 + 46 * 40 + 29 * 38 * 6?",
+    "answer": "8424"
+  },
+  {
+    "question": "What is the result of 28 + 26 - 36?",
+    "answer": "18"
+  },
+  {
+    "question": "What is the result of 21 - 2 + 8 + 21 + 25 * 21?",
+    "answer": "573"
+  },
+  {
+    "question": "What is the result of 15 - 1 + 50 - 19 + 39?",
+    "answer": "84"
+  },
+  {
+    "question": "What is the result of 18 * 11 * 4 * 4 * 28 + 4?",
+    "answer": "88708"
+  },
+  {
+    "question": "What is the result of (3 * 1) * 16?",
+    "answer": "48"
+  },
+  {
+    "question": "What is the result of 16 + 14 * 8 + 41 - (32 - 2 * 50)?",
+    "answer": "237"
+  },
+  {
+    "question": "What is the result of 22 * 44 * 6 + 22 - (43 - 17 + 1) - 39 + 10?",
+    "answer": "5774"
+  },
+  {
+    "question": "What is the result of 8 + 5 + 50 + 44 + 22 - 36?",
+    "answer": "93"
+  },
+  {
+    "question": "What is the result of 17 * 15 * 20 - 42 + (22 * 1 * 34 - 10)?",
+    "answer": "5796"
+  },
+  {
+    "question": "What is the result of 2 + 41 * 9?",
+    "answer": "371"
+  },
+  {
+    "question": "What is the result of 39 + 43 * 37 * 35 - 50 + 18 - 37 - 49?",
+    "answer": "55606"
+  },
+  {
+    "question": "What is the result of 7 - (4 + 28 - 42)?",
+    "answer": "17"
+  },
+  {
+    "question": "What is the result of (38 + 2) * 43?",
+    "answer": "1720"
+  },
+  {
+    "question": "What is the result of 27 - 35 + 6 * 24 + 8 - 23 + 30 * 4 - 9?",
+    "answer": "232"
+  },
+  {
+    "question": "What is the result of 44 * 17 + 9 * (34 - 9) - 23?",
+    "answer": "950"
+  },
+  {
+    "question": "What is the result of 19 + (11 - 49 - 34) + 20 + 40?",
+    "answer": "7"
+  },
+  {
+    "question": "What is the result of 47 * 25 * 38?",
+    "answer": "44650"
+  },
+  {
+    "question": "What is the result of 18 - 7 * 1?",
+    "answer": "11"
+  },
+  {
+    "question": "What is the result of 47 * 34 + 34 + (1 + 28 + 38) - 9?",
+    "answer": "1690"
+  },
+  {
+    "question": "What is the result of (36 - 2) * 4 * 48?",
+    "answer": "6528"
+  },
+  {
+    "question": "What is the result of 30 * 18 * 32 - (7 * 15) * 1?",
+    "answer": "17175"
+  },
+  {
+    "question": "What is the result of 32 * 48 - 34 + 27 - 24 * 37 - 26 + 20 - 12?",
+    "answer": "623"
+  },
+  {
+    "question": "What is the result of (17 * 14) * 8?",
+    "answer": "1904"
+  },
+  {
+    "question": "What is the result of 27 + 32 - 13 - 45 - 12 + 31 * 7 - 21 + 43?",
+    "answer": "228"
+  },
+  {
+    "question": "What is the result of 46 - 48 - 36 + 27 + 50 * 1 * 38 - 18 + 41?",
+    "answer": "1912"
+  },
+  {
+    "question": "What is the result of (20 * 16 * 19)?",
+    "answer": "6080"
+  },
+  {
+    "question": "What is the result of 28 * 30 + (2 - 5 - 45)?",
+    "answer": "792"
+  },
+  {
+    "question": "What is the result of 31 + (43 - 2 + 38 + 33)?",
+    "answer": "143"
+  },
+  {
+    "question": "What is the result of 9 + 45 - 40?",
     "answer": "14"
   },
   {
-    "question": "What is the result of (38 - 24 - 2)?",
-    "answer": "12"
-  },
-  {
-    "question": "What is the result of 27 + 14 - 13 + 40 + 37 * 40 - 29?",
-    "answer": "1519"
+    "question": "What is the result of (48 + 2 * 22)?",
+    "answer": "92"
   }
 ]

@@ -19,8 +19,8 @@ def handle_files(read_file, write_file, data_source, check_only_format=False):
 
         # Append some instructions about <think> and <answer>
         addition = (
-            "First, please think step-by-step about how to get the right answer inside <think>...</think> tags. "
-            "You may use any technique you want to arrive at an answer or check that it is right."
+            "First, please think step-by-step about how to get the right answer. "
+            "You may use any technique you want to find the answer or check that it is right."
             "Afterwards, write the answer and only the answer inside <answer>...</answer> tags."
         )
         full_prompt = f"{question_str} {addition}"
