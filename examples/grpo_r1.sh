@@ -17,11 +17,11 @@ python3 -m verl.trainer.main_grpo \
 \"$DATA_DIR/all_zebralogic_test_False.parquet\",\
 \"$DATA_DIR/all_var_math_test_False.parquet\"\
 ]" \
-    data.train_batch_size=6 \
-    data.val_batch_size=6 \
+    data.train_batch_size=2 \
+    data.val_batch_size=2 \
     data.max_prompt_length=512 \
     data.max_response_length=3000 \
-    actor_rollout_ref.model.path="./models/Qwen2.5-7B-Instruct" \
+    actor_rollout_ref.model.path="./models/Qwen2.5-3B-Instruct" \
     actor_rollout_ref.actor.optim.lr=1e-6 \
     actor_rollout_ref.model.use_remove_padding=True \
     actor_rollout_ref.actor.ppo_mini_batch_size=25 \
@@ -46,7 +46,7 @@ python3 -m verl.trainer.main_grpo \
     trainer.critic_warmup=0 \
     trainer.logger=['console','wandb'] \
     trainer.project_name="grpo_generalization_4" \
-    trainer.experiment_name="train_zebralogic_02_large" \
+    trainer.experiment_name="train_zebralogic_03_smaller_batch_higher_lr" \
     trainer.n_gpus_per_node=2 \
     trainer.nnodes=1 \
     trainer.save_freq=-1 \
