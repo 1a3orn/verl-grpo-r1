@@ -20,7 +20,7 @@ python3 -m verl.trainer.main_grpo \
     data.train_batch_size=2 \
     data.val_batch_size=2 \
     data.max_prompt_length=512 \
-    data.max_response_length=3000 \
+    data.max_response_length=4000 \
     actor_rollout_ref.model.path="./models/Qwen2.5-3B-Instruct" \
     actor_rollout_ref.actor.optim.lr=1e-6 \
     actor_rollout_ref.model.use_remove_padding=True \
@@ -29,7 +29,7 @@ python3 -m verl.trainer.main_grpo \
     actor_rollout_ref.actor.use_kl_loss=True \
     actor_rollout_ref.actor.kl_loss_coef=0.001 \
     actor_rollout_ref.actor.kl_loss_type=low_var_kl \
-    actor_rollout_ref.model.enable_gradient_checkpointing=True \
+    actor_rollout_ref.model.enable_gradient_checkpointing=True \g
     actor_rollout_ref.actor.fsdp_config.param_offload=False \
     actor_rollout_ref.actor.fsdp_config.grad_offload=False \
     actor_rollout_ref.actor.fsdp_config.optimizer_offload=False \
