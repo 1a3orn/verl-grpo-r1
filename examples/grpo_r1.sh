@@ -41,8 +41,8 @@ python3 -m verl.trainer.main_grpo \
     actor_rollout_ref.ref.log_prob_micro_batch_size_per_gpu=1 \
     actor_rollout_ref.ref.fsdp_config.param_offload=True \
     algorithm.kl_ctrl.kl_coef=0.001 \
-    critic.ppo_micro_batch_size=1 \
-    critic.ppo_mini_batch_size=1 \
+    critic.ppo_micro_batch_size=2 \
+    critic.ppo_mini_batch_size=2 \
     trainer.critic_warmup=0 \
     trainer.logger=['console','wandb'] \
     trainer.project_name="grpo_generalization_4" \
